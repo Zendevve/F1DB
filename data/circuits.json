@@ -1,1 +1,44 @@
-
+{
+  "circuits": [
+    {
+      "circuit_id": 1,
+      "name": "Silverstone",
+      "location": "United Kingdom",
+      "length_km": 5.89,
+      "turns": 18,
+      "built_year": "1943-01-01"
+    },
+    {
+      "circuit_id": 2,
+      "name": "Monza",
+      "location": "Italy",
+      "length_km": 5.79,
+      "turns": 11,
+      "built_year": "1922-01-01"
+    },
+    {
+      "circuit_id": 3,
+      "name": "Spa-Francorchamps",
+      "location": "Belgium",
+      "length_km": 7.00,
+      "turns": 19,
+      "built_year": "1921-01-01"
+    },
+    {
+      "circuit_id": 4,
+      "name": "Monaco",
+      "location": "Monaco",
+      "length_km": 3.34,
+      "turns": 19,
+      "built_year": "1929-01-01"
+    },
+    {
+      "circuit_id": 5,
+      "name": "Suzuka",
+      "location": "Japan",
+      "length_km": 5.81,
+      "turns": 18,
+      "built_year": "1962-01-01"
+    }
+  ]
+}

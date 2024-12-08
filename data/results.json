@@ -1,0 +1,8002 @@
+[
+  {
+    "result_id": 1,
+    "race_id": 70,
+    "driver_id": 46,
+    "position": 4,
+    "fastest_lap_time": "12:53 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 2,
+    "race_id": 68,
+    "driver_id": 98,
+    "position": 12,
+    "fastest_lap_time": "4:06 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 3,
+    "race_id": 40,
+    "driver_id": 89,
+    "position": 18,
+    "fastest_lap_time": "1:43 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 4,
+    "race_id": 100,
+    "driver_id": 31,
+    "position": 7,
+    "fastest_lap_time": "11:34 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 5,
+    "race_id": 25,
+    "driver_id": 61,
+    "position": 9,
+    "fastest_lap_time": "7:46 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 6,
+    "race_id": 10,
+    "driver_id": 93,
+    "position": 17,
+    "fastest_lap_time": "12:02 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 7,
+    "race_id": 23,
+    "driver_id": 40,
+    "position": 20,
+    "fastest_lap_time": "12:13 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 8,
+    "race_id": 6,
+    "driver_id": 91,
+    "position": 9,
+    "fastest_lap_time": "5:53 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 9,
+    "race_id": 59,
+    "driver_id": 33,
+    "position": 14,
+    "fastest_lap_time": "7:54 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 10,
+    "race_id": 12,
+    "driver_id": 20,
+    "position": 19,
+    "fastest_lap_time": "3:17 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 11,
+    "race_id": 17,
+    "driver_id": 1,
+    "position": 2,
+    "fastest_lap_time": "3:22 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 12,
+    "race_id": 69,
+    "driver_id": 22,
+    "position": 3,
+    "fastest_lap_time": "9:12 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 13,
+    "race_id": 6,
+    "driver_id": 92,
+    "position": 15,
+    "fastest_lap_time": "5:38 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 14,
+    "race_id": 50,
+    "driver_id": 73,
+    "position": 12,
+    "fastest_lap_time": "3:02 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 15,
+    "race_id": 22,
+    "driver_id": 16,
+    "position": 5,
+    "fastest_lap_time": "2:05 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 16,
+    "race_id": 55,
+    "driver_id": 92,
+    "position": 18,
+    "fastest_lap_time": "11:05 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 17,
+    "race_id": 100,
+    "driver_id": 95,
+    "position": 12,
+    "fastest_lap_time": "11:33 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 18,
+    "race_id": 86,
+    "driver_id": 92,
+    "position": 4,
+    "fastest_lap_time": "9:37 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 19,
+    "race_id": 61,
+    "driver_id": 38,
+    "position": 8,
+    "fastest_lap_time": "11:08 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 20,
+    "race_id": 83,
+    "driver_id": 54,
+    "position": 20,
+    "fastest_lap_time": "10:18 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 21,
+    "race_id": 31,
+    "driver_id": 57,
+    "position": 20,
+    "fastest_lap_time": "2:22 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 22,
+    "race_id": 90,
+    "driver_id": 37,
+    "position": 4,
+    "fastest_lap_time": "9:50 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 23,
+    "race_id": 92,
+    "driver_id": 58,
+    "position": 15,
+    "fastest_lap_time": "4:25 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 24,
+    "race_id": 66,
+    "driver_id": 2,
+    "position": 19,
+    "fastest_lap_time": "3:59 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 25,
+    "race_id": 23,
+    "driver_id": 8,
+    "position": 6,
+    "fastest_lap_time": "6:23 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 26,
+    "race_id": 6,
+    "driver_id": 89,
+    "position": 19,
+    "fastest_lap_time": "11:46 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 27,
+    "race_id": 69,
+    "driver_id": 57,
+    "position": 20,
+    "fastest_lap_time": "1:57 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 28,
+    "race_id": 1,
+    "driver_id": 47,
+    "position": 3,
+    "fastest_lap_time": "4:27 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 29,
+    "race_id": 88,
+    "driver_id": 20,
+    "position": 14,
+    "fastest_lap_time": "6:17 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 30,
+    "race_id": 14,
+    "driver_id": 23,
+    "position": 17,
+    "fastest_lap_time": "5:14 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 31,
+    "race_id": 83,
+    "driver_id": 45,
+    "position": 1,
+    "fastest_lap_time": "9:47 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 32,
+    "race_id": 3,
+    "driver_id": 18,
+    "position": 10,
+    "fastest_lap_time": "12:36 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 33,
+    "race_id": 100,
+    "driver_id": 75,
+    "position": 6,
+    "fastest_lap_time": "4:53 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 34,
+    "race_id": 78,
+    "driver_id": 53,
+    "position": 2,
+    "fastest_lap_time": "11:45 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 35,
+    "race_id": 19,
+    "driver_id": 66,
+    "position": 7,
+    "fastest_lap_time": "4:17 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 36,
+    "race_id": 59,
+    "driver_id": 42,
+    "position": 10,
+    "fastest_lap_time": "1:29 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 37,
+    "race_id": 70,
+    "driver_id": 2,
+    "position": 11,
+    "fastest_lap_time": "12:40 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 38,
+    "race_id": 54,
+    "driver_id": 47,
+    "position": 7,
+    "fastest_lap_time": "11:56 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 39,
+    "race_id": 70,
+    "driver_id": 35,
+    "position": 3,
+    "fastest_lap_time": "10:42 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 40,
+    "race_id": 28,
+    "driver_id": 18,
+    "position": 7,
+    "fastest_lap_time": "12:40 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 41,
+    "race_id": 57,
+    "driver_id": 19,
+    "position": 8,
+    "fastest_lap_time": "6:01 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 42,
+    "race_id": 2,
+    "driver_id": 38,
+    "position": 16,
+    "fastest_lap_time": "7:04 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 43,
+    "race_id": 54,
+    "driver_id": 20,
+    "position": 8,
+    "fastest_lap_time": "12:08 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 44,
+    "race_id": 78,
+    "driver_id": 29,
+    "position": 15,
+    "fastest_lap_time": "4:14 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 45,
+    "race_id": 72,
+    "driver_id": 63,
+    "position": 7,
+    "fastest_lap_time": "6:13 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 46,
+    "race_id": 33,
+    "driver_id": 64,
+    "position": 1,
+    "fastest_lap_time": "6:15 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 47,
+    "race_id": 45,
+    "driver_id": 31,
+    "position": 18,
+    "fastest_lap_time": "5:46 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 48,
+    "race_id": 54,
+    "driver_id": 39,
+    "position": 17,
+    "fastest_lap_time": "5:59 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 49,
+    "race_id": 90,
+    "driver_id": 42,
+    "position": 13,
+    "fastest_lap_time": "6:43 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 50,
+    "race_id": 2,
+    "driver_id": 59,
+    "position": 4,
+    "fastest_lap_time": "1:57 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 51,
+    "race_id": 91,
+    "driver_id": 25,
+    "position": 5,
+    "fastest_lap_time": "5:49 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 52,
+    "race_id": 91,
+    "driver_id": 11,
+    "position": 12,
+    "fastest_lap_time": "10:05 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 53,
+    "race_id": 68,
+    "driver_id": 39,
+    "position": 6,
+    "fastest_lap_time": "6:40 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 54,
+    "race_id": 63,
+    "driver_id": 26,
+    "position": 20,
+    "fastest_lap_time": "6:43 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 55,
+    "race_id": 20,
+    "driver_id": 59,
+    "position": 9,
+    "fastest_lap_time": "6:53 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 56,
+    "race_id": 70,
+    "driver_id": 98,
+    "position": 8,
+    "fastest_lap_time": "4:11 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 57,
+    "race_id": 100,
+    "driver_id": 25,
+    "position": 9,
+    "fastest_lap_time": "4:53 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 58,
+    "race_id": 20,
+    "driver_id": 92,
+    "position": 12,
+    "fastest_lap_time": "7:27 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 59,
+    "race_id": 31,
+    "driver_id": 55,
+    "position": 6,
+    "fastest_lap_time": "9:08 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 60,
+    "race_id": 45,
+    "driver_id": 58,
+    "position": 16,
+    "fastest_lap_time": "1:51 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 61,
+    "race_id": 46,
+    "driver_id": 86,
+    "position": 18,
+    "fastest_lap_time": "12:11 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 62,
+    "race_id": 43,
+    "driver_id": 22,
+    "position": 7,
+    "fastest_lap_time": "1:11 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 63,
+    "race_id": 52,
+    "driver_id": 65,
+    "position": 1,
+    "fastest_lap_time": "5:08 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 64,
+    "race_id": 27,
+    "driver_id": 4,
+    "position": 7,
+    "fastest_lap_time": "5:52 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 65,
+    "race_id": 12,
+    "driver_id": 9,
+    "position": 15,
+    "fastest_lap_time": "6:22 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 66,
+    "race_id": 95,
+    "driver_id": 51,
+    "position": 1,
+    "fastest_lap_time": "6:18 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 67,
+    "race_id": 49,
+    "driver_id": 97,
+    "position": 6,
+    "fastest_lap_time": "4:14 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 68,
+    "race_id": 58,
+    "driver_id": 30,
+    "position": 10,
+    "fastest_lap_time": "11:25 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 69,
+    "race_id": 50,
+    "driver_id": 49,
+    "position": 7,
+    "fastest_lap_time": "11:55 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 70,
+    "race_id": 31,
+    "driver_id": 66,
+    "position": 5,
+    "fastest_lap_time": "3:09 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 71,
+    "race_id": 92,
+    "driver_id": 52,
+    "position": 18,
+    "fastest_lap_time": "1:45 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 72,
+    "race_id": 28,
+    "driver_id": 67,
+    "position": 7,
+    "fastest_lap_time": "12:17 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 73,
+    "race_id": 90,
+    "driver_id": 100,
+    "position": 10,
+    "fastest_lap_time": "11:05 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 74,
+    "race_id": 90,
+    "driver_id": 31,
+    "position": 10,
+    "fastest_lap_time": "11:06 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 75,
+    "race_id": 87,
+    "driver_id": 66,
+    "position": 14,
+    "fastest_lap_time": "2:38 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 76,
+    "race_id": 42,
+    "driver_id": 63,
+    "position": 20,
+    "fastest_lap_time": "4:47 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 77,
+    "race_id": 27,
+    "driver_id": 41,
+    "position": 17,
+    "fastest_lap_time": "9:20 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 78,
+    "race_id": 45,
+    "driver_id": 71,
+    "position": 16,
+    "fastest_lap_time": "6:15 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 79,
+    "race_id": 1,
+    "driver_id": 11,
+    "position": 13,
+    "fastest_lap_time": "6:32 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 80,
+    "race_id": 100,
+    "driver_id": 60,
+    "position": 13,
+    "fastest_lap_time": "11:04 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 81,
+    "race_id": 29,
+    "driver_id": 58,
+    "position": 11,
+    "fastest_lap_time": "1:48 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 82,
+    "race_id": 85,
+    "driver_id": 25,
+    "position": 10,
+    "fastest_lap_time": "4:31 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 83,
+    "race_id": 70,
+    "driver_id": 99,
+    "position": 12,
+    "fastest_lap_time": "10:35 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 84,
+    "race_id": 80,
+    "driver_id": 72,
+    "position": 10,
+    "fastest_lap_time": "12:14 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 85,
+    "race_id": 50,
+    "driver_id": 3,
+    "position": 11,
+    "fastest_lap_time": "2:24 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 86,
+    "race_id": 54,
+    "driver_id": 6,
+    "position": 17,
+    "fastest_lap_time": "1:59 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 87,
+    "race_id": 33,
+    "driver_id": 34,
+    "position": 11,
+    "fastest_lap_time": "3:13 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 88,
+    "race_id": 12,
+    "driver_id": 22,
+    "position": 5,
+    "fastest_lap_time": "2:38 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 89,
+    "race_id": 27,
+    "driver_id": 60,
+    "position": 3,
+    "fastest_lap_time": "9:10 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 90,
+    "race_id": 83,
+    "driver_id": 10,
+    "position": 5,
+    "fastest_lap_time": "4:28 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 91,
+    "race_id": 10,
+    "driver_id": 99,
+    "position": 2,
+    "fastest_lap_time": "12:19 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 92,
+    "race_id": 43,
+    "driver_id": 38,
+    "position": 18,
+    "fastest_lap_time": "12:55 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 93,
+    "race_id": 74,
+    "driver_id": 94,
+    "position": 18,
+    "fastest_lap_time": "8:20 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 94,
+    "race_id": 52,
+    "driver_id": 44,
+    "position": 2,
+    "fastest_lap_time": "3:40 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 95,
+    "race_id": 95,
+    "driver_id": 83,
+    "position": 12,
+    "fastest_lap_time": "10:13 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 96,
+    "race_id": 36,
+    "driver_id": 12,
+    "position": 8,
+    "fastest_lap_time": "2:00 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 97,
+    "race_id": 88,
+    "driver_id": 83,
+    "position": 12,
+    "fastest_lap_time": "12:53 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 98,
+    "race_id": 64,
+    "driver_id": 57,
+    "position": 14,
+    "fastest_lap_time": "10:24 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 99,
+    "race_id": 92,
+    "driver_id": 3,
+    "position": 11,
+    "fastest_lap_time": "4:23 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 100,
+    "race_id": 18,
+    "driver_id": 1,
+    "position": 10,
+    "fastest_lap_time": "4:39 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 101,
+    "race_id": 17,
+    "driver_id": 37,
+    "position": 11,
+    "fastest_lap_time": "1:51 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 102,
+    "race_id": 90,
+    "driver_id": 17,
+    "position": 14,
+    "fastest_lap_time": "4:48 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 103,
+    "race_id": 86,
+    "driver_id": 88,
+    "position": 2,
+    "fastest_lap_time": "4:36 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 104,
+    "race_id": 45,
+    "driver_id": 68,
+    "position": 14,
+    "fastest_lap_time": "12:15 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 105,
+    "race_id": 9,
+    "driver_id": 91,
+    "position": 8,
+    "fastest_lap_time": "11:29 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 106,
+    "race_id": 44,
+    "driver_id": 46,
+    "position": 15,
+    "fastest_lap_time": "9:42 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 107,
+    "race_id": 39,
+    "driver_id": 20,
+    "position": 5,
+    "fastest_lap_time": "10:07 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 108,
+    "race_id": 87,
+    "driver_id": 54,
+    "position": 2,
+    "fastest_lap_time": "5:21 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 109,
+    "race_id": 1,
+    "driver_id": 89,
+    "position": 7,
+    "fastest_lap_time": "12:17 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 110,
+    "race_id": 70,
+    "driver_id": 33,
+    "position": 7,
+    "fastest_lap_time": "2:10 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 111,
+    "race_id": 58,
+    "driver_id": 41,
+    "position": 8,
+    "fastest_lap_time": "12:15 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 112,
+    "race_id": 5,
+    "driver_id": 3,
+    "position": 3,
+    "fastest_lap_time": "6:06 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 113,
+    "race_id": 78,
+    "driver_id": 17,
+    "position": 9,
+    "fastest_lap_time": "11:31 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 114,
+    "race_id": 82,
+    "driver_id": 90,
+    "position": 2,
+    "fastest_lap_time": "8:55 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 115,
+    "race_id": 73,
+    "driver_id": 42,
+    "position": 19,
+    "fastest_lap_time": "4:15 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 116,
+    "race_id": 69,
+    "driver_id": 29,
+    "position": 1,
+    "fastest_lap_time": "12:26 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 117,
+    "race_id": 78,
+    "driver_id": 36,
+    "position": 3,
+    "fastest_lap_time": "4:54 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 118,
+    "race_id": 75,
+    "driver_id": 60,
+    "position": 11,
+    "fastest_lap_time": "5:06 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 119,
+    "race_id": 99,
+    "driver_id": 29,
+    "position": 5,
+    "fastest_lap_time": "4:47 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 120,
+    "race_id": 67,
+    "driver_id": 56,
+    "position": 4,
+    "fastest_lap_time": "7:59 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 121,
+    "race_id": 16,
+    "driver_id": 11,
+    "position": 1,
+    "fastest_lap_time": "11:42 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 122,
+    "race_id": 90,
+    "driver_id": 36,
+    "position": 1,
+    "fastest_lap_time": "5:50 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 123,
+    "race_id": 61,
+    "driver_id": 55,
+    "position": 12,
+    "fastest_lap_time": "11:28 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 124,
+    "race_id": 81,
+    "driver_id": 21,
+    "position": 8,
+    "fastest_lap_time": "9:34 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 125,
+    "race_id": 40,
+    "driver_id": 43,
+    "position": 14,
+    "fastest_lap_time": "11:52 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 126,
+    "race_id": 91,
+    "driver_id": 30,
+    "position": 4,
+    "fastest_lap_time": "2:55 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 127,
+    "race_id": 33,
+    "driver_id": 15,
+    "position": 5,
+    "fastest_lap_time": "8:19 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 128,
+    "race_id": 46,
+    "driver_id": 83,
+    "position": 12,
+    "fastest_lap_time": "2:05 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 129,
+    "race_id": 98,
+    "driver_id": 49,
+    "position": 3,
+    "fastest_lap_time": "9:38 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 130,
+    "race_id": 98,
+    "driver_id": 49,
+    "position": 9,
+    "fastest_lap_time": "8:26 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 131,
+    "race_id": 53,
+    "driver_id": 20,
+    "position": 3,
+    "fastest_lap_time": "9:21 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 132,
+    "race_id": 8,
+    "driver_id": 19,
+    "position": 17,
+    "fastest_lap_time": "2:16 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 133,
+    "race_id": 73,
+    "driver_id": 22,
+    "position": 11,
+    "fastest_lap_time": "5:20 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 134,
+    "race_id": 72,
+    "driver_id": 22,
+    "position": 14,
+    "fastest_lap_time": "7:38 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 135,
+    "race_id": 94,
+    "driver_id": 67,
+    "position": 14,
+    "fastest_lap_time": "9:42 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 136,
+    "race_id": 18,
+    "driver_id": 4,
+    "position": 3,
+    "fastest_lap_time": "11:42 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 137,
+    "race_id": 96,
+    "driver_id": 84,
+    "position": 10,
+    "fastest_lap_time": "5:35 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 138,
+    "race_id": 96,
+    "driver_id": 69,
+    "position": 12,
+    "fastest_lap_time": "5:26 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 139,
+    "race_id": 3,
+    "driver_id": 23,
+    "position": 19,
+    "fastest_lap_time": "5:11 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 140,
+    "race_id": 50,
+    "driver_id": 88,
+    "position": 15,
+    "fastest_lap_time": "2:09 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 141,
+    "race_id": 78,
+    "driver_id": 73,
+    "position": 18,
+    "fastest_lap_time": "6:55 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 142,
+    "race_id": 68,
+    "driver_id": 23,
+    "position": 16,
+    "fastest_lap_time": "12:57 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 143,
+    "race_id": 99,
+    "driver_id": 71,
+    "position": 14,
+    "fastest_lap_time": "5:04 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 144,
+    "race_id": 76,
+    "driver_id": 56,
+    "position": 4,
+    "fastest_lap_time": "12:33 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 145,
+    "race_id": 29,
+    "driver_id": 71,
+    "position": 5,
+    "fastest_lap_time": "2:49 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 146,
+    "race_id": 12,
+    "driver_id": 88,
+    "position": 7,
+    "fastest_lap_time": "6:02 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 147,
+    "race_id": 76,
+    "driver_id": 56,
+    "position": 16,
+    "fastest_lap_time": "6:01 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 148,
+    "race_id": 55,
+    "driver_id": 33,
+    "position": 8,
+    "fastest_lap_time": "10:27 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 149,
+    "race_id": 48,
+    "driver_id": 77,
+    "position": 15,
+    "fastest_lap_time": "2:00 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 150,
+    "race_id": 33,
+    "driver_id": 4,
+    "position": 10,
+    "fastest_lap_time": "2:48 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 151,
+    "race_id": 14,
+    "driver_id": 79,
+    "position": 13,
+    "fastest_lap_time": "3:59 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 152,
+    "race_id": 11,
+    "driver_id": 40,
+    "position": 1,
+    "fastest_lap_time": "2:57 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 153,
+    "race_id": 19,
+    "driver_id": 80,
+    "position": 14,
+    "fastest_lap_time": "1:59 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 154,
+    "race_id": 83,
+    "driver_id": 75,
+    "position": 9,
+    "fastest_lap_time": "3:27 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 155,
+    "race_id": 11,
+    "driver_id": 87,
+    "position": 4,
+    "fastest_lap_time": "4:26 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 156,
+    "race_id": 56,
+    "driver_id": 44,
+    "position": 12,
+    "fastest_lap_time": "4:09 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 157,
+    "race_id": 86,
+    "driver_id": 7,
+    "position": 13,
+    "fastest_lap_time": "1:46 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 158,
+    "race_id": 74,
+    "driver_id": 19,
+    "position": 17,
+    "fastest_lap_time": "10:49 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 159,
+    "race_id": 89,
+    "driver_id": 86,
+    "position": 10,
+    "fastest_lap_time": "12:01 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 160,
+    "race_id": 95,
+    "driver_id": 50,
+    "position": 2,
+    "fastest_lap_time": "3:17 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 161,
+    "race_id": 91,
+    "driver_id": 38,
+    "position": 5,
+    "fastest_lap_time": "8:36 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 162,
+    "race_id": 31,
+    "driver_id": 10,
+    "position": 5,
+    "fastest_lap_time": "5:45 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 163,
+    "race_id": 23,
+    "driver_id": 30,
+    "position": 2,
+    "fastest_lap_time": "3:31 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 164,
+    "race_id": 67,
+    "driver_id": 32,
+    "position": 20,
+    "fastest_lap_time": "2:55 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 165,
+    "race_id": 75,
+    "driver_id": 83,
+    "position": 5,
+    "fastest_lap_time": "11:02 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 166,
+    "race_id": 35,
+    "driver_id": 33,
+    "position": 1,
+    "fastest_lap_time": "6:27 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 167,
+    "race_id": 47,
+    "driver_id": 33,
+    "position": 17,
+    "fastest_lap_time": "4:33 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 168,
+    "race_id": 51,
+    "driver_id": 94,
+    "position": 13,
+    "fastest_lap_time": "5:12 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 169,
+    "race_id": 35,
+    "driver_id": 58,
+    "position": 5,
+    "fastest_lap_time": "10:24 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 170,
+    "race_id": 86,
+    "driver_id": 48,
+    "position": 1,
+    "fastest_lap_time": "1:09 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 171,
+    "race_id": 27,
+    "driver_id": 84,
+    "position": 18,
+    "fastest_lap_time": "5:01 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 172,
+    "race_id": 39,
+    "driver_id": 20,
+    "position": 1,
+    "fastest_lap_time": "2:21 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 173,
+    "race_id": 100,
+    "driver_id": 79,
+    "position": 12,
+    "fastest_lap_time": "12:10 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 174,
+    "race_id": 61,
+    "driver_id": 52,
+    "position": 11,
+    "fastest_lap_time": "3:12 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 175,
+    "race_id": 4,
+    "driver_id": 55,
+    "position": 16,
+    "fastest_lap_time": "5:28 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 176,
+    "race_id": 97,
+    "driver_id": 51,
+    "position": 15,
+    "fastest_lap_time": "7:30 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 177,
+    "race_id": 76,
+    "driver_id": 78,
+    "position": 16,
+    "fastest_lap_time": "11:53 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 178,
+    "race_id": 33,
+    "driver_id": 22,
+    "position": 19,
+    "fastest_lap_time": "7:20 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 179,
+    "race_id": 94,
+    "driver_id": 82,
+    "position": 1,
+    "fastest_lap_time": "11:55 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 180,
+    "race_id": 56,
+    "driver_id": 78,
+    "position": 16,
+    "fastest_lap_time": "8:15 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 181,
+    "race_id": 4,
+    "driver_id": 85,
+    "position": 19,
+    "fastest_lap_time": "4:47 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 182,
+    "race_id": 83,
+    "driver_id": 98,
+    "position": 16,
+    "fastest_lap_time": "10:42 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 183,
+    "race_id": 41,
+    "driver_id": 92,
+    "position": 16,
+    "fastest_lap_time": "12:53 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 184,
+    "race_id": 13,
+    "driver_id": 92,
+    "position": 18,
+    "fastest_lap_time": "2:00 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 185,
+    "race_id": 93,
+    "driver_id": 85,
+    "position": 19,
+    "fastest_lap_time": "10:44 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 186,
+    "race_id": 14,
+    "driver_id": 34,
+    "position": 13,
+    "fastest_lap_time": "7:02 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 187,
+    "race_id": 35,
+    "driver_id": 33,
+    "position": 6,
+    "fastest_lap_time": "2:38 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 188,
+    "race_id": 72,
+    "driver_id": 28,
+    "position": 16,
+    "fastest_lap_time": "3:04 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 189,
+    "race_id": 85,
+    "driver_id": 91,
+    "position": 7,
+    "fastest_lap_time": "9:45 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 190,
+    "race_id": 83,
+    "driver_id": 84,
+    "position": 10,
+    "fastest_lap_time": "6:27 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 191,
+    "race_id": 47,
+    "driver_id": 13,
+    "position": 8,
+    "fastest_lap_time": "1:32 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 192,
+    "race_id": 61,
+    "driver_id": 33,
+    "position": 7,
+    "fastest_lap_time": "11:16 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 193,
+    "race_id": 36,
+    "driver_id": 48,
+    "position": 5,
+    "fastest_lap_time": "9:53 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 194,
+    "race_id": 96,
+    "driver_id": 30,
+    "position": 13,
+    "fastest_lap_time": "4:31 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 195,
+    "race_id": 53,
+    "driver_id": 19,
+    "position": 19,
+    "fastest_lap_time": "7:51 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 196,
+    "race_id": 52,
+    "driver_id": 75,
+    "position": 5,
+    "fastest_lap_time": "2:34 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 197,
+    "race_id": 39,
+    "driver_id": 66,
+    "position": 6,
+    "fastest_lap_time": "11:14 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 198,
+    "race_id": 93,
+    "driver_id": 45,
+    "position": 12,
+    "fastest_lap_time": "8:22 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 199,
+    "race_id": 18,
+    "driver_id": 61,
+    "position": 3,
+    "fastest_lap_time": "12:47 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 200,
+    "race_id": 89,
+    "driver_id": 4,
+    "position": 9,
+    "fastest_lap_time": "11:18 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 201,
+    "race_id": 31,
+    "driver_id": 4,
+    "position": 3,
+    "fastest_lap_time": "1:43 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 202,
+    "race_id": 3,
+    "driver_id": 13,
+    "position": 10,
+    "fastest_lap_time": "1:59 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 203,
+    "race_id": 64,
+    "driver_id": 74,
+    "position": 19,
+    "fastest_lap_time": "5:15 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 204,
+    "race_id": 76,
+    "driver_id": 55,
+    "position": 3,
+    "fastest_lap_time": "9:33 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 205,
+    "race_id": 8,
+    "driver_id": 25,
+    "position": 4,
+    "fastest_lap_time": "9:02 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 206,
+    "race_id": 79,
+    "driver_id": 11,
+    "position": 4,
+    "fastest_lap_time": "9:47 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 207,
+    "race_id": 90,
+    "driver_id": 19,
+    "position": 13,
+    "fastest_lap_time": "2:15 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 208,
+    "race_id": 61,
+    "driver_id": 62,
+    "position": 5,
+    "fastest_lap_time": "4:22 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 209,
+    "race_id": 45,
+    "driver_id": 66,
+    "position": 14,
+    "fastest_lap_time": "11:15 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 210,
+    "race_id": 53,
+    "driver_id": 63,
+    "position": 8,
+    "fastest_lap_time": "9:12 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 211,
+    "race_id": 40,
+    "driver_id": 74,
+    "position": 10,
+    "fastest_lap_time": "10:42 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 212,
+    "race_id": 87,
+    "driver_id": 15,
+    "position": 20,
+    "fastest_lap_time": "2:02 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 213,
+    "race_id": 25,
+    "driver_id": 40,
+    "position": 8,
+    "fastest_lap_time": "6:05 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 214,
+    "race_id": 89,
+    "driver_id": 9,
+    "position": 14,
+    "fastest_lap_time": "8:11 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 215,
+    "race_id": 69,
+    "driver_id": 96,
+    "position": 18,
+    "fastest_lap_time": "2:44 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 216,
+    "race_id": 88,
+    "driver_id": 60,
+    "position": 8,
+    "fastest_lap_time": "3:46 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 217,
+    "race_id": 85,
+    "driver_id": 58,
+    "position": 5,
+    "fastest_lap_time": "4:50 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 218,
+    "race_id": 32,
+    "driver_id": 95,
+    "position": 20,
+    "fastest_lap_time": "5:24 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 219,
+    "race_id": 6,
+    "driver_id": 29,
+    "position": 1,
+    "fastest_lap_time": "4:23 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 220,
+    "race_id": 60,
+    "driver_id": 5,
+    "position": 9,
+    "fastest_lap_time": "12:16 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 221,
+    "race_id": 91,
+    "driver_id": 60,
+    "position": 14,
+    "fastest_lap_time": "7:33 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 222,
+    "race_id": 99,
+    "driver_id": 56,
+    "position": 18,
+    "fastest_lap_time": "9:00 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 223,
+    "race_id": 47,
+    "driver_id": 87,
+    "position": 9,
+    "fastest_lap_time": "11:46 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 224,
+    "race_id": 61,
+    "driver_id": 87,
+    "position": 7,
+    "fastest_lap_time": "7:27 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 225,
+    "race_id": 38,
+    "driver_id": 71,
+    "position": 13,
+    "fastest_lap_time": "7:38 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 226,
+    "race_id": 77,
+    "driver_id": 21,
+    "position": 17,
+    "fastest_lap_time": "7:07 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 227,
+    "race_id": 53,
+    "driver_id": 39,
+    "position": 1,
+    "fastest_lap_time": "2:05 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 228,
+    "race_id": 12,
+    "driver_id": 65,
+    "position": 7,
+    "fastest_lap_time": "9:16 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 229,
+    "race_id": 2,
+    "driver_id": 16,
+    "position": 9,
+    "fastest_lap_time": "12:17 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 230,
+    "race_id": 57,
+    "driver_id": 13,
+    "position": 12,
+    "fastest_lap_time": "3:03 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 231,
+    "race_id": 29,
+    "driver_id": 57,
+    "position": 11,
+    "fastest_lap_time": "11:53 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 232,
+    "race_id": 96,
+    "driver_id": 33,
+    "position": 11,
+    "fastest_lap_time": "3:44 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 233,
+    "race_id": 47,
+    "driver_id": 91,
+    "position": 4,
+    "fastest_lap_time": "6:16 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 234,
+    "race_id": 38,
+    "driver_id": 58,
+    "position": 2,
+    "fastest_lap_time": "4:52 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 235,
+    "race_id": 31,
+    "driver_id": 33,
+    "position": 18,
+    "fastest_lap_time": "7:41 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 236,
+    "race_id": 30,
+    "driver_id": 52,
+    "position": 10,
+    "fastest_lap_time": "6:20 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 237,
+    "race_id": 57,
+    "driver_id": 24,
+    "position": 19,
+    "fastest_lap_time": "3:22 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 238,
+    "race_id": 57,
+    "driver_id": 53,
+    "position": 19,
+    "fastest_lap_time": "7:36 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 239,
+    "race_id": 6,
+    "driver_id": 28,
+    "position": 4,
+    "fastest_lap_time": "10:11 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 240,
+    "race_id": 3,
+    "driver_id": 69,
+    "position": 17,
+    "fastest_lap_time": "3:50 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 241,
+    "race_id": 1,
+    "driver_id": 93,
+    "position": 10,
+    "fastest_lap_time": "8:19 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 242,
+    "race_id": 98,
+    "driver_id": 13,
+    "position": 16,
+    "fastest_lap_time": "1:39 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 243,
+    "race_id": 48,
+    "driver_id": 30,
+    "position": 20,
+    "fastest_lap_time": "3:25 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 244,
+    "race_id": 95,
+    "driver_id": 55,
+    "position": 18,
+    "fastest_lap_time": "4:24 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 245,
+    "race_id": 72,
+    "driver_id": 59,
+    "position": 3,
+    "fastest_lap_time": "12:22 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 246,
+    "race_id": 97,
+    "driver_id": 41,
+    "position": 15,
+    "fastest_lap_time": "9:25 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 247,
+    "race_id": 54,
+    "driver_id": 45,
+    "position": 17,
+    "fastest_lap_time": "10:05 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 248,
+    "race_id": 37,
+    "driver_id": 4,
+    "position": 18,
+    "fastest_lap_time": "3:41 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 249,
+    "race_id": 29,
+    "driver_id": 89,
+    "position": 6,
+    "fastest_lap_time": "4:07 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 250,
+    "race_id": 24,
+    "driver_id": 68,
+    "position": 2,
+    "fastest_lap_time": "4:09 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 251,
+    "race_id": 60,
+    "driver_id": 13,
+    "position": 17,
+    "fastest_lap_time": "8:02 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 252,
+    "race_id": 56,
+    "driver_id": 12,
+    "position": 2,
+    "fastest_lap_time": "9:38 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 253,
+    "race_id": 21,
+    "driver_id": 75,
+    "position": 3,
+    "fastest_lap_time": "5:05 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 254,
+    "race_id": 65,
+    "driver_id": 76,
+    "position": 13,
+    "fastest_lap_time": "5:39 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 255,
+    "race_id": 47,
+    "driver_id": 26,
+    "position": 14,
+    "fastest_lap_time": "11:07 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 256,
+    "race_id": 83,
+    "driver_id": 100,
+    "position": 2,
+    "fastest_lap_time": "7:12 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 257,
+    "race_id": 37,
+    "driver_id": 99,
+    "position": 5,
+    "fastest_lap_time": "5:51 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 258,
+    "race_id": 64,
+    "driver_id": 99,
+    "position": 14,
+    "fastest_lap_time": "1:06 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 259,
+    "race_id": 2,
+    "driver_id": 61,
+    "position": 4,
+    "fastest_lap_time": "7:26 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 260,
+    "race_id": 82,
+    "driver_id": 36,
+    "position": 9,
+    "fastest_lap_time": "3:35 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 261,
+    "race_id": 27,
+    "driver_id": 11,
+    "position": 16,
+    "fastest_lap_time": "9:24 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 262,
+    "race_id": 52,
+    "driver_id": 8,
+    "position": 6,
+    "fastest_lap_time": "7:27 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 263,
+    "race_id": 84,
+    "driver_id": 35,
+    "position": 11,
+    "fastest_lap_time": "10:32 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 264,
+    "race_id": 37,
+    "driver_id": 16,
+    "position": 20,
+    "fastest_lap_time": "5:30 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 265,
+    "race_id": 93,
+    "driver_id": 64,
+    "position": 13,
+    "fastest_lap_time": "2:58 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 266,
+    "race_id": 64,
+    "driver_id": 13,
+    "position": 16,
+    "fastest_lap_time": "12:56 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 267,
+    "race_id": 68,
+    "driver_id": 85,
+    "position": 1,
+    "fastest_lap_time": "12:26 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 268,
+    "race_id": 48,
+    "driver_id": 57,
+    "position": 19,
+    "fastest_lap_time": "1:09 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 269,
+    "race_id": 56,
+    "driver_id": 65,
+    "position": 12,
+    "fastest_lap_time": "1:40 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 270,
+    "race_id": 78,
+    "driver_id": 87,
+    "position": 19,
+    "fastest_lap_time": "12:49 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 271,
+    "race_id": 83,
+    "driver_id": 77,
+    "position": 11,
+    "fastest_lap_time": "4:55 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 272,
+    "race_id": 84,
+    "driver_id": 31,
+    "position": 18,
+    "fastest_lap_time": "8:01 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 273,
+    "race_id": 2,
+    "driver_id": 5,
+    "position": 8,
+    "fastest_lap_time": "12:22 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 274,
+    "race_id": 47,
+    "driver_id": 58,
+    "position": 3,
+    "fastest_lap_time": "10:54 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 275,
+    "race_id": 18,
+    "driver_id": 75,
+    "position": 20,
+    "fastest_lap_time": "6:21 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 276,
+    "race_id": 75,
+    "driver_id": 4,
+    "position": 16,
+    "fastest_lap_time": "6:04 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 277,
+    "race_id": 31,
+    "driver_id": 81,
+    "position": 15,
+    "fastest_lap_time": "4:12 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 278,
+    "race_id": 14,
+    "driver_id": 14,
+    "position": 15,
+    "fastest_lap_time": "12:10 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 279,
+    "race_id": 72,
+    "driver_id": 91,
+    "position": 7,
+    "fastest_lap_time": "5:47 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 280,
+    "race_id": 80,
+    "driver_id": 26,
+    "position": 2,
+    "fastest_lap_time": "9:59 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 281,
+    "race_id": 70,
+    "driver_id": 67,
+    "position": 7,
+    "fastest_lap_time": "2:47 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 282,
+    "race_id": 33,
+    "driver_id": 64,
+    "position": 13,
+    "fastest_lap_time": "3:00 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 283,
+    "race_id": 43,
+    "driver_id": 23,
+    "position": 19,
+    "fastest_lap_time": "6:28 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 284,
+    "race_id": 53,
+    "driver_id": 54,
+    "position": 13,
+    "fastest_lap_time": "3:41 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 285,
+    "race_id": 55,
+    "driver_id": 68,
+    "position": 14,
+    "fastest_lap_time": "2:15 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 286,
+    "race_id": 9,
+    "driver_id": 40,
+    "position": 5,
+    "fastest_lap_time": "6:12 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 287,
+    "race_id": 57,
+    "driver_id": 29,
+    "position": 17,
+    "fastest_lap_time": "7:44 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 288,
+    "race_id": 12,
+    "driver_id": 14,
+    "position": 3,
+    "fastest_lap_time": "11:24 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 289,
+    "race_id": 42,
+    "driver_id": 55,
+    "position": 2,
+    "fastest_lap_time": "9:24 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 290,
+    "race_id": 21,
+    "driver_id": 27,
+    "position": 16,
+    "fastest_lap_time": "7:28 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 291,
+    "race_id": 70,
+    "driver_id": 37,
+    "position": 6,
+    "fastest_lap_time": "5:09 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 292,
+    "race_id": 91,
+    "driver_id": 53,
+    "position": 4,
+    "fastest_lap_time": "12:08 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 293,
+    "race_id": 29,
+    "driver_id": 76,
+    "position": 20,
+    "fastest_lap_time": "10:20 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 294,
+    "race_id": 29,
+    "driver_id": 30,
+    "position": 15,
+    "fastest_lap_time": "9:10 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 295,
+    "race_id": 70,
+    "driver_id": 62,
+    "position": 6,
+    "fastest_lap_time": "5:09 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 296,
+    "race_id": 77,
+    "driver_id": 98,
+    "position": 10,
+    "fastest_lap_time": "2:50 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 297,
+    "race_id": 48,
+    "driver_id": 83,
+    "position": 9,
+    "fastest_lap_time": "7:04 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 298,
+    "race_id": 86,
+    "driver_id": 67,
+    "position": 11,
+    "fastest_lap_time": "11:53 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 299,
+    "race_id": 27,
+    "driver_id": 48,
+    "position": 19,
+    "fastest_lap_time": "12:44 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 300,
+    "race_id": 17,
+    "driver_id": 83,
+    "position": 4,
+    "fastest_lap_time": "2:46 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 301,
+    "race_id": 56,
+    "driver_id": 10,
+    "position": 6,
+    "fastest_lap_time": "3:31 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 302,
+    "race_id": 98,
+    "driver_id": 59,
+    "position": 9,
+    "fastest_lap_time": "3:58 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 303,
+    "race_id": 100,
+    "driver_id": 69,
+    "position": 17,
+    "fastest_lap_time": "7:01 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 304,
+    "race_id": 19,
+    "driver_id": 88,
+    "position": 12,
+    "fastest_lap_time": "3:27 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 305,
+    "race_id": 6,
+    "driver_id": 82,
+    "position": 5,
+    "fastest_lap_time": "2:35 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 306,
+    "race_id": 10,
+    "driver_id": 12,
+    "position": 12,
+    "fastest_lap_time": "12:41 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 307,
+    "race_id": 58,
+    "driver_id": 45,
+    "position": 3,
+    "fastest_lap_time": "6:15 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 308,
+    "race_id": 30,
+    "driver_id": 96,
+    "position": 19,
+    "fastest_lap_time": "8:37 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 309,
+    "race_id": 38,
+    "driver_id": 97,
+    "position": 13,
+    "fastest_lap_time": "5:15 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 310,
+    "race_id": 74,
+    "driver_id": 61,
+    "position": 16,
+    "fastest_lap_time": "4:05 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 311,
+    "race_id": 49,
+    "driver_id": 1,
+    "position": 14,
+    "fastest_lap_time": "6:14 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 312,
+    "race_id": 74,
+    "driver_id": 4,
+    "position": 6,
+    "fastest_lap_time": "5:00 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 313,
+    "race_id": 57,
+    "driver_id": 90,
+    "position": 14,
+    "fastest_lap_time": "10:05 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 314,
+    "race_id": 58,
+    "driver_id": 35,
+    "position": 15,
+    "fastest_lap_time": "4:06 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 315,
+    "race_id": 37,
+    "driver_id": 39,
+    "position": 10,
+    "fastest_lap_time": "12:47 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 316,
+    "race_id": 15,
+    "driver_id": 87,
+    "position": 1,
+    "fastest_lap_time": "2:27 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 317,
+    "race_id": 29,
+    "driver_id": 96,
+    "position": 20,
+    "fastest_lap_time": "7:03 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 318,
+    "race_id": 66,
+    "driver_id": 58,
+    "position": 7,
+    "fastest_lap_time": "7:55 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 319,
+    "race_id": 74,
+    "driver_id": 98,
+    "position": 5,
+    "fastest_lap_time": "9:26 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 320,
+    "race_id": 11,
+    "driver_id": 16,
+    "position": 20,
+    "fastest_lap_time": "5:23 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 321,
+    "race_id": 77,
+    "driver_id": 22,
+    "position": 1,
+    "fastest_lap_time": "12:16 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 322,
+    "race_id": 56,
+    "driver_id": 22,
+    "position": 11,
+    "fastest_lap_time": "10:21 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 323,
+    "race_id": 80,
+    "driver_id": 32,
+    "position": 2,
+    "fastest_lap_time": "4:19 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 324,
+    "race_id": 83,
+    "driver_id": 85,
+    "position": 19,
+    "fastest_lap_time": "4:22 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 325,
+    "race_id": 76,
+    "driver_id": 29,
+    "position": 12,
+    "fastest_lap_time": "9:48 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 326,
+    "race_id": 88,
+    "driver_id": 84,
+    "position": 4,
+    "fastest_lap_time": "11:27 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 327,
+    "race_id": 100,
+    "driver_id": 31,
+    "position": 4,
+    "fastest_lap_time": "6:08 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 328,
+    "race_id": 19,
+    "driver_id": 32,
+    "position": 4,
+    "fastest_lap_time": "9:44 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 329,
+    "race_id": 88,
+    "driver_id": 70,
+    "position": 10,
+    "fastest_lap_time": "4:17 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 330,
+    "race_id": 8,
+    "driver_id": 92,
+    "position": 10,
+    "fastest_lap_time": "1:51 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 331,
+    "race_id": 25,
+    "driver_id": 38,
+    "position": 14,
+    "fastest_lap_time": "3:03 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 332,
+    "race_id": 3,
+    "driver_id": 44,
+    "position": 16,
+    "fastest_lap_time": "9:11 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 333,
+    "race_id": 66,
+    "driver_id": 91,
+    "position": 15,
+    "fastest_lap_time": "9:31 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 334,
+    "race_id": 92,
+    "driver_id": 8,
+    "position": 4,
+    "fastest_lap_time": "12:15 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 335,
+    "race_id": 25,
+    "driver_id": 89,
+    "position": 20,
+    "fastest_lap_time": "8:53 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 336,
+    "race_id": 12,
+    "driver_id": 48,
+    "position": 4,
+    "fastest_lap_time": "10:07 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 337,
+    "race_id": 73,
+    "driver_id": 94,
+    "position": 1,
+    "fastest_lap_time": "8:43 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 338,
+    "race_id": 94,
+    "driver_id": 54,
+    "position": 10,
+    "fastest_lap_time": "5:17 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 339,
+    "race_id": 64,
+    "driver_id": 17,
+    "position": 9,
+    "fastest_lap_time": "10:06 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 340,
+    "race_id": 61,
+    "driver_id": 24,
+    "position": 1,
+    "fastest_lap_time": "2:57 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 341,
+    "race_id": 19,
+    "driver_id": 60,
+    "position": 11,
+    "fastest_lap_time": "9:51 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 342,
+    "race_id": 73,
+    "driver_id": 76,
+    "position": 6,
+    "fastest_lap_time": "5:48 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 343,
+    "race_id": 32,
+    "driver_id": 98,
+    "position": 2,
+    "fastest_lap_time": "4:37 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 344,
+    "race_id": 10,
+    "driver_id": 86,
+    "position": 15,
+    "fastest_lap_time": "5:06 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 345,
+    "race_id": 65,
+    "driver_id": 18,
+    "position": 14,
+    "fastest_lap_time": "5:01 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 346,
+    "race_id": 34,
+    "driver_id": 83,
+    "position": 13,
+    "fastest_lap_time": "11:17 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 347,
+    "race_id": 44,
+    "driver_id": 90,
+    "position": 15,
+    "fastest_lap_time": "1:53 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 348,
+    "race_id": 95,
+    "driver_id": 7,
+    "position": 4,
+    "fastest_lap_time": "1:59 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 349,
+    "race_id": 59,
+    "driver_id": 8,
+    "position": 14,
+    "fastest_lap_time": "12:25 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 350,
+    "race_id": 32,
+    "driver_id": 44,
+    "position": 5,
+    "fastest_lap_time": "8:08 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 351,
+    "race_id": 40,
+    "driver_id": 63,
+    "position": 2,
+    "fastest_lap_time": "8:52 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 352,
+    "race_id": 38,
+    "driver_id": 45,
+    "position": 9,
+    "fastest_lap_time": "11:44 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 353,
+    "race_id": 13,
+    "driver_id": 77,
+    "position": 15,
+    "fastest_lap_time": "6:09 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 354,
+    "race_id": 41,
+    "driver_id": 63,
+    "position": 16,
+    "fastest_lap_time": "12:19 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 355,
+    "race_id": 58,
+    "driver_id": 38,
+    "position": 15,
+    "fastest_lap_time": "3:01 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 356,
+    "race_id": 66,
+    "driver_id": 92,
+    "position": 7,
+    "fastest_lap_time": "2:36 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 357,
+    "race_id": 18,
+    "driver_id": 77,
+    "position": 17,
+    "fastest_lap_time": "3:31 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 358,
+    "race_id": 55,
+    "driver_id": 89,
+    "position": 4,
+    "fastest_lap_time": "1:13 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 359,
+    "race_id": 80,
+    "driver_id": 60,
+    "position": 16,
+    "fastest_lap_time": "7:27 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 360,
+    "race_id": 82,
+    "driver_id": 68,
+    "position": 19,
+    "fastest_lap_time": "4:53 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 361,
+    "race_id": 87,
+    "driver_id": 31,
+    "position": 17,
+    "fastest_lap_time": "9:35 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 362,
+    "race_id": 47,
+    "driver_id": 66,
+    "position": 11,
+    "fastest_lap_time": "10:17 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 363,
+    "race_id": 63,
+    "driver_id": 82,
+    "position": 13,
+    "fastest_lap_time": "6:30 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 364,
+    "race_id": 33,
+    "driver_id": 23,
+    "position": 20,
+    "fastest_lap_time": "7:15 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 365,
+    "race_id": 10,
+    "driver_id": 72,
+    "position": 14,
+    "fastest_lap_time": "5:47 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 366,
+    "race_id": 39,
+    "driver_id": 85,
+    "position": 18,
+    "fastest_lap_time": "11:56 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 367,
+    "race_id": 98,
+    "driver_id": 19,
+    "position": 6,
+    "fastest_lap_time": "4:36 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 368,
+    "race_id": 17,
+    "driver_id": 20,
+    "position": 16,
+    "fastest_lap_time": "4:56 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 369,
+    "race_id": 32,
+    "driver_id": 97,
+    "position": 19,
+    "fastest_lap_time": "5:41 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 370,
+    "race_id": 64,
+    "driver_id": 48,
+    "position": 4,
+    "fastest_lap_time": "11:11 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 371,
+    "race_id": 36,
+    "driver_id": 75,
+    "position": 2,
+    "fastest_lap_time": "10:08 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 372,
+    "race_id": 63,
+    "driver_id": 51,
+    "position": 6,
+    "fastest_lap_time": "6:59 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 373,
+    "race_id": 70,
+    "driver_id": 22,
+    "position": 12,
+    "fastest_lap_time": "11:19 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 374,
+    "race_id": 1,
+    "driver_id": 2,
+    "position": 1,
+    "fastest_lap_time": "11:33 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 375,
+    "race_id": 64,
+    "driver_id": 94,
+    "position": 2,
+    "fastest_lap_time": "10:39 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 376,
+    "race_id": 68,
+    "driver_id": 93,
+    "position": 7,
+    "fastest_lap_time": "2:16 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 377,
+    "race_id": 91,
+    "driver_id": 29,
+    "position": 12,
+    "fastest_lap_time": "1:47 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 378,
+    "race_id": 19,
+    "driver_id": 79,
+    "position": 6,
+    "fastest_lap_time": "6:49 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 379,
+    "race_id": 44,
+    "driver_id": 82,
+    "position": 9,
+    "fastest_lap_time": "7:30 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 380,
+    "race_id": 1,
+    "driver_id": 80,
+    "position": 8,
+    "fastest_lap_time": "10:29 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 381,
+    "race_id": 72,
+    "driver_id": 24,
+    "position": 15,
+    "fastest_lap_time": "8:26 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 382,
+    "race_id": 95,
+    "driver_id": 86,
+    "position": 9,
+    "fastest_lap_time": "2:42 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 383,
+    "race_id": 91,
+    "driver_id": 91,
+    "position": 17,
+    "fastest_lap_time": "5:03 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 384,
+    "race_id": 49,
+    "driver_id": 48,
+    "position": 9,
+    "fastest_lap_time": "3:44 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 385,
+    "race_id": 1,
+    "driver_id": 97,
+    "position": 20,
+    "fastest_lap_time": "10:27 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 386,
+    "race_id": 26,
+    "driver_id": 12,
+    "position": 5,
+    "fastest_lap_time": "9:30 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 387,
+    "race_id": 79,
+    "driver_id": 91,
+    "position": 18,
+    "fastest_lap_time": "3:41 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 388,
+    "race_id": 35,
+    "driver_id": 33,
+    "position": 1,
+    "fastest_lap_time": "7:13 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 389,
+    "race_id": 64,
+    "driver_id": 6,
+    "position": 2,
+    "fastest_lap_time": "11:02 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 390,
+    "race_id": 48,
+    "driver_id": 78,
+    "position": 17,
+    "fastest_lap_time": "7:26 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 391,
+    "race_id": 27,
+    "driver_id": 71,
+    "position": 5,
+    "fastest_lap_time": "1:56 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 392,
+    "race_id": 87,
+    "driver_id": 56,
+    "position": 11,
+    "fastest_lap_time": "9:38 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 393,
+    "race_id": 7,
+    "driver_id": 14,
+    "position": 15,
+    "fastest_lap_time": "11:30 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 394,
+    "race_id": 50,
+    "driver_id": 80,
+    "position": 5,
+    "fastest_lap_time": "10:51 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 395,
+    "race_id": 92,
+    "driver_id": 22,
+    "position": 12,
+    "fastest_lap_time": "6:51 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 396,
+    "race_id": 79,
+    "driver_id": 34,
+    "position": 2,
+    "fastest_lap_time": "8:34 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 397,
+    "race_id": 42,
+    "driver_id": 74,
+    "position": 15,
+    "fastest_lap_time": "8:57 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 398,
+    "race_id": 81,
+    "driver_id": 40,
+    "position": 6,
+    "fastest_lap_time": "1:11 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 399,
+    "race_id": 54,
+    "driver_id": 89,
+    "position": 12,
+    "fastest_lap_time": "1:22 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 400,
+    "race_id": 56,
+    "driver_id": 91,
+    "position": 19,
+    "fastest_lap_time": "9:12 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 401,
+    "race_id": 46,
+    "driver_id": 79,
+    "position": 16,
+    "fastest_lap_time": "11:57 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 402,
+    "race_id": 71,
+    "driver_id": 63,
+    "position": 15,
+    "fastest_lap_time": "6:03 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 403,
+    "race_id": 29,
+    "driver_id": 68,
+    "position": 13,
+    "fastest_lap_time": "8:50 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 404,
+    "race_id": 82,
+    "driver_id": 8,
+    "position": 7,
+    "fastest_lap_time": "7:24 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 405,
+    "race_id": 44,
+    "driver_id": 46,
+    "position": 2,
+    "fastest_lap_time": "7:21 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 406,
+    "race_id": 78,
+    "driver_id": 26,
+    "position": 6,
+    "fastest_lap_time": "5:12 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 407,
+    "race_id": 1,
+    "driver_id": 24,
+    "position": 15,
+    "fastest_lap_time": "6:05 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 408,
+    "race_id": 6,
+    "driver_id": 22,
+    "position": 10,
+    "fastest_lap_time": "7:23 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 409,
+    "race_id": 7,
+    "driver_id": 7,
+    "position": 7,
+    "fastest_lap_time": "8:31 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 410,
+    "race_id": 59,
+    "driver_id": 65,
+    "position": 20,
+    "fastest_lap_time": "7:21 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 411,
+    "race_id": 98,
+    "driver_id": 56,
+    "position": 13,
+    "fastest_lap_time": "6:39 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 412,
+    "race_id": 73,
+    "driver_id": 83,
+    "position": 3,
+    "fastest_lap_time": "7:46 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 413,
+    "race_id": 90,
+    "driver_id": 65,
+    "position": 13,
+    "fastest_lap_time": "2:15 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 414,
+    "race_id": 25,
+    "driver_id": 83,
+    "position": 15,
+    "fastest_lap_time": "9:25 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 415,
+    "race_id": 74,
+    "driver_id": 51,
+    "position": 15,
+    "fastest_lap_time": "11:43 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 416,
+    "race_id": 86,
+    "driver_id": 80,
+    "position": 18,
+    "fastest_lap_time": "12:31 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 417,
+    "race_id": 85,
+    "driver_id": 89,
+    "position": 11,
+    "fastest_lap_time": "3:51 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 418,
+    "race_id": 30,
+    "driver_id": 78,
+    "position": 15,
+    "fastest_lap_time": "3:18 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 419,
+    "race_id": 88,
+    "driver_id": 51,
+    "position": 5,
+    "fastest_lap_time": "5:24 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 420,
+    "race_id": 41,
+    "driver_id": 94,
+    "position": 1,
+    "fastest_lap_time": "12:16 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 421,
+    "race_id": 91,
+    "driver_id": 89,
+    "position": 9,
+    "fastest_lap_time": "7:49 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 422,
+    "race_id": 82,
+    "driver_id": 94,
+    "position": 6,
+    "fastest_lap_time": "1:30 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 423,
+    "race_id": 13,
+    "driver_id": 39,
+    "position": 10,
+    "fastest_lap_time": "6:35 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 424,
+    "race_id": 36,
+    "driver_id": 68,
+    "position": 4,
+    "fastest_lap_time": "9:10 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 425,
+    "race_id": 64,
+    "driver_id": 58,
+    "position": 9,
+    "fastest_lap_time": "2:36 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 426,
+    "race_id": 45,
+    "driver_id": 19,
+    "position": 18,
+    "fastest_lap_time": "9:42 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 427,
+    "race_id": 23,
+    "driver_id": 57,
+    "position": 14,
+    "fastest_lap_time": "3:03 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 428,
+    "race_id": 72,
+    "driver_id": 84,
+    "position": 14,
+    "fastest_lap_time": "4:12 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 429,
+    "race_id": 96,
+    "driver_id": 69,
+    "position": 5,
+    "fastest_lap_time": "2:58 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 430,
+    "race_id": 27,
+    "driver_id": 65,
+    "position": 12,
+    "fastest_lap_time": "7:44 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 431,
+    "race_id": 50,
+    "driver_id": 5,
+    "position": 3,
+    "fastest_lap_time": "6:37 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 432,
+    "race_id": 16,
+    "driver_id": 10,
+    "position": 10,
+    "fastest_lap_time": "9:31 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 433,
+    "race_id": 18,
+    "driver_id": 6,
+    "position": 1,
+    "fastest_lap_time": "8:29 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 434,
+    "race_id": 60,
+    "driver_id": 60,
+    "position": 18,
+    "fastest_lap_time": "6:00 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 435,
+    "race_id": 67,
+    "driver_id": 99,
+    "position": 13,
+    "fastest_lap_time": "3:13 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 436,
+    "race_id": 51,
+    "driver_id": 26,
+    "position": 4,
+    "fastest_lap_time": "11:20 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 437,
+    "race_id": 37,
+    "driver_id": 58,
+    "position": 3,
+    "fastest_lap_time": "12:43 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 438,
+    "race_id": 45,
+    "driver_id": 25,
+    "position": 11,
+    "fastest_lap_time": "10:41 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 439,
+    "race_id": 25,
+    "driver_id": 11,
+    "position": 18,
+    "fastest_lap_time": "1:25 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 440,
+    "race_id": 45,
+    "driver_id": 24,
+    "position": 13,
+    "fastest_lap_time": "5:42 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 441,
+    "race_id": 40,
+    "driver_id": 43,
+    "position": 13,
+    "fastest_lap_time": "5:23 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 442,
+    "race_id": 5,
+    "driver_id": 10,
+    "position": 15,
+    "fastest_lap_time": "11:50 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 443,
+    "race_id": 85,
+    "driver_id": 91,
+    "position": 15,
+    "fastest_lap_time": "4:16 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 444,
+    "race_id": 9,
+    "driver_id": 47,
+    "position": 16,
+    "fastest_lap_time": "8:56 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 445,
+    "race_id": 69,
+    "driver_id": 57,
+    "position": 18,
+    "fastest_lap_time": "1:26 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 446,
+    "race_id": 17,
+    "driver_id": 64,
+    "position": 19,
+    "fastest_lap_time": "10:52 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 447,
+    "race_id": 31,
+    "driver_id": 37,
+    "position": 8,
+    "fastest_lap_time": "5:34 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 448,
+    "race_id": 89,
+    "driver_id": 68,
+    "position": 3,
+    "fastest_lap_time": "7:30 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 449,
+    "race_id": 64,
+    "driver_id": 88,
+    "position": 10,
+    "fastest_lap_time": "5:16 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 450,
+    "race_id": 95,
+    "driver_id": 22,
+    "position": 11,
+    "fastest_lap_time": "12:16 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 451,
+    "race_id": 41,
+    "driver_id": 71,
+    "position": 18,
+    "fastest_lap_time": "4:41 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 452,
+    "race_id": 36,
+    "driver_id": 93,
+    "position": 4,
+    "fastest_lap_time": "8:11 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 453,
+    "race_id": 71,
+    "driver_id": 81,
+    "position": 5,
+    "fastest_lap_time": "4:50 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 454,
+    "race_id": 40,
+    "driver_id": 34,
+    "position": 13,
+    "fastest_lap_time": "4:00 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 455,
+    "race_id": 91,
+    "driver_id": 55,
+    "position": 14,
+    "fastest_lap_time": "9:28 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 456,
+    "race_id": 76,
+    "driver_id": 89,
+    "position": 8,
+    "fastest_lap_time": "3:48 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 457,
+    "race_id": 63,
+    "driver_id": 60,
+    "position": 4,
+    "fastest_lap_time": "8:00 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 458,
+    "race_id": 67,
+    "driver_id": 86,
+    "position": 4,
+    "fastest_lap_time": "7:55 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 459,
+    "race_id": 11,
+    "driver_id": 10,
+    "position": 5,
+    "fastest_lap_time": "6:44 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 460,
+    "race_id": 9,
+    "driver_id": 68,
+    "position": 13,
+    "fastest_lap_time": "2:14 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 461,
+    "race_id": 82,
+    "driver_id": 25,
+    "position": 13,
+    "fastest_lap_time": "9:18 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 462,
+    "race_id": 67,
+    "driver_id": 65,
+    "position": 3,
+    "fastest_lap_time": "11:43 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 463,
+    "race_id": 96,
+    "driver_id": 6,
+    "position": 12,
+    "fastest_lap_time": "8:53 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 464,
+    "race_id": 39,
+    "driver_id": 49,
+    "position": 16,
+    "fastest_lap_time": "4:55 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 465,
+    "race_id": 17,
+    "driver_id": 37,
+    "position": 11,
+    "fastest_lap_time": "7:56 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 466,
+    "race_id": 60,
+    "driver_id": 14,
+    "position": 13,
+    "fastest_lap_time": "2:26 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 467,
+    "race_id": 55,
+    "driver_id": 49,
+    "position": 15,
+    "fastest_lap_time": "8:55 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 468,
+    "race_id": 91,
+    "driver_id": 26,
+    "position": 10,
+    "fastest_lap_time": "4:17 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 469,
+    "race_id": 32,
+    "driver_id": 91,
+    "position": 4,
+    "fastest_lap_time": "5:48 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 470,
+    "race_id": 3,
+    "driver_id": 25,
+    "position": 1,
+    "fastest_lap_time": "1:06 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 471,
+    "race_id": 29,
+    "driver_id": 7,
+    "position": 10,
+    "fastest_lap_time": "7:29 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 472,
+    "race_id": 92,
+    "driver_id": 14,
+    "position": 19,
+    "fastest_lap_time": "11:31 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 473,
+    "race_id": 85,
+    "driver_id": 30,
+    "position": 12,
+    "fastest_lap_time": "1:46 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 474,
+    "race_id": 53,
+    "driver_id": 92,
+    "position": 6,
+    "fastest_lap_time": "4:40 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 475,
+    "race_id": 54,
+    "driver_id": 56,
+    "position": 2,
+    "fastest_lap_time": "12:42 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 476,
+    "race_id": 74,
+    "driver_id": 47,
+    "position": 5,
+    "fastest_lap_time": "1:08 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 477,
+    "race_id": 88,
+    "driver_id": 68,
+    "position": 16,
+    "fastest_lap_time": "3:26 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 478,
+    "race_id": 12,
+    "driver_id": 11,
+    "position": 15,
+    "fastest_lap_time": "9:39 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 479,
+    "race_id": 51,
+    "driver_id": 73,
+    "position": 17,
+    "fastest_lap_time": "11:39 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 480,
+    "race_id": 4,
+    "driver_id": 95,
+    "position": 6,
+    "fastest_lap_time": "5:10 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 481,
+    "race_id": 37,
+    "driver_id": 73,
+    "position": 8,
+    "fastest_lap_time": "4:49 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 482,
+    "race_id": 17,
+    "driver_id": 19,
+    "position": 7,
+    "fastest_lap_time": "8:20 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 483,
+    "race_id": 12,
+    "driver_id": 4,
+    "position": 2,
+    "fastest_lap_time": "11:16 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 484,
+    "race_id": 68,
+    "driver_id": 21,
+    "position": 5,
+    "fastest_lap_time": "10:11 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 485,
+    "race_id": 86,
+    "driver_id": 68,
+    "position": 9,
+    "fastest_lap_time": "2:56 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 486,
+    "race_id": 79,
+    "driver_id": 94,
+    "position": 9,
+    "fastest_lap_time": "2:38 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 487,
+    "race_id": 18,
+    "driver_id": 35,
+    "position": 6,
+    "fastest_lap_time": "7:48 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 488,
+    "race_id": 56,
+    "driver_id": 50,
+    "position": 13,
+    "fastest_lap_time": "10:23 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 489,
+    "race_id": 66,
+    "driver_id": 50,
+    "position": 7,
+    "fastest_lap_time": "12:36 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 490,
+    "race_id": 18,
+    "driver_id": 11,
+    "position": 8,
+    "fastest_lap_time": "8:15 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 491,
+    "race_id": 7,
+    "driver_id": 44,
+    "position": 2,
+    "fastest_lap_time": "10:07 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 492,
+    "race_id": 40,
+    "driver_id": 97,
+    "position": 7,
+    "fastest_lap_time": "12:58 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 493,
+    "race_id": 92,
+    "driver_id": 7,
+    "position": 16,
+    "fastest_lap_time": "5:09 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 494,
+    "race_id": 3,
+    "driver_id": 29,
+    "position": 13,
+    "fastest_lap_time": "1:24 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 495,
+    "race_id": 23,
+    "driver_id": 19,
+    "position": 11,
+    "fastest_lap_time": "1:11 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 496,
+    "race_id": 98,
+    "driver_id": 93,
+    "position": 9,
+    "fastest_lap_time": "1:48 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 497,
+    "race_id": 9,
+    "driver_id": 6,
+    "position": 10,
+    "fastest_lap_time": "1:07 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 498,
+    "race_id": 10,
+    "driver_id": 26,
+    "position": 18,
+    "fastest_lap_time": "12:46 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 499,
+    "race_id": 93,
+    "driver_id": 5,
+    "position": 15,
+    "fastest_lap_time": "8:40 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 500,
+    "race_id": 24,
+    "driver_id": 60,
+    "position": 6,
+    "fastest_lap_time": "5:59 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 501,
+    "race_id": 88,
+    "driver_id": 9,
+    "position": 4,
+    "fastest_lap_time": "6:34 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 502,
+    "race_id": 87,
+    "driver_id": 71,
+    "position": 9,
+    "fastest_lap_time": "1:57 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 503,
+    "race_id": 14,
+    "driver_id": 33,
+    "position": 1,
+    "fastest_lap_time": "12:03 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 504,
+    "race_id": 61,
+    "driver_id": 46,
+    "position": 8,
+    "fastest_lap_time": "2:37 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 505,
+    "race_id": 97,
+    "driver_id": 41,
+    "position": 6,
+    "fastest_lap_time": "4:50 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 506,
+    "race_id": 63,
+    "driver_id": 35,
+    "position": 13,
+    "fastest_lap_time": "4:14 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 507,
+    "race_id": 14,
+    "driver_id": 50,
+    "position": 11,
+    "fastest_lap_time": "7:10 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 508,
+    "race_id": 4,
+    "driver_id": 33,
+    "position": 9,
+    "fastest_lap_time": "4:22 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 509,
+    "race_id": 52,
+    "driver_id": 35,
+    "position": 1,
+    "fastest_lap_time": "8:25 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 510,
+    "race_id": 44,
+    "driver_id": 65,
+    "position": 12,
+    "fastest_lap_time": "11:40 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 511,
+    "race_id": 43,
+    "driver_id": 70,
+    "position": 20,
+    "fastest_lap_time": "5:26 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 512,
+    "race_id": 99,
+    "driver_id": 24,
+    "position": 17,
+    "fastest_lap_time": "1:49 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 513,
+    "race_id": 8,
+    "driver_id": 45,
+    "position": 14,
+    "fastest_lap_time": "11:23 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 514,
+    "race_id": 5,
+    "driver_id": 18,
+    "position": 19,
+    "fastest_lap_time": "12:06 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 515,
+    "race_id": 39,
+    "driver_id": 41,
+    "position": 6,
+    "fastest_lap_time": "2:49 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 516,
+    "race_id": 8,
+    "driver_id": 38,
+    "position": 17,
+    "fastest_lap_time": "2:50 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 517,
+    "race_id": 62,
+    "driver_id": 95,
+    "position": 5,
+    "fastest_lap_time": "6:40 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 518,
+    "race_id": 76,
+    "driver_id": 99,
+    "position": 2,
+    "fastest_lap_time": "2:18 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 519,
+    "race_id": 87,
+    "driver_id": 8,
+    "position": 15,
+    "fastest_lap_time": "7:51 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 520,
+    "race_id": 26,
+    "driver_id": 92,
+    "position": 10,
+    "fastest_lap_time": "2:18 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 521,
+    "race_id": 31,
+    "driver_id": 53,
+    "position": 13,
+    "fastest_lap_time": "5:58 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 522,
+    "race_id": 19,
+    "driver_id": 23,
+    "position": 20,
+    "fastest_lap_time": "2:30 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 523,
+    "race_id": 4,
+    "driver_id": 9,
+    "position": 11,
+    "fastest_lap_time": "6:21 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 524,
+    "race_id": 74,
+    "driver_id": 86,
+    "position": 16,
+    "fastest_lap_time": "2:53 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 525,
+    "race_id": 98,
+    "driver_id": 30,
+    "position": 1,
+    "fastest_lap_time": "11:03 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 526,
+    "race_id": 35,
+    "driver_id": 50,
+    "position": 19,
+    "fastest_lap_time": "2:49 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 527,
+    "race_id": 79,
+    "driver_id": 65,
+    "position": 15,
+    "fastest_lap_time": "8:40 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 528,
+    "race_id": 27,
+    "driver_id": 45,
+    "position": 7,
+    "fastest_lap_time": "12:07 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 529,
+    "race_id": 92,
+    "driver_id": 43,
+    "position": 1,
+    "fastest_lap_time": "5:59 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 530,
+    "race_id": 13,
+    "driver_id": 91,
+    "position": 1,
+    "fastest_lap_time": "12:38 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 531,
+    "race_id": 90,
+    "driver_id": 50,
+    "position": 3,
+    "fastest_lap_time": "3:55 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 532,
+    "race_id": 60,
+    "driver_id": 68,
+    "position": 3,
+    "fastest_lap_time": "2:58 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 533,
+    "race_id": 54,
+    "driver_id": 94,
+    "position": 15,
+    "fastest_lap_time": "11:49 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 534,
+    "race_id": 47,
+    "driver_id": 90,
+    "position": 17,
+    "fastest_lap_time": "7:28 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 535,
+    "race_id": 44,
+    "driver_id": 65,
+    "position": 9,
+    "fastest_lap_time": "5:05 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 536,
+    "race_id": 24,
+    "driver_id": 22,
+    "position": 12,
+    "fastest_lap_time": "1:37 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 537,
+    "race_id": 79,
+    "driver_id": 82,
+    "position": 20,
+    "fastest_lap_time": "11:02 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 538,
+    "race_id": 17,
+    "driver_id": 58,
+    "position": 18,
+    "fastest_lap_time": "4:16 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 539,
+    "race_id": 38,
+    "driver_id": 3,
+    "position": 14,
+    "fastest_lap_time": "7:20 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 540,
+    "race_id": 20,
+    "driver_id": 50,
+    "position": 14,
+    "fastest_lap_time": "5:53 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 541,
+    "race_id": 27,
+    "driver_id": 48,
+    "position": 10,
+    "fastest_lap_time": "12:20 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 542,
+    "race_id": 18,
+    "driver_id": 26,
+    "position": 10,
+    "fastest_lap_time": "11:13 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 543,
+    "race_id": 27,
+    "driver_id": 53,
+    "position": 2,
+    "fastest_lap_time": "2:33 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 544,
+    "race_id": 53,
+    "driver_id": 97,
+    "position": 10,
+    "fastest_lap_time": "2:50 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 545,
+    "race_id": 53,
+    "driver_id": 61,
+    "position": 10,
+    "fastest_lap_time": "10:44 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 546,
+    "race_id": 60,
+    "driver_id": 15,
+    "position": 8,
+    "fastest_lap_time": "1:08 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 547,
+    "race_id": 98,
+    "driver_id": 64,
+    "position": 2,
+    "fastest_lap_time": "4:07 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 548,
+    "race_id": 61,
+    "driver_id": 63,
+    "position": 16,
+    "fastest_lap_time": "1:51 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 549,
+    "race_id": 32,
+    "driver_id": 41,
+    "position": 8,
+    "fastest_lap_time": "9:35 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 550,
+    "race_id": 59,
+    "driver_id": 12,
+    "position": 12,
+    "fastest_lap_time": "12:50 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 551,
+    "race_id": 11,
+    "driver_id": 100,
+    "position": 16,
+    "fastest_lap_time": "4:31 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 552,
+    "race_id": 29,
+    "driver_id": 48,
+    "position": 19,
+    "fastest_lap_time": "9:39 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 553,
+    "race_id": 72,
+    "driver_id": 42,
+    "position": 6,
+    "fastest_lap_time": "2:18 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 554,
+    "race_id": 34,
+    "driver_id": 11,
+    "position": 12,
+    "fastest_lap_time": "10:22 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 555,
+    "race_id": 53,
+    "driver_id": 78,
+    "position": 11,
+    "fastest_lap_time": "12:26 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 556,
+    "race_id": 93,
+    "driver_id": 8,
+    "position": 8,
+    "fastest_lap_time": "1:32 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 557,
+    "race_id": 64,
+    "driver_id": 97,
+    "position": 12,
+    "fastest_lap_time": "12:34 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 558,
+    "race_id": 62,
+    "driver_id": 80,
+    "position": 12,
+    "fastest_lap_time": "6:26 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 559,
+    "race_id": 84,
+    "driver_id": 93,
+    "position": 16,
+    "fastest_lap_time": "1:42 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 560,
+    "race_id": 56,
+    "driver_id": 30,
+    "position": 12,
+    "fastest_lap_time": "6:56 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 561,
+    "race_id": 10,
+    "driver_id": 52,
+    "position": 15,
+    "fastest_lap_time": "1:23 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 562,
+    "race_id": 98,
+    "driver_id": 18,
+    "position": 1,
+    "fastest_lap_time": "8:29 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 563,
+    "race_id": 83,
+    "driver_id": 23,
+    "position": 3,
+    "fastest_lap_time": "7:35 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 564,
+    "race_id": 39,
+    "driver_id": 46,
+    "position": 10,
+    "fastest_lap_time": "3:12 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 565,
+    "race_id": 15,
+    "driver_id": 12,
+    "position": 6,
+    "fastest_lap_time": "3:28 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 566,
+    "race_id": 43,
+    "driver_id": 32,
+    "position": 14,
+    "fastest_lap_time": "8:52 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 567,
+    "race_id": 17,
+    "driver_id": 43,
+    "position": 6,
+    "fastest_lap_time": "10:26 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 568,
+    "race_id": 62,
+    "driver_id": 14,
+    "position": 15,
+    "fastest_lap_time": "9:46 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 569,
+    "race_id": 100,
+    "driver_id": 10,
+    "position": 9,
+    "fastest_lap_time": "4:57 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 570,
+    "race_id": 17,
+    "driver_id": 32,
+    "position": 9,
+    "fastest_lap_time": "4:06 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 571,
+    "race_id": 19,
+    "driver_id": 62,
+    "position": 20,
+    "fastest_lap_time": "9:23 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 572,
+    "race_id": 69,
+    "driver_id": 39,
+    "position": 16,
+    "fastest_lap_time": "6:20 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 573,
+    "race_id": 46,
+    "driver_id": 5,
+    "position": 6,
+    "fastest_lap_time": "1:20 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 574,
+    "race_id": 55,
+    "driver_id": 79,
+    "position": 15,
+    "fastest_lap_time": "12:59 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 575,
+    "race_id": 14,
+    "driver_id": 70,
+    "position": 20,
+    "fastest_lap_time": "5:34 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 576,
+    "race_id": 79,
+    "driver_id": 82,
+    "position": 17,
+    "fastest_lap_time": "6:34 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 577,
+    "race_id": 26,
+    "driver_id": 73,
+    "position": 13,
+    "fastest_lap_time": "2:03 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 578,
+    "race_id": 34,
+    "driver_id": 41,
+    "position": 13,
+    "fastest_lap_time": "6:10 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 579,
+    "race_id": 57,
+    "driver_id": 61,
+    "position": 4,
+    "fastest_lap_time": "1:42 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 580,
+    "race_id": 33,
+    "driver_id": 87,
+    "position": 14,
+    "fastest_lap_time": "9:14 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 581,
+    "race_id": 37,
+    "driver_id": 49,
+    "position": 2,
+    "fastest_lap_time": "7:34 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 582,
+    "race_id": 84,
+    "driver_id": 51,
+    "position": 13,
+    "fastest_lap_time": "9:46 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 583,
+    "race_id": 81,
+    "driver_id": 51,
+    "position": 18,
+    "fastest_lap_time": "1:29 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 584,
+    "race_id": 36,
+    "driver_id": 66,
+    "position": 7,
+    "fastest_lap_time": "8:24 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 585,
+    "race_id": 7,
+    "driver_id": 42,
+    "position": 7,
+    "fastest_lap_time": "12:46 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 586,
+    "race_id": 47,
+    "driver_id": 76,
+    "position": 16,
+    "fastest_lap_time": "4:50 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 587,
+    "race_id": 87,
+    "driver_id": 97,
+    "position": 17,
+    "fastest_lap_time": "3:09 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 588,
+    "race_id": 44,
+    "driver_id": 73,
+    "position": 13,
+    "fastest_lap_time": "2:18 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 589,
+    "race_id": 69,
+    "driver_id": 66,
+    "position": 7,
+    "fastest_lap_time": "8:47 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 590,
+    "race_id": 8,
+    "driver_id": 100,
+    "position": 2,
+    "fastest_lap_time": "5:12 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 591,
+    "race_id": 68,
+    "driver_id": 72,
+    "position": 16,
+    "fastest_lap_time": "8:49 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 592,
+    "race_id": 81,
+    "driver_id": 20,
+    "position": 9,
+    "fastest_lap_time": "6:35 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 593,
+    "race_id": 68,
+    "driver_id": 31,
+    "position": 3,
+    "fastest_lap_time": "5:58 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 594,
+    "race_id": 53,
+    "driver_id": 25,
+    "position": 14,
+    "fastest_lap_time": "9:47 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 595,
+    "race_id": 19,
+    "driver_id": 75,
+    "position": 18,
+    "fastest_lap_time": "4:26 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 596,
+    "race_id": 64,
+    "driver_id": 74,
+    "position": 6,
+    "fastest_lap_time": "6:00 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 597,
+    "race_id": 35,
+    "driver_id": 70,
+    "position": 13,
+    "fastest_lap_time": "4:57 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 598,
+    "race_id": 71,
+    "driver_id": 52,
+    "position": 16,
+    "fastest_lap_time": "12:55 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 599,
+    "race_id": 77,
+    "driver_id": 24,
+    "position": 16,
+    "fastest_lap_time": "3:17 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 600,
+    "race_id": 100,
+    "driver_id": 100,
+    "position": 4,
+    "fastest_lap_time": "3:44 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 601,
+    "race_id": 49,
+    "driver_id": 60,
+    "position": 3,
+    "fastest_lap_time": "2:52 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 602,
+    "race_id": 17,
+    "driver_id": 27,
+    "position": 14,
+    "fastest_lap_time": "9:20 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 603,
+    "race_id": 61,
+    "driver_id": 98,
+    "position": 2,
+    "fastest_lap_time": "7:36 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 604,
+    "race_id": 14,
+    "driver_id": 12,
+    "position": 5,
+    "fastest_lap_time": "11:12 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 605,
+    "race_id": 36,
+    "driver_id": 59,
+    "position": 11,
+    "fastest_lap_time": "8:54 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 606,
+    "race_id": 33,
+    "driver_id": 37,
+    "position": 17,
+    "fastest_lap_time": "11:53 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 607,
+    "race_id": 92,
+    "driver_id": 97,
+    "position": 6,
+    "fastest_lap_time": "11:25 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 608,
+    "race_id": 76,
+    "driver_id": 37,
+    "position": 8,
+    "fastest_lap_time": "3:40 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 609,
+    "race_id": 63,
+    "driver_id": 27,
+    "position": 5,
+    "fastest_lap_time": "3:32 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 610,
+    "race_id": 35,
+    "driver_id": 18,
+    "position": 16,
+    "fastest_lap_time": "1:10 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 611,
+    "race_id": 7,
+    "driver_id": 51,
+    "position": 20,
+    "fastest_lap_time": "8:52 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 612,
+    "race_id": 23,
+    "driver_id": 33,
+    "position": 18,
+    "fastest_lap_time": "7:03 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 613,
+    "race_id": 71,
+    "driver_id": 49,
+    "position": 2,
+    "fastest_lap_time": "7:27 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 614,
+    "race_id": 88,
+    "driver_id": 99,
+    "position": 11,
+    "fastest_lap_time": "4:58 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 615,
+    "race_id": 17,
+    "driver_id": 37,
+    "position": 8,
+    "fastest_lap_time": "11:31 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 616,
+    "race_id": 63,
+    "driver_id": 47,
+    "position": 16,
+    "fastest_lap_time": "3:12 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 617,
+    "race_id": 68,
+    "driver_id": 88,
+    "position": 3,
+    "fastest_lap_time": "12:06 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 618,
+    "race_id": 17,
+    "driver_id": 2,
+    "position": 3,
+    "fastest_lap_time": "12:50 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 619,
+    "race_id": 100,
+    "driver_id": 56,
+    "position": 3,
+    "fastest_lap_time": "7:17 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 620,
+    "race_id": 48,
+    "driver_id": 42,
+    "position": 8,
+    "fastest_lap_time": "11:49 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 621,
+    "race_id": 31,
+    "driver_id": 74,
+    "position": 14,
+    "fastest_lap_time": "1:45 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 622,
+    "race_id": 62,
+    "driver_id": 33,
+    "position": 10,
+    "fastest_lap_time": "11:23 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 623,
+    "race_id": 79,
+    "driver_id": 99,
+    "position": 18,
+    "fastest_lap_time": "10:42 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 624,
+    "race_id": 80,
+    "driver_id": 39,
+    "position": 19,
+    "fastest_lap_time": "8:42 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 625,
+    "race_id": 99,
+    "driver_id": 66,
+    "position": 11,
+    "fastest_lap_time": "9:10 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 626,
+    "race_id": 39,
+    "driver_id": 92,
+    "position": 1,
+    "fastest_lap_time": "2:38 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 627,
+    "race_id": 53,
+    "driver_id": 88,
+    "position": 12,
+    "fastest_lap_time": "2:37 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 628,
+    "race_id": 65,
+    "driver_id": 50,
+    "position": 18,
+    "fastest_lap_time": "11:43 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 629,
+    "race_id": 70,
+    "driver_id": 78,
+    "position": 15,
+    "fastest_lap_time": "9:27 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 630,
+    "race_id": 80,
+    "driver_id": 87,
+    "position": 1,
+    "fastest_lap_time": "1:21 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 631,
+    "race_id": 71,
+    "driver_id": 22,
+    "position": 17,
+    "fastest_lap_time": "8:45 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 632,
+    "race_id": 48,
+    "driver_id": 50,
+    "position": 13,
+    "fastest_lap_time": "2:56 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 633,
+    "race_id": 16,
+    "driver_id": 28,
+    "position": 10,
+    "fastest_lap_time": "4:49 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 634,
+    "race_id": 64,
+    "driver_id": 28,
+    "position": 20,
+    "fastest_lap_time": "2:51 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 635,
+    "race_id": 30,
+    "driver_id": 34,
+    "position": 15,
+    "fastest_lap_time": "2:16 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 636,
+    "race_id": 69,
+    "driver_id": 28,
+    "position": 18,
+    "fastest_lap_time": "1:31 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 637,
+    "race_id": 67,
+    "driver_id": 84,
+    "position": 6,
+    "fastest_lap_time": "10:09 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 638,
+    "race_id": 60,
+    "driver_id": 73,
+    "position": 12,
+    "fastest_lap_time": "4:11 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 639,
+    "race_id": 89,
+    "driver_id": 93,
+    "position": 11,
+    "fastest_lap_time": "5:16 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 640,
+    "race_id": 8,
+    "driver_id": 79,
+    "position": 15,
+    "fastest_lap_time": "1:17 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 641,
+    "race_id": 29,
+    "driver_id": 84,
+    "position": 12,
+    "fastest_lap_time": "6:05 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 642,
+    "race_id": 52,
+    "driver_id": 69,
+    "position": 16,
+    "fastest_lap_time": "9:31 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 643,
+    "race_id": 92,
+    "driver_id": 97,
+    "position": 13,
+    "fastest_lap_time": "3:08 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 644,
+    "race_id": 34,
+    "driver_id": 77,
+    "position": 20,
+    "fastest_lap_time": "6:02 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 645,
+    "race_id": 42,
+    "driver_id": 90,
+    "position": 7,
+    "fastest_lap_time": "8:37 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 646,
+    "race_id": 24,
+    "driver_id": 74,
+    "position": 20,
+    "fastest_lap_time": "8:53 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 647,
+    "race_id": 73,
+    "driver_id": 13,
+    "position": 15,
+    "fastest_lap_time": "8:39 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 648,
+    "race_id": 14,
+    "driver_id": 100,
+    "position": 19,
+    "fastest_lap_time": "5:55 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 649,
+    "race_id": 69,
+    "driver_id": 57,
+    "position": 1,
+    "fastest_lap_time": "7:59 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 650,
+    "race_id": 65,
+    "driver_id": 21,
+    "position": 3,
+    "fastest_lap_time": "6:09 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 651,
+    "race_id": 77,
+    "driver_id": 95,
+    "position": 6,
+    "fastest_lap_time": "1:28 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 652,
+    "race_id": 42,
+    "driver_id": 2,
+    "position": 15,
+    "fastest_lap_time": "3:51 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 653,
+    "race_id": 16,
+    "driver_id": 56,
+    "position": 18,
+    "fastest_lap_time": "1:50 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 654,
+    "race_id": 97,
+    "driver_id": 52,
+    "position": 14,
+    "fastest_lap_time": "1:53 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 655,
+    "race_id": 39,
+    "driver_id": 36,
+    "position": 12,
+    "fastest_lap_time": "8:08 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 656,
+    "race_id": 65,
+    "driver_id": 81,
+    "position": 16,
+    "fastest_lap_time": "12:03 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 657,
+    "race_id": 3,
+    "driver_id": 48,
+    "position": 17,
+    "fastest_lap_time": "5:45 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 658,
+    "race_id": 27,
+    "driver_id": 47,
+    "position": 7,
+    "fastest_lap_time": "7:19 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 659,
+    "race_id": 62,
+    "driver_id": 37,
+    "position": 5,
+    "fastest_lap_time": "12:13 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 660,
+    "race_id": 58,
+    "driver_id": 72,
+    "position": 5,
+    "fastest_lap_time": "9:13 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 661,
+    "race_id": 27,
+    "driver_id": 65,
+    "position": 2,
+    "fastest_lap_time": "12:42 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 662,
+    "race_id": 24,
+    "driver_id": 22,
+    "position": 16,
+    "fastest_lap_time": "10:38 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 663,
+    "race_id": 72,
+    "driver_id": 36,
+    "position": 3,
+    "fastest_lap_time": "5:23 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 664,
+    "race_id": 2,
+    "driver_id": 60,
+    "position": 12,
+    "fastest_lap_time": "6:17 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 665,
+    "race_id": 22,
+    "driver_id": 11,
+    "position": 18,
+    "fastest_lap_time": "11:09 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 666,
+    "race_id": 12,
+    "driver_id": 54,
+    "position": 7,
+    "fastest_lap_time": "12:26 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 667,
+    "race_id": 62,
+    "driver_id": 94,
+    "position": 20,
+    "fastest_lap_time": "4:51 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 668,
+    "race_id": 52,
+    "driver_id": 3,
+    "position": 4,
+    "fastest_lap_time": "9:36 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 669,
+    "race_id": 51,
+    "driver_id": 25,
+    "position": 2,
+    "fastest_lap_time": "3:34 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 670,
+    "race_id": 55,
+    "driver_id": 24,
+    "position": 7,
+    "fastest_lap_time": "5:43 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 671,
+    "race_id": 77,
+    "driver_id": 40,
+    "position": 17,
+    "fastest_lap_time": "8:17 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 672,
+    "race_id": 32,
+    "driver_id": 52,
+    "position": 18,
+    "fastest_lap_time": "4:34 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 673,
+    "race_id": 91,
+    "driver_id": 41,
+    "position": 1,
+    "fastest_lap_time": "8:28 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 674,
+    "race_id": 69,
+    "driver_id": 78,
+    "position": 20,
+    "fastest_lap_time": "5:23 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 675,
+    "race_id": 22,
+    "driver_id": 33,
+    "position": 5,
+    "fastest_lap_time": "11:21 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 676,
+    "race_id": 71,
+    "driver_id": 89,
+    "position": 9,
+    "fastest_lap_time": "8:36 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 677,
+    "race_id": 87,
+    "driver_id": 46,
+    "position": 2,
+    "fastest_lap_time": "10:14 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 678,
+    "race_id": 5,
+    "driver_id": 73,
+    "position": 19,
+    "fastest_lap_time": "9:35 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 679,
+    "race_id": 28,
+    "driver_id": 59,
+    "position": 2,
+    "fastest_lap_time": "10:43 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 680,
+    "race_id": 77,
+    "driver_id": 54,
+    "position": 2,
+    "fastest_lap_time": "5:14 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 681,
+    "race_id": 25,
+    "driver_id": 4,
+    "position": 3,
+    "fastest_lap_time": "6:48 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 682,
+    "race_id": 30,
+    "driver_id": 1,
+    "position": 13,
+    "fastest_lap_time": "2:20 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 683,
+    "race_id": 36,
+    "driver_id": 69,
+    "position": 8,
+    "fastest_lap_time": "3:42 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 684,
+    "race_id": 1,
+    "driver_id": 94,
+    "position": 5,
+    "fastest_lap_time": "11:37 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 685,
+    "race_id": 37,
+    "driver_id": 33,
+    "position": 6,
+    "fastest_lap_time": "3:28 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 686,
+    "race_id": 91,
+    "driver_id": 89,
+    "position": 14,
+    "fastest_lap_time": "4:55 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 687,
+    "race_id": 19,
+    "driver_id": 9,
+    "position": 9,
+    "fastest_lap_time": "5:34 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 688,
+    "race_id": 15,
+    "driver_id": 72,
+    "position": 5,
+    "fastest_lap_time": "2:34 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 689,
+    "race_id": 63,
+    "driver_id": 52,
+    "position": 7,
+    "fastest_lap_time": "10:45 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 690,
+    "race_id": 63,
+    "driver_id": 27,
+    "position": 3,
+    "fastest_lap_time": "7:01 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 691,
+    "race_id": 23,
+    "driver_id": 26,
+    "position": 9,
+    "fastest_lap_time": "7:36 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 692,
+    "race_id": 16,
+    "driver_id": 82,
+    "position": 19,
+    "fastest_lap_time": "1:05 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 693,
+    "race_id": 76,
+    "driver_id": 52,
+    "position": 5,
+    "fastest_lap_time": "4:46 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 694,
+    "race_id": 53,
+    "driver_id": 61,
+    "position": 14,
+    "fastest_lap_time": "12:19 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 695,
+    "race_id": 80,
+    "driver_id": 38,
+    "position": 12,
+    "fastest_lap_time": "6:45 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 696,
+    "race_id": 39,
+    "driver_id": 75,
+    "position": 4,
+    "fastest_lap_time": "12:25 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 697,
+    "race_id": 52,
+    "driver_id": 50,
+    "position": 12,
+    "fastest_lap_time": "1:31 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 698,
+    "race_id": 17,
+    "driver_id": 95,
+    "position": 1,
+    "fastest_lap_time": "10:39 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 699,
+    "race_id": 58,
+    "driver_id": 74,
+    "position": 3,
+    "fastest_lap_time": "6:58 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 700,
+    "race_id": 60,
+    "driver_id": 84,
+    "position": 5,
+    "fastest_lap_time": "3:13 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 701,
+    "race_id": 92,
+    "driver_id": 49,
+    "position": 19,
+    "fastest_lap_time": "7:05 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 702,
+    "race_id": 72,
+    "driver_id": 39,
+    "position": 7,
+    "fastest_lap_time": "11:35 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 703,
+    "race_id": 4,
+    "driver_id": 66,
+    "position": 18,
+    "fastest_lap_time": "12:59 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 704,
+    "race_id": 19,
+    "driver_id": 64,
+    "position": 20,
+    "fastest_lap_time": "1:22 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 705,
+    "race_id": 96,
+    "driver_id": 93,
+    "position": 6,
+    "fastest_lap_time": "1:07 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 706,
+    "race_id": 92,
+    "driver_id": 7,
+    "position": 8,
+    "fastest_lap_time": "6:58 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 707,
+    "race_id": 69,
+    "driver_id": 55,
+    "position": 11,
+    "fastest_lap_time": "2:53 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 708,
+    "race_id": 31,
+    "driver_id": 36,
+    "position": 13,
+    "fastest_lap_time": "4:09 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 709,
+    "race_id": 64,
+    "driver_id": 77,
+    "position": 3,
+    "fastest_lap_time": "9:40 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 710,
+    "race_id": 100,
+    "driver_id": 47,
+    "position": 14,
+    "fastest_lap_time": "4:15 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 711,
+    "race_id": 89,
+    "driver_id": 54,
+    "position": 9,
+    "fastest_lap_time": "1:50 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 712,
+    "race_id": 19,
+    "driver_id": 71,
+    "position": 16,
+    "fastest_lap_time": "11:00 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 713,
+    "race_id": 81,
+    "driver_id": 55,
+    "position": 1,
+    "fastest_lap_time": "11:21 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 714,
+    "race_id": 62,
+    "driver_id": 25,
+    "position": 6,
+    "fastest_lap_time": "8:28 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 715,
+    "race_id": 87,
+    "driver_id": 84,
+    "position": 2,
+    "fastest_lap_time": "7:09 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 716,
+    "race_id": 12,
+    "driver_id": 63,
+    "position": 11,
+    "fastest_lap_time": "9:56 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 717,
+    "race_id": 100,
+    "driver_id": 46,
+    "position": 17,
+    "fastest_lap_time": "2:00 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 718,
+    "race_id": 13,
+    "driver_id": 28,
+    "position": 14,
+    "fastest_lap_time": "3:45 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 719,
+    "race_id": 52,
+    "driver_id": 99,
+    "position": 6,
+    "fastest_lap_time": "2:47 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 720,
+    "race_id": 20,
+    "driver_id": 37,
+    "position": 5,
+    "fastest_lap_time": "7:42 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 721,
+    "race_id": 46,
+    "driver_id": 34,
+    "position": 5,
+    "fastest_lap_time": "2:14 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 722,
+    "race_id": 38,
+    "driver_id": 3,
+    "position": 12,
+    "fastest_lap_time": "4:20 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 723,
+    "race_id": 29,
+    "driver_id": 44,
+    "position": 12,
+    "fastest_lap_time": "6:26 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 724,
+    "race_id": 73,
+    "driver_id": 92,
+    "position": 5,
+    "fastest_lap_time": "8:53 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 725,
+    "race_id": 5,
+    "driver_id": 51,
+    "position": 18,
+    "fastest_lap_time": "10:37 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 726,
+    "race_id": 31,
+    "driver_id": 66,
+    "position": 5,
+    "fastest_lap_time": "7:28 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 727,
+    "race_id": 95,
+    "driver_id": 29,
+    "position": 14,
+    "fastest_lap_time": "12:15 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 728,
+    "race_id": 81,
+    "driver_id": 2,
+    "position": 4,
+    "fastest_lap_time": "4:15 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 729,
+    "race_id": 39,
+    "driver_id": 67,
+    "position": 7,
+    "fastest_lap_time": "2:28 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 730,
+    "race_id": 53,
+    "driver_id": 61,
+    "position": 17,
+    "fastest_lap_time": "7:54 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 731,
+    "race_id": 43,
+    "driver_id": 68,
+    "position": 20,
+    "fastest_lap_time": "10:44 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 732,
+    "race_id": 62,
+    "driver_id": 56,
+    "position": 12,
+    "fastest_lap_time": "2:09 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 733,
+    "race_id": 62,
+    "driver_id": 72,
+    "position": 12,
+    "fastest_lap_time": "4:41 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 734,
+    "race_id": 23,
+    "driver_id": 22,
+    "position": 4,
+    "fastest_lap_time": "10:31 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 735,
+    "race_id": 82,
+    "driver_id": 31,
+    "position": 15,
+    "fastest_lap_time": "9:28 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 736,
+    "race_id": 75,
+    "driver_id": 15,
+    "position": 7,
+    "fastest_lap_time": "12:29 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 737,
+    "race_id": 61,
+    "driver_id": 81,
+    "position": 11,
+    "fastest_lap_time": "4:30 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 738,
+    "race_id": 14,
+    "driver_id": 6,
+    "position": 15,
+    "fastest_lap_time": "9:22 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 739,
+    "race_id": 82,
+    "driver_id": 86,
+    "position": 17,
+    "fastest_lap_time": "10:21 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 740,
+    "race_id": 69,
+    "driver_id": 19,
+    "position": 5,
+    "fastest_lap_time": "3:37 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 741,
+    "race_id": 75,
+    "driver_id": 77,
+    "position": 5,
+    "fastest_lap_time": "9:56 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 742,
+    "race_id": 23,
+    "driver_id": 18,
+    "position": 20,
+    "fastest_lap_time": "9:46 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 743,
+    "race_id": 65,
+    "driver_id": 96,
+    "position": 14,
+    "fastest_lap_time": "8:12 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 744,
+    "race_id": 95,
+    "driver_id": 44,
+    "position": 2,
+    "fastest_lap_time": "12:33 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 745,
+    "race_id": 91,
+    "driver_id": 74,
+    "position": 14,
+    "fastest_lap_time": "2:37 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 746,
+    "race_id": 37,
+    "driver_id": 45,
+    "position": 2,
+    "fastest_lap_time": "11:47 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 747,
+    "race_id": 84,
+    "driver_id": 84,
+    "position": 14,
+    "fastest_lap_time": "2:56 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 748,
+    "race_id": 96,
+    "driver_id": 86,
+    "position": 15,
+    "fastest_lap_time": "12:11 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 749,
+    "race_id": 34,
+    "driver_id": 23,
+    "position": 3,
+    "fastest_lap_time": "8:54 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 750,
+    "race_id": 45,
+    "driver_id": 29,
+    "position": 20,
+    "fastest_lap_time": "6:45 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 751,
+    "race_id": 12,
+    "driver_id": 91,
+    "position": 17,
+    "fastest_lap_time": "6:52 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 752,
+    "race_id": 61,
+    "driver_id": 3,
+    "position": 3,
+    "fastest_lap_time": "4:01 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 753,
+    "race_id": 9,
+    "driver_id": 79,
+    "position": 7,
+    "fastest_lap_time": "3:57 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 754,
+    "race_id": 67,
+    "driver_id": 50,
+    "position": 20,
+    "fastest_lap_time": "8:38 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 755,
+    "race_id": 74,
+    "driver_id": 72,
+    "position": 10,
+    "fastest_lap_time": "2:22 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 756,
+    "race_id": 64,
+    "driver_id": 63,
+    "position": 4,
+    "fastest_lap_time": "7:20 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 757,
+    "race_id": 57,
+    "driver_id": 98,
+    "position": 5,
+    "fastest_lap_time": "8:23 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 758,
+    "race_id": 71,
+    "driver_id": 58,
+    "position": 7,
+    "fastest_lap_time": "3:52 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 759,
+    "race_id": 11,
+    "driver_id": 56,
+    "position": 5,
+    "fastest_lap_time": "8:51 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 760,
+    "race_id": 85,
+    "driver_id": 92,
+    "position": 5,
+    "fastest_lap_time": "9:24 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 761,
+    "race_id": 76,
+    "driver_id": 27,
+    "position": 5,
+    "fastest_lap_time": "2:31 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 762,
+    "race_id": 86,
+    "driver_id": 18,
+    "position": 8,
+    "fastest_lap_time": "9:44 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 763,
+    "race_id": 66,
+    "driver_id": 52,
+    "position": 8,
+    "fastest_lap_time": "7:21 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 764,
+    "race_id": 31,
+    "driver_id": 51,
+    "position": 14,
+    "fastest_lap_time": "6:36 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 765,
+    "race_id": 87,
+    "driver_id": 22,
+    "position": 18,
+    "fastest_lap_time": "8:48 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 766,
+    "race_id": 28,
+    "driver_id": 19,
+    "position": 12,
+    "fastest_lap_time": "5:59 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 767,
+    "race_id": 3,
+    "driver_id": 78,
+    "position": 10,
+    "fastest_lap_time": "12:31 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 768,
+    "race_id": 35,
+    "driver_id": 65,
+    "position": 3,
+    "fastest_lap_time": "2:11 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 769,
+    "race_id": 33,
+    "driver_id": 19,
+    "position": 11,
+    "fastest_lap_time": "2:05 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 770,
+    "race_id": 53,
+    "driver_id": 21,
+    "position": 20,
+    "fastest_lap_time": "2:08 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 771,
+    "race_id": 75,
+    "driver_id": 4,
+    "position": 20,
+    "fastest_lap_time": "11:11 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 772,
+    "race_id": 90,
+    "driver_id": 84,
+    "position": 10,
+    "fastest_lap_time": "5:16 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 773,
+    "race_id": 17,
+    "driver_id": 42,
+    "position": 2,
+    "fastest_lap_time": "1:46 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 774,
+    "race_id": 12,
+    "driver_id": 93,
+    "position": 2,
+    "fastest_lap_time": "3:28 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 775,
+    "race_id": 91,
+    "driver_id": 83,
+    "position": 5,
+    "fastest_lap_time": "5:07 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 776,
+    "race_id": 52,
+    "driver_id": 46,
+    "position": 14,
+    "fastest_lap_time": "4:11 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 777,
+    "race_id": 71,
+    "driver_id": 95,
+    "position": 1,
+    "fastest_lap_time": "3:54 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 778,
+    "race_id": 23,
+    "driver_id": 31,
+    "position": 6,
+    "fastest_lap_time": "9:16 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 779,
+    "race_id": 62,
+    "driver_id": 5,
+    "position": 8,
+    "fastest_lap_time": "7:57 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 780,
+    "race_id": 96,
+    "driver_id": 27,
+    "position": 13,
+    "fastest_lap_time": "10:18 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 781,
+    "race_id": 90,
+    "driver_id": 72,
+    "position": 18,
+    "fastest_lap_time": "4:54 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 782,
+    "race_id": 7,
+    "driver_id": 25,
+    "position": 19,
+    "fastest_lap_time": "10:33 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 783,
+    "race_id": 35,
+    "driver_id": 87,
+    "position": 19,
+    "fastest_lap_time": "3:11 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 784,
+    "race_id": 14,
+    "driver_id": 26,
+    "position": 15,
+    "fastest_lap_time": "12:00 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 785,
+    "race_id": 25,
+    "driver_id": 70,
+    "position": 6,
+    "fastest_lap_time": "4:36 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 786,
+    "race_id": 34,
+    "driver_id": 66,
+    "position": 7,
+    "fastest_lap_time": "1:58 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 787,
+    "race_id": 15,
+    "driver_id": 84,
+    "position": 18,
+    "fastest_lap_time": "7:33 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 788,
+    "race_id": 76,
+    "driver_id": 26,
+    "position": 15,
+    "fastest_lap_time": "9:09 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 789,
+    "race_id": 82,
+    "driver_id": 76,
+    "position": 1,
+    "fastest_lap_time": "12:48 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 790,
+    "race_id": 66,
+    "driver_id": 95,
+    "position": 9,
+    "fastest_lap_time": "3:19 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 791,
+    "race_id": 75,
+    "driver_id": 10,
+    "position": 16,
+    "fastest_lap_time": "7:48 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 792,
+    "race_id": 64,
+    "driver_id": 47,
+    "position": 2,
+    "fastest_lap_time": "8:51 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 793,
+    "race_id": 58,
+    "driver_id": 1,
+    "position": 4,
+    "fastest_lap_time": "7:43 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 794,
+    "race_id": 48,
+    "driver_id": 24,
+    "position": 14,
+    "fastest_lap_time": "7:46 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 795,
+    "race_id": 22,
+    "driver_id": 83,
+    "position": 1,
+    "fastest_lap_time": "11:42 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 796,
+    "race_id": 21,
+    "driver_id": 100,
+    "position": 16,
+    "fastest_lap_time": "8:58 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 797,
+    "race_id": 82,
+    "driver_id": 90,
+    "position": 4,
+    "fastest_lap_time": "6:42 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 798,
+    "race_id": 35,
+    "driver_id": 30,
+    "position": 11,
+    "fastest_lap_time": "8:29 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 799,
+    "race_id": 80,
+    "driver_id": 90,
+    "position": 13,
+    "fastest_lap_time": "2:47 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 800,
+    "race_id": 7,
+    "driver_id": 16,
+    "position": 14,
+    "fastest_lap_time": "12:06 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 801,
+    "race_id": 67,
+    "driver_id": 41,
+    "position": 20,
+    "fastest_lap_time": "6:02 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 802,
+    "race_id": 85,
+    "driver_id": 52,
+    "position": 18,
+    "fastest_lap_time": "3:23 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 803,
+    "race_id": 85,
+    "driver_id": 49,
+    "position": 14,
+    "fastest_lap_time": "8:19 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 804,
+    "race_id": 35,
+    "driver_id": 100,
+    "position": 1,
+    "fastest_lap_time": "7:16 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 805,
+    "race_id": 39,
+    "driver_id": 14,
+    "position": 1,
+    "fastest_lap_time": "12:34 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 806,
+    "race_id": 64,
+    "driver_id": 31,
+    "position": 15,
+    "fastest_lap_time": "9:32 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 807,
+    "race_id": 3,
+    "driver_id": 79,
+    "position": 1,
+    "fastest_lap_time": "8:36 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 808,
+    "race_id": 40,
+    "driver_id": 66,
+    "position": 8,
+    "fastest_lap_time": "8:31 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 809,
+    "race_id": 43,
+    "driver_id": 30,
+    "position": 19,
+    "fastest_lap_time": "1:54 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 810,
+    "race_id": 28,
+    "driver_id": 95,
+    "position": 11,
+    "fastest_lap_time": "2:25 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 811,
+    "race_id": 60,
+    "driver_id": 71,
+    "position": 14,
+    "fastest_lap_time": "2:33 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 812,
+    "race_id": 28,
+    "driver_id": 12,
+    "position": 2,
+    "fastest_lap_time": "7:07 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 813,
+    "race_id": 42,
+    "driver_id": 87,
+    "position": 11,
+    "fastest_lap_time": "11:30 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 814,
+    "race_id": 75,
+    "driver_id": 75,
+    "position": 19,
+    "fastest_lap_time": "12:18 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 815,
+    "race_id": 45,
+    "driver_id": 95,
+    "position": 4,
+    "fastest_lap_time": "11:03 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 816,
+    "race_id": 75,
+    "driver_id": 26,
+    "position": 15,
+    "fastest_lap_time": "6:22 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 817,
+    "race_id": 49,
+    "driver_id": 20,
+    "position": 8,
+    "fastest_lap_time": "5:56 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 818,
+    "race_id": 12,
+    "driver_id": 54,
+    "position": 2,
+    "fastest_lap_time": "7:59 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 819,
+    "race_id": 21,
+    "driver_id": 99,
+    "position": 15,
+    "fastest_lap_time": "2:50 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 820,
+    "race_id": 79,
+    "driver_id": 26,
+    "position": 20,
+    "fastest_lap_time": "3:07 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 821,
+    "race_id": 37,
+    "driver_id": 41,
+    "position": 8,
+    "fastest_lap_time": "3:58 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 822,
+    "race_id": 72,
+    "driver_id": 63,
+    "position": 4,
+    "fastest_lap_time": "8:39 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 823,
+    "race_id": 25,
+    "driver_id": 67,
+    "position": 3,
+    "fastest_lap_time": "11:14 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 824,
+    "race_id": 18,
+    "driver_id": 89,
+    "position": 12,
+    "fastest_lap_time": "11:36 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 825,
+    "race_id": 8,
+    "driver_id": 9,
+    "position": 4,
+    "fastest_lap_time": "9:15 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 826,
+    "race_id": 2,
+    "driver_id": 48,
+    "position": 12,
+    "fastest_lap_time": "10:41 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 827,
+    "race_id": 64,
+    "driver_id": 76,
+    "position": 7,
+    "fastest_lap_time": "8:48 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 828,
+    "race_id": 71,
+    "driver_id": 54,
+    "position": 4,
+    "fastest_lap_time": "4:15 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 829,
+    "race_id": 34,
+    "driver_id": 72,
+    "position": 14,
+    "fastest_lap_time": "4:16 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 830,
+    "race_id": 80,
+    "driver_id": 87,
+    "position": 5,
+    "fastest_lap_time": "3:11 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 831,
+    "race_id": 20,
+    "driver_id": 37,
+    "position": 14,
+    "fastest_lap_time": "12:23 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 832,
+    "race_id": 41,
+    "driver_id": 23,
+    "position": 5,
+    "fastest_lap_time": "4:26 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 833,
+    "race_id": 37,
+    "driver_id": 77,
+    "position": 18,
+    "fastest_lap_time": "10:19 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 834,
+    "race_id": 96,
+    "driver_id": 38,
+    "position": 18,
+    "fastest_lap_time": "11:37 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 835,
+    "race_id": 59,
+    "driver_id": 80,
+    "position": 5,
+    "fastest_lap_time": "10:13 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 836,
+    "race_id": 48,
+    "driver_id": 78,
+    "position": 15,
+    "fastest_lap_time": "3:27 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 837,
+    "race_id": 6,
+    "driver_id": 8,
+    "position": 9,
+    "fastest_lap_time": "2:35 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 838,
+    "race_id": 29,
+    "driver_id": 16,
+    "position": 14,
+    "fastest_lap_time": "2:01 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 839,
+    "race_id": 72,
+    "driver_id": 99,
+    "position": 9,
+    "fastest_lap_time": "6:45 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 840,
+    "race_id": 13,
+    "driver_id": 66,
+    "position": 4,
+    "fastest_lap_time": "5:49 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 841,
+    "race_id": 22,
+    "driver_id": 47,
+    "position": 6,
+    "fastest_lap_time": "2:48 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 842,
+    "race_id": 77,
+    "driver_id": 80,
+    "position": 3,
+    "fastest_lap_time": "5:55 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 843,
+    "race_id": 10,
+    "driver_id": 28,
+    "position": 14,
+    "fastest_lap_time": "6:35 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 844,
+    "race_id": 42,
+    "driver_id": 66,
+    "position": 19,
+    "fastest_lap_time": "9:43 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 845,
+    "race_id": 6,
+    "driver_id": 73,
+    "position": 20,
+    "fastest_lap_time": "9:27 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 846,
+    "race_id": 96,
+    "driver_id": 48,
+    "position": 6,
+    "fastest_lap_time": "7:39 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 847,
+    "race_id": 1,
+    "driver_id": 87,
+    "position": 20,
+    "fastest_lap_time": "10:59 AM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 848,
+    "race_id": 12,
+    "driver_id": 9,
+    "position": 18,
+    "fastest_lap_time": "3:43 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 849,
+    "race_id": 21,
+    "driver_id": 32,
+    "position": 13,
+    "fastest_lap_time": "5:25 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 850,
+    "race_id": 36,
+    "driver_id": 47,
+    "position": 12,
+    "fastest_lap_time": "6:45 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 851,
+    "race_id": 75,
+    "driver_id": 28,
+    "position": 6,
+    "fastest_lap_time": "3:50 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 852,
+    "race_id": 19,
+    "driver_id": 71,
+    "position": 13,
+    "fastest_lap_time": "9:56 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 853,
+    "race_id": 80,
+    "driver_id": 99,
+    "position": 12,
+    "fastest_lap_time": "2:08 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 854,
+    "race_id": 35,
+    "driver_id": 8,
+    "position": 17,
+    "fastest_lap_time": "7:01 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 855,
+    "race_id": 10,
+    "driver_id": 79,
+    "position": 16,
+    "fastest_lap_time": "1:17 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 856,
+    "race_id": 85,
+    "driver_id": 92,
+    "position": 15,
+    "fastest_lap_time": "7:35 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 857,
+    "race_id": 78,
+    "driver_id": 59,
+    "position": 9,
+    "fastest_lap_time": "1:41 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 858,
+    "race_id": 56,
+    "driver_id": 54,
+    "position": 14,
+    "fastest_lap_time": "4:31 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 859,
+    "race_id": 81,
+    "driver_id": 61,
+    "position": 9,
+    "fastest_lap_time": "11:00 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 860,
+    "race_id": 10,
+    "driver_id": 5,
+    "position": 8,
+    "fastest_lap_time": "5:25 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 861,
+    "race_id": 88,
+    "driver_id": 66,
+    "position": 6,
+    "fastest_lap_time": "11:53 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 862,
+    "race_id": 62,
+    "driver_id": 30,
+    "position": 16,
+    "fastest_lap_time": "8:41 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 863,
+    "race_id": 51,
+    "driver_id": 100,
+    "position": 13,
+    "fastest_lap_time": "4:09 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 864,
+    "race_id": 57,
+    "driver_id": 91,
+    "position": 20,
+    "fastest_lap_time": "5:10 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 865,
+    "race_id": 43,
+    "driver_id": 28,
+    "position": 19,
+    "fastest_lap_time": "12:12 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 866,
+    "race_id": 78,
+    "driver_id": 43,
+    "position": 18,
+    "fastest_lap_time": "3:49 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 867,
+    "race_id": 2,
+    "driver_id": 61,
+    "position": 2,
+    "fastest_lap_time": "11:13 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 868,
+    "race_id": 65,
+    "driver_id": 40,
+    "position": 16,
+    "fastest_lap_time": "9:49 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 869,
+    "race_id": 40,
+    "driver_id": 94,
+    "position": 5,
+    "fastest_lap_time": "3:12 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 870,
+    "race_id": 19,
+    "driver_id": 84,
+    "position": 12,
+    "fastest_lap_time": "11:27 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 871,
+    "race_id": 41,
+    "driver_id": 57,
+    "position": 19,
+    "fastest_lap_time": "1:29 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 872,
+    "race_id": 68,
+    "driver_id": 98,
+    "position": 10,
+    "fastest_lap_time": "1:22 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 873,
+    "race_id": 55,
+    "driver_id": 7,
+    "position": 16,
+    "fastest_lap_time": "12:33 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 874,
+    "race_id": 14,
+    "driver_id": 62,
+    "position": 9,
+    "fastest_lap_time": "10:10 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 875,
+    "race_id": 63,
+    "driver_id": 23,
+    "position": 1,
+    "fastest_lap_time": "9:56 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 876,
+    "race_id": 52,
+    "driver_id": 1,
+    "position": 19,
+    "fastest_lap_time": "8:30 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 877,
+    "race_id": 50,
+    "driver_id": 95,
+    "position": 17,
+    "fastest_lap_time": "7:04 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 878,
+    "race_id": 68,
+    "driver_id": 42,
+    "position": 12,
+    "fastest_lap_time": "1:13 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 879,
+    "race_id": 33,
+    "driver_id": 18,
+    "position": 7,
+    "fastest_lap_time": "4:34 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 880,
+    "race_id": 90,
+    "driver_id": 18,
+    "position": 12,
+    "fastest_lap_time": "5:28 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 881,
+    "race_id": 53,
+    "driver_id": 42,
+    "position": 18,
+    "fastest_lap_time": "4:06 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 882,
+    "race_id": 73,
+    "driver_id": 2,
+    "position": 15,
+    "fastest_lap_time": "5:33 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 883,
+    "race_id": 2,
+    "driver_id": 98,
+    "position": 7,
+    "fastest_lap_time": "4:16 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 884,
+    "race_id": 13,
+    "driver_id": 47,
+    "position": 2,
+    "fastest_lap_time": "2:36 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 885,
+    "race_id": 68,
+    "driver_id": 45,
+    "position": 6,
+    "fastest_lap_time": "9:54 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 886,
+    "race_id": 19,
+    "driver_id": 78,
+    "position": 7,
+    "fastest_lap_time": "3:38 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 887,
+    "race_id": 24,
+    "driver_id": 5,
+    "position": 6,
+    "fastest_lap_time": "12:50 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 888,
+    "race_id": 16,
+    "driver_id": 64,
+    "position": 11,
+    "fastest_lap_time": "11:41 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 889,
+    "race_id": 35,
+    "driver_id": 33,
+    "position": 8,
+    "fastest_lap_time": "6:43 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 890,
+    "race_id": 52,
+    "driver_id": 55,
+    "position": 10,
+    "fastest_lap_time": "6:32 PM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 891,
+    "race_id": 51,
+    "driver_id": 19,
+    "position": 18,
+    "fastest_lap_time": "5:09 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 892,
+    "race_id": 47,
+    "driver_id": 39,
+    "position": 2,
+    "fastest_lap_time": "4:10 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 893,
+    "race_id": 4,
+    "driver_id": 59,
+    "position": 8,
+    "fastest_lap_time": "8:56 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 894,
+    "race_id": 95,
+    "driver_id": 65,
+    "position": 17,
+    "fastest_lap_time": "2:05 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 895,
+    "race_id": 34,
+    "driver_id": 37,
+    "position": 8,
+    "fastest_lap_time": "11:53 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 896,
+    "race_id": 89,
+    "driver_id": 21,
+    "position": 14,
+    "fastest_lap_time": "5:41 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 897,
+    "race_id": 43,
+    "driver_id": 10,
+    "position": 9,
+    "fastest_lap_time": "3:18 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 898,
+    "race_id": 63,
+    "driver_id": 14,
+    "position": 4,
+    "fastest_lap_time": "11:22 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 899,
+    "race_id": 5,
+    "driver_id": 31,
+    "position": 18,
+    "fastest_lap_time": "8:37 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 900,
+    "race_id": 12,
+    "driver_id": 99,
+    "position": 3,
+    "fastest_lap_time": "11:55 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 901,
+    "race_id": 55,
+    "driver_id": 4,
+    "position": 12,
+    "fastest_lap_time": "6:01 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 902,
+    "race_id": 27,
+    "driver_id": 84,
+    "position": 2,
+    "fastest_lap_time": "11:17 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 903,
+    "race_id": 84,
+    "driver_id": 39,
+    "position": 1,
+    "fastest_lap_time": "12:50 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 904,
+    "race_id": 45,
+    "driver_id": 5,
+    "position": 7,
+    "fastest_lap_time": "2:11 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 905,
+    "race_id": 10,
+    "driver_id": 51,
+    "position": 15,
+    "fastest_lap_time": "4:26 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 906,
+    "race_id": 67,
+    "driver_id": 62,
+    "position": 14,
+    "fastest_lap_time": "6:22 AM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 907,
+    "race_id": 83,
+    "driver_id": 27,
+    "position": 4,
+    "fastest_lap_time": "12:54 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 908,
+    "race_id": 81,
+    "driver_id": 11,
+    "position": 13,
+    "fastest_lap_time": "8:32 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 909,
+    "race_id": 100,
+    "driver_id": 91,
+    "position": 9,
+    "fastest_lap_time": "9:49 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 910,
+    "race_id": 34,
+    "driver_id": 46,
+    "position": 4,
+    "fastest_lap_time": "10:26 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 911,
+    "race_id": 28,
+    "driver_id": 62,
+    "position": 1,
+    "fastest_lap_time": "9:17 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 912,
+    "race_id": 56,
+    "driver_id": 5,
+    "position": 1,
+    "fastest_lap_time": "10:36 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 913,
+    "race_id": 26,
+    "driver_id": 57,
+    "position": 8,
+    "fastest_lap_time": "12:15 PM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 914,
+    "race_id": 35,
+    "driver_id": 73,
+    "position": 17,
+    "fastest_lap_time": "9:34 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 915,
+    "race_id": 21,
+    "driver_id": 13,
+    "position": 15,
+    "fastest_lap_time": "4:35 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 916,
+    "race_id": 51,
+    "driver_id": 85,
+    "position": 8,
+    "fastest_lap_time": "9:19 AM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 917,
+    "race_id": 47,
+    "driver_id": 64,
+    "position": 8,
+    "fastest_lap_time": "2:03 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 918,
+    "race_id": 77,
+    "driver_id": 2,
+    "position": 3,
+    "fastest_lap_time": "4:51 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 919,
+    "race_id": 23,
+    "driver_id": 81,
+    "position": 4,
+    "fastest_lap_time": "11:39 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 920,
+    "race_id": 17,
+    "driver_id": 7,
+    "position": 5,
+    "fastest_lap_time": "9:22 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 921,
+    "race_id": 51,
+    "driver_id": 71,
+    "position": 6,
+    "fastest_lap_time": "2:29 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 922,
+    "race_id": 82,
+    "driver_id": 95,
+    "position": 14,
+    "fastest_lap_time": "7:54 PM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 923,
+    "race_id": 64,
+    "driver_id": 36,
+    "position": 9,
+    "fastest_lap_time": "5:26 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 924,
+    "race_id": 7,
+    "driver_id": 50,
+    "position": 6,
+    "fastest_lap_time": "4:20 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 925,
+    "race_id": 58,
+    "driver_id": 42,
+    "position": 6,
+    "fastest_lap_time": "5:01 AM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 926,
+    "race_id": 75,
+    "driver_id": 57,
+    "position": 9,
+    "fastest_lap_time": "12:51 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 927,
+    "race_id": 89,
+    "driver_id": 65,
+    "position": 5,
+    "fastest_lap_time": "10:24 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 928,
+    "race_id": 70,
+    "driver_id": 81,
+    "position": 12,
+    "fastest_lap_time": "10:23 AM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 929,
+    "race_id": 35,
+    "driver_id": 44,
+    "position": 7,
+    "fastest_lap_time": "4:33 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 930,
+    "race_id": 70,
+    "driver_id": 90,
+    "position": 11,
+    "fastest_lap_time": "1:26 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 931,
+    "race_id": 23,
+    "driver_id": 96,
+    "position": 5,
+    "fastest_lap_time": "4:36 AM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 932,
+    "race_id": 99,
+    "driver_id": 48,
+    "position": 11,
+    "fastest_lap_time": "3:07 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 933,
+    "race_id": 12,
+    "driver_id": 13,
+    "position": 17,
+    "fastest_lap_time": "11:52 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 934,
+    "race_id": 79,
+    "driver_id": 95,
+    "position": 8,
+    "fastest_lap_time": "12:05 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 935,
+    "race_id": 77,
+    "driver_id": 82,
+    "position": 14,
+    "fastest_lap_time": "8:29 PM",
+    "points_awarded": 5
+  },
+  {
+    "result_id": 936,
+    "race_id": 82,
+    "driver_id": 76,
+    "position": 17,
+    "fastest_lap_time": "4:23 AM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 937,
+    "race_id": 22,
+    "driver_id": 45,
+    "position": 1,
+    "fastest_lap_time": "11:55 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 938,
+    "race_id": 96,
+    "driver_id": 45,
+    "position": 11,
+    "fastest_lap_time": "5:10 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 939,
+    "race_id": 61,
+    "driver_id": 82,
+    "position": 9,
+    "fastest_lap_time": "12:33 PM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 940,
+    "race_id": 68,
+    "driver_id": 52,
+    "position": 5,
+    "fastest_lap_time": "10:34 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 941,
+    "race_id": 40,
+    "driver_id": 54,
+    "position": 5,
+    "fastest_lap_time": "9:12 PM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 942,
+    "race_id": 59,
+    "driver_id": 66,
+    "position": 12,
+    "fastest_lap_time": "3:24 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 943,
+    "race_id": 1,
+    "driver_id": 72,
+    "position": 1,
+    "fastest_lap_time": "8:24 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 944,
+    "race_id": 79,
+    "driver_id": 46,
+    "position": 1,
+    "fastest_lap_time": "11:50 AM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 945,
+    "race_id": 92,
+    "driver_id": 14,
+    "position": 4,
+    "fastest_lap_time": "12:44 PM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 946,
+    "race_id": 1,
+    "driver_id": 3,
+    "position": 2,
+    "fastest_lap_time": "9:46 PM",
+    "points_awarded": 0
+  },
+  {
+    "result_id": 947,
+    "race_id": 24,
+    "driver_id": 74,
+    "position": 5,
+    "fastest_lap_time": "4:17 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 948,
+    "race_id": 15,
+    "driver_id": 83,
+    "position": 6,
+    "fastest_lap_time": "1:42 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 949,
+    "race_id": 62,
+    "driver_id": 38,
+    "position": 1,
+    "fastest_lap_time": "12:59 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 950,
+    "race_id": 55,
+    "driver_id": 36,
+    "position": 14,
+    "fastest_lap_time": "5:26 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 951,
+    "race_id": 44,
+    "driver_id": 39,
+    "position": 12,
+    "fastest_lap_time": "2:40 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 952,
+    "race_id": 58,
+    "driver_id": 92,
+    "position": 7,
+    "fastest_lap_time": "10:01 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 953,
+    "race_id": 49,
+    "driver_id": 97,
+    "position": 20,
+    "fastest_lap_time": "2:14 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 954,
+    "race_id": 58,
+    "driver_id": 46,
+    "position": 20,
+    "fastest_lap_time": "9:22 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 955,
+    "race_id": 85,
+    "driver_id": 76,
+    "position": 18,
+    "fastest_lap_time": "8:15 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 956,
+    "race_id": 46,
+    "driver_id": 35,
+    "position": 19,
+    "fastest_lap_time": "9:23 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 957,
+    "race_id": 71,
+    "driver_id": 85,
+    "position": 19,
+    "fastest_lap_time": "12:06 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 958,
+    "race_id": 96,
+    "driver_id": 97,
+    "position": 5,
+    "fastest_lap_time": "10:59 AM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 959,
+    "race_id": 34,
+    "driver_id": 9,
+    "position": 16,
+    "fastest_lap_time": "1:09 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 960,
+    "race_id": 43,
+    "driver_id": 71,
+    "position": 14,
+    "fastest_lap_time": "4:53 PM",
+    "points_awarded": 20
+  },
+  {
+    "result_id": 961,
+    "race_id": 15,
+    "driver_id": 71,
+    "position": 8,
+    "fastest_lap_time": "2:04 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 962,
+    "race_id": 59,
+    "driver_id": 81,
+    "position": 10,
+    "fastest_lap_time": "3:25 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 963,
+    "race_id": 20,
+    "driver_id": 31,
+    "position": 17,
+    "fastest_lap_time": "2:42 PM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 964,
+    "race_id": 59,
+    "driver_id": 45,
+    "position": 17,
+    "fastest_lap_time": "9:20 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 965,
+    "race_id": 43,
+    "driver_id": 41,
+    "position": 18,
+    "fastest_lap_time": "8:50 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 966,
+    "race_id": 41,
+    "driver_id": 82,
+    "position": 14,
+    "fastest_lap_time": "9:27 PM",
+    "points_awarded": 16
+  },
+  {
+    "result_id": 967,
+    "race_id": 61,
+    "driver_id": 50,
+    "position": 12,
+    "fastest_lap_time": "8:26 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 968,
+    "race_id": 60,
+    "driver_id": 74,
+    "position": 13,
+    "fastest_lap_time": "11:51 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 969,
+    "race_id": 18,
+    "driver_id": 24,
+    "position": 5,
+    "fastest_lap_time": "11:51 AM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 970,
+    "race_id": 32,
+    "driver_id": 14,
+    "position": 12,
+    "fastest_lap_time": "7:23 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 971,
+    "race_id": 88,
+    "driver_id": 47,
+    "position": 16,
+    "fastest_lap_time": "4:52 AM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 972,
+    "race_id": 85,
+    "driver_id": 83,
+    "position": 13,
+    "fastest_lap_time": "8:50 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 973,
+    "race_id": 51,
+    "driver_id": 88,
+    "position": 15,
+    "fastest_lap_time": "4:32 AM",
+    "points_awarded": 1
+  },
+  {
+    "result_id": 974,
+    "race_id": 33,
+    "driver_id": 4,
+    "position": 5,
+    "fastest_lap_time": "7:37 AM",
+    "points_awarded": 4
+  },
+  {
+    "result_id": 975,
+    "race_id": 67,
+    "driver_id": 7,
+    "position": 17,
+    "fastest_lap_time": "10:53 AM",
+    "points_awarded": 14
+  },
+  {
+    "result_id": 976,
+    "race_id": 70,
+    "driver_id": 71,
+    "position": 20,
+    "fastest_lap_time": "1:35 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 977,
+    "race_id": 7,
+    "driver_id": 12,
+    "position": 14,
+    "fastest_lap_time": "5:36 PM",
+    "points_awarded": 8
+  },
+  {
+    "result_id": 978,
+    "race_id": 57,
+    "driver_id": 97,
+    "position": 20,
+    "fastest_lap_time": "12:59 AM",
+    "points_awarded": 2
+  },
+  {
+    "result_id": 979,
+    "race_id": 21,
+    "driver_id": 48,
+    "position": 16,
+    "fastest_lap_time": "8:02 PM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 980,
+    "race_id": 76,
+    "driver_id": 89,
+    "position": 19,
+    "fastest_lap_time": "11:01 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 981,
+    "race_id": 1,
+    "driver_id": 11,
+    "position": 5,
+    "fastest_lap_time": "3:46 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 982,
+    "race_id": 84,
+    "driver_id": 38,
+    "position": 2,
+    "fastest_lap_time": "12:32 AM",
+    "points_awarded": 10
+  },
+  {
+    "result_id": 983,
+    "race_id": 27,
+    "driver_id": 62,
+    "position": 4,
+    "fastest_lap_time": "11:14 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 984,
+    "race_id": 59,
+    "driver_id": 66,
+    "position": 1,
+    "fastest_lap_time": "8:03 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 985,
+    "race_id": 45,
+    "driver_id": 23,
+    "position": 1,
+    "fastest_lap_time": "6:37 PM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 986,
+    "race_id": 37,
+    "driver_id": 51,
+    "position": 3,
+    "fastest_lap_time": "11:58 AM",
+    "points_awarded": 15
+  },
+  {
+    "result_id": 987,
+    "race_id": 30,
+    "driver_id": 22,
+    "position": 9,
+    "fastest_lap_time": "11:57 AM",
+    "points_awarded": 18
+  },
+  {
+    "result_id": 988,
+    "race_id": 56,
+    "driver_id": 86,
+    "position": 14,
+    "fastest_lap_time": "9:10 AM",
+    "points_awarded": 3
+  },
+  {
+    "result_id": 989,
+    "race_id": 36,
+    "driver_id": 32,
+    "position": 18,
+    "fastest_lap_time": "3:04 AM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 990,
+    "race_id": 99,
+    "driver_id": 1,
+    "position": 7,
+    "fastest_lap_time": "9:31 PM",
+    "points_awarded": 11
+  },
+  {
+    "result_id": 991,
+    "race_id": 62,
+    "driver_id": 39,
+    "position": 4,
+    "fastest_lap_time": "4:38 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 992,
+    "race_id": 80,
+    "driver_id": 96,
+    "position": 12,
+    "fastest_lap_time": "10:29 PM",
+    "points_awarded": 6
+  },
+  {
+    "result_id": 993,
+    "race_id": 58,
+    "driver_id": 54,
+    "position": 4,
+    "fastest_lap_time": "10:24 PM",
+    "points_awarded": 7
+  },
+  {
+    "result_id": 994,
+    "race_id": 42,
+    "driver_id": 40,
+    "position": 17,
+    "fastest_lap_time": "1:39 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 995,
+    "race_id": 83,
+    "driver_id": 69,
+    "position": 15,
+    "fastest_lap_time": "6:15 PM",
+    "points_awarded": 12
+  },
+  {
+    "result_id": 996,
+    "race_id": 100,
+    "driver_id": 99,
+    "position": 2,
+    "fastest_lap_time": "10:01 PM",
+    "points_awarded": 17
+  },
+  {
+    "result_id": 997,
+    "race_id": 22,
+    "driver_id": 93,
+    "position": 17,
+    "fastest_lap_time": "8:23 PM",
+    "points_awarded": 13
+  },
+  {
+    "result_id": 998,
+    "race_id": 83,
+    "driver_id": 38,
+    "position": 9,
+    "fastest_lap_time": "2:23 PM",
+    "points_awarded": 9
+  },
+  {
+    "result_id": 999,
+    "race_id": 2,
+    "driver_id": 26,
+    "position": 4,
+    "fastest_lap_time": "1:36 AM",
+    "points_awarded": 19
+  },
+  {
+    "result_id": 1000,
+    "race_id": 51,
+    "driver_id": 51,
+    "position": 11,
+    "fastest_lap_time": "5:02 AM",
+    "points_awarded": 20
+  }
+]

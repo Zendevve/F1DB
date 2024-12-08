@@ -1,0 +1,8002 @@
+[
+  {
+    "team_id": 477,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Ash Dolley",
+    "founded_year": 2010,
+    "constructor_points": 1000
+  },
+  {
+    "team_id": 818,
+    "name": "Mrs",
+    "country": "Micronesia",
+    "principal": "Lin Noonan",
+    "founded_year": 1972,
+    "constructor_points": 794
+  },
+  {
+    "team_id": 692,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Olva Peeters",
+    "founded_year": 1937,
+    "constructor_points": 993
+  },
+  {
+    "team_id": 803,
+    "name": "Dr",
+    "country": "Portugal",
+    "principal": "Brena Brinded",
+    "founded_year": 2010,
+    "constructor_points": 256
+  },
+  {
+    "team_id": 889,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Quinton Diss",
+    "founded_year": 1927,
+    "constructor_points": 28
+  },
+  {
+    "team_id": 704,
+    "name": "Dr",
+    "country": "Egypt",
+    "principal": "Vida Shapter",
+    "founded_year": 1935,
+    "constructor_points": 212
+  },
+  {
+    "team_id": 299,
+    "name": "Mrs",
+    "country": "United States",
+    "principal": "Dianemarie Eyre",
+    "founded_year": 1952,
+    "constructor_points": 150
+  },
+  {
+    "team_id": 603,
+    "name": "Honorable",
+    "country": "Colombia",
+    "principal": "Amata Agronski",
+    "founded_year": 1948,
+    "constructor_points": 528
+  },
+  {
+    "team_id": 271,
+    "name": "Mrs",
+    "country": "Dominican Republic",
+    "principal": "Elaina Karel",
+    "founded_year": 1969,
+    "constructor_points": 530
+  },
+  {
+    "team_id": 128,
+    "name": "Dr",
+    "country": "Hong Kong",
+    "principal": "Modestia Burlay",
+    "founded_year": 1988,
+    "constructor_points": 432
+  },
+  {
+    "team_id": 201,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Carey Opie",
+    "founded_year": 1968,
+    "constructor_points": 183
+  },
+  {
+    "team_id": 919,
+    "name": "Mrs",
+    "country": "Guinea",
+    "principal": "Ingelbert Didsbury",
+    "founded_year": 1971,
+    "constructor_points": 246
+  },
+  {
+    "team_id": 401,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Mattheus Listone",
+    "founded_year": 1974,
+    "constructor_points": 330
+  },
+  {
+    "team_id": 199,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Layne Dearnaley",
+    "founded_year": 1941,
+    "constructor_points": 361
+  },
+  {
+    "team_id": 239,
+    "name": "Honorable",
+    "country": "Zambia",
+    "principal": "Madelin Sampson",
+    "founded_year": 1998,
+    "constructor_points": 293
+  },
+  {
+    "team_id": 567,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Estrellita Dugood",
+    "founded_year": 1940,
+    "constructor_points": 775
+  },
+  {
+    "team_id": 698,
+    "name": "Honorable",
+    "country": "Spain",
+    "principal": "Christoph Sansbury",
+    "founded_year": 1919,
+    "constructor_points": 943
+  },
+  {
+    "team_id": 441,
+    "name": "Rev",
+    "country": "Albania",
+    "principal": "Maximo Gotobed",
+    "founded_year": 2005,
+    "constructor_points": 657
+  },
+  {
+    "team_id": 561,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Reilly Bennetts",
+    "founded_year": 1998,
+    "constructor_points": 223
+  },
+  {
+    "team_id": 434,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Hettie Winney",
+    "founded_year": 1902,
+    "constructor_points": 321
+  },
+  {
+    "team_id": 23,
+    "name": "Mr",
+    "country": "Spain",
+    "principal": "Sydney Manclark",
+    "founded_year": 1941,
+    "constructor_points": 811
+  },
+  {
+    "team_id": 270,
+    "name": "Rev",
+    "country": "Zimbabwe",
+    "principal": "Mitchel Caslake",
+    "founded_year": 1946,
+    "constructor_points": 865
+  },
+  {
+    "team_id": 886,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Karalynn Bickerstasse",
+    "founded_year": 1957,
+    "constructor_points": 215
+  },
+  {
+    "team_id": 186,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Haily Buxey",
+    "founded_year": 1964,
+    "constructor_points": 753
+  },
+  {
+    "team_id": 30,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Katleen MacAskill",
+    "founded_year": 1995,
+    "constructor_points": 237
+  },
+  {
+    "team_id": 511,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Idell Sabatini",
+    "founded_year": 1932,
+    "constructor_points": 592
+  },
+  {
+    "team_id": 102,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Adlai Celier",
+    "founded_year": 1973,
+    "constructor_points": 377
+  },
+  {
+    "team_id": 121,
+    "name": "Dr",
+    "country": "Azerbaijan",
+    "principal": "Alia Renackowna",
+    "founded_year": 2013,
+    "constructor_points": 933
+  },
+  {
+    "team_id": 7,
+    "name": "Honorable",
+    "country": "Honduras",
+    "principal": "Warner Newborn",
+    "founded_year": 1929,
+    "constructor_points": 925
+  },
+  {
+    "team_id": 144,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Patti Coode",
+    "founded_year": 2020,
+    "constructor_points": 926
+  },
+  {
+    "team_id": 354,
+    "name": "Mr",
+    "country": "Sweden",
+    "principal": "Gray McAnulty",
+    "founded_year": 1923,
+    "constructor_points": 747
+  },
+  {
+    "team_id": 791,
+    "name": "Mr",
+    "country": "Poland",
+    "principal": "Ilario Turpie",
+    "founded_year": 1999,
+    "constructor_points": 997
+  },
+  {
+    "team_id": 111,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Benji Mayman",
+    "founded_year": 2013,
+    "constructor_points": 799
+  },
+  {
+    "team_id": 877,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Alikee Foord",
+    "founded_year": 1937,
+    "constructor_points": 892
+  },
+  {
+    "team_id": 70,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Shandy Kestle",
+    "founded_year": 2018,
+    "constructor_points": 564
+  },
+  {
+    "team_id": 179,
+    "name": "Honorable",
+    "country": "Uruguay",
+    "principal": "Starla DelaField",
+    "founded_year": 1940,
+    "constructor_points": 382
+  },
+  {
+    "team_id": 400,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Barnebas Scurrah",
+    "founded_year": 1989,
+    "constructor_points": 871
+  },
+  {
+    "team_id": 200,
+    "name": "Mrs",
+    "country": "Norway",
+    "principal": "Tracey Pennoni",
+    "founded_year": 1962,
+    "constructor_points": 565
+  },
+  {
+    "team_id": 928,
+    "name": "Ms",
+    "country": "France",
+    "principal": "Brannon Stephens",
+    "founded_year": 1970,
+    "constructor_points": 141
+  },
+  {
+    "team_id": 995,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Chelsae Sworne",
+    "founded_year": 1947,
+    "constructor_points": 477
+  },
+  {
+    "team_id": 35,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Bing McConway",
+    "founded_year": 2004,
+    "constructor_points": 25
+  },
+  {
+    "team_id": 293,
+    "name": "Dr",
+    "country": "Nigeria",
+    "principal": "Allen Parish",
+    "founded_year": 1949,
+    "constructor_points": 95
+  },
+  {
+    "team_id": 362,
+    "name": "Mr",
+    "country": "Portugal",
+    "principal": "Maitilde Peris",
+    "founded_year": 1909,
+    "constructor_points": 753
+  },
+  {
+    "team_id": 931,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Hastings Winfield",
+    "founded_year": 1925,
+    "constructor_points": 370
+  },
+  {
+    "team_id": 494,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Pearce Kerrigan",
+    "founded_year": 2003,
+    "constructor_points": 286
+  },
+  {
+    "team_id": 8,
+    "name": "Rev",
+    "country": "Honduras",
+    "principal": "Jason Krienke",
+    "founded_year": 2010,
+    "constructor_points": 457
+  },
+  {
+    "team_id": 429,
+    "name": "Mr",
+    "country": "Saudi Arabia",
+    "principal": "Nora Hardan",
+    "founded_year": 1923,
+    "constructor_points": 313
+  },
+  {
+    "team_id": 462,
+    "name": "Honorable",
+    "country": "Thailand",
+    "principal": "Ollie Alexsandrowicz",
+    "founded_year": 1919,
+    "constructor_points": 38
+  },
+  {
+    "team_id": 673,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Aime Eicke",
+    "founded_year": 2017,
+    "constructor_points": 491
+  },
+  {
+    "team_id": 295,
+    "name": "Mr",
+    "country": "Croatia",
+    "principal": "Onfroi Shaudfurth",
+    "founded_year": 1987,
+    "constructor_points": 176
+  },
+  {
+    "team_id": 541,
+    "name": "Ms",
+    "country": "France",
+    "principal": "Barri Crummay",
+    "founded_year": 1977,
+    "constructor_points": 775
+  },
+  {
+    "team_id": 38,
+    "name": "Honorable",
+    "country": "Netherlands",
+    "principal": "Joshua Matteucci",
+    "founded_year": 1947,
+    "constructor_points": 61
+  },
+  {
+    "team_id": 193,
+    "name": "Mr",
+    "country": "Honduras",
+    "principal": "Tova Mattedi",
+    "founded_year": 1965,
+    "constructor_points": 5
+  },
+  {
+    "team_id": 615,
+    "name": "Mr",
+    "country": "Mexico",
+    "principal": "Amalia Henrion",
+    "founded_year": 1990,
+    "constructor_points": 746
+  },
+  {
+    "team_id": 1,
+    "name": "Rev",
+    "country": "Ukraine",
+    "principal": "Opaline Sawer",
+    "founded_year": 1942,
+    "constructor_points": 384
+  },
+  {
+    "team_id": 413,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Yule Addyman",
+    "founded_year": 1934,
+    "constructor_points": 350
+  },
+  {
+    "team_id": 110,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Carol Echelle",
+    "founded_year": 1931,
+    "constructor_points": 775
+  },
+  {
+    "team_id": 580,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Ber Lindwasser",
+    "founded_year": 1993,
+    "constructor_points": 174
+  },
+  {
+    "team_id": 700,
+    "name": "Mr",
+    "country": "Venezuela",
+    "principal": "Amalle Durrant",
+    "founded_year": 1979,
+    "constructor_points": 699
+  },
+  {
+    "team_id": 227,
+    "name": "Rev",
+    "country": "Peru",
+    "principal": "Franklin Scholl",
+    "founded_year": 2008,
+    "constructor_points": 762
+  },
+  {
+    "team_id": 419,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Cinda Forst",
+    "founded_year": 1945,
+    "constructor_points": 987
+  },
+  {
+    "team_id": 456,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Bartholomeo Pimm",
+    "founded_year": 1983,
+    "constructor_points": 650
+  },
+  {
+    "team_id": 161,
+    "name": "Dr",
+    "country": "Croatia",
+    "principal": "Ameline Yokel",
+    "founded_year": 1951,
+    "constructor_points": 712
+  },
+  {
+    "team_id": 108,
+    "name": "Honorable",
+    "country": "Madagascar",
+    "principal": "Bronny Whipple",
+    "founded_year": 1921,
+    "constructor_points": 854
+  },
+  {
+    "team_id": 923,
+    "name": "Mr",
+    "country": "Thailand",
+    "principal": "Frankie Lightfoot",
+    "founded_year": 2012,
+    "constructor_points": 475
+  },
+  {
+    "team_id": 486,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Giorgia McSkeagan",
+    "founded_year": 1982,
+    "constructor_points": 484
+  },
+  {
+    "team_id": 769,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Merci Baldi",
+    "founded_year": 2008,
+    "constructor_points": 701
+  },
+  {
+    "team_id": 363,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Isador Foulkes",
+    "founded_year": 2009,
+    "constructor_points": 610
+  },
+  {
+    "team_id": 122,
+    "name": "Rev",
+    "country": "Italy",
+    "principal": "Sansone Gove",
+    "founded_year": 1978,
+    "constructor_points": 55
+  },
+  {
+    "team_id": 608,
+    "name": "Dr",
+    "country": "Netherlands",
+    "principal": "Jerri Healks",
+    "founded_year": 1967,
+    "constructor_points": 262
+  },
+  {
+    "team_id": 412,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Rhonda Maccrea",
+    "founded_year": 2002,
+    "constructor_points": 783
+  },
+  {
+    "team_id": 439,
+    "name": "Ms",
+    "country": "Canada",
+    "principal": "Harri Roumier",
+    "founded_year": 1969,
+    "constructor_points": 165
+  },
+  {
+    "team_id": 231,
+    "name": "Mr",
+    "country": "Thailand",
+    "principal": "Tani Barthelmes",
+    "founded_year": 1934,
+    "constructor_points": 150
+  },
+  {
+    "team_id": 302,
+    "name": "Honorable",
+    "country": "Ukraine",
+    "principal": "Rab Garnar",
+    "founded_year": 1940,
+    "constructor_points": 397
+  },
+  {
+    "team_id": 44,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Dulci Nerne",
+    "founded_year": 1928,
+    "constructor_points": 475
+  },
+  {
+    "team_id": 212,
+    "name": "Rev",
+    "country": "Sweden",
+    "principal": "Tatum Kennifick",
+    "founded_year": 2016,
+    "constructor_points": 400
+  },
+  {
+    "team_id": 8,
+    "name": "Dr",
+    "country": "Slovenia",
+    "principal": "Cairistiona Sprott",
+    "founded_year": 1952,
+    "constructor_points": 926
+  },
+  {
+    "team_id": 373,
+    "name": "Mrs",
+    "country": "Portugal",
+    "principal": "Burnard Leppington",
+    "founded_year": 1926,
+    "constructor_points": 170
+  },
+  {
+    "team_id": 80,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Charmine Faulconer",
+    "founded_year": 1918,
+    "constructor_points": 490
+  },
+  {
+    "team_id": 804,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Ruthi Casazza",
+    "founded_year": 1921,
+    "constructor_points": 733
+  },
+  {
+    "team_id": 239,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Enid Langdon",
+    "founded_year": 1987,
+    "constructor_points": 766
+  },
+  {
+    "team_id": 28,
+    "name": "Rev",
+    "country": "Canada",
+    "principal": "Ashla Circuitt",
+    "founded_year": 1926,
+    "constructor_points": 515
+  },
+  {
+    "team_id": 289,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Mikel Maletratt",
+    "founded_year": 1929,
+    "constructor_points": 676
+  },
+  {
+    "team_id": 827,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Farlay Hawtin",
+    "founded_year": 1936,
+    "constructor_points": 2
+  },
+  {
+    "team_id": 509,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Margarete Hultberg",
+    "founded_year": 2000,
+    "constructor_points": 326
+  },
+  {
+    "team_id": 491,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Burg Eglin",
+    "founded_year": 1939,
+    "constructor_points": 849
+  },
+  {
+    "team_id": 351,
+    "name": "Dr",
+    "country": "Guatemala",
+    "principal": "Findlay Buzzing",
+    "founded_year": 1995,
+    "constructor_points": 21
+  },
+  {
+    "team_id": 850,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Dionne Lammie",
+    "founded_year": 1931,
+    "constructor_points": 784
+  },
+  {
+    "team_id": 95,
+    "name": "Mr",
+    "country": "Mongolia",
+    "principal": "Margi Martensen",
+    "founded_year": 1958,
+    "constructor_points": 456
+  },
+  {
+    "team_id": 512,
+    "name": "Mr",
+    "country": "Spain",
+    "principal": "Piggy Loines",
+    "founded_year": 1994,
+    "constructor_points": 912
+  },
+  {
+    "team_id": 914,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Launce Gabbotts",
+    "founded_year": 1935,
+    "constructor_points": 218
+  },
+  {
+    "team_id": 763,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Belicia Howell",
+    "founded_year": 1989,
+    "constructor_points": 960
+  },
+  {
+    "team_id": 189,
+    "name": "Rev",
+    "country": "Vietnam",
+    "principal": "Lori Collisson",
+    "founded_year": 1943,
+    "constructor_points": 6
+  },
+  {
+    "team_id": 375,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Sula Butterwick",
+    "founded_year": 1983,
+    "constructor_points": 82
+  },
+  {
+    "team_id": 79,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Rahel Rumbellow",
+    "founded_year": 2006,
+    "constructor_points": 667
+  },
+  {
+    "team_id": 264,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Cahra Shone",
+    "founded_year": 1983,
+    "constructor_points": 396
+  },
+  {
+    "team_id": 998,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Siward Hovenden",
+    "founded_year": 1973,
+    "constructor_points": 142
+  },
+  {
+    "team_id": 956,
+    "name": "Mr",
+    "country": "Peru",
+    "principal": "Becki Panons",
+    "founded_year": 1935,
+    "constructor_points": 614
+  },
+  {
+    "team_id": 540,
+    "name": "Rev",
+    "country": "Japan",
+    "principal": "Mead Binch",
+    "founded_year": 1919,
+    "constructor_points": 607
+  },
+  {
+    "team_id": 196,
+    "name": "Mrs",
+    "country": "Mongolia",
+    "principal": "Corrina Osorio",
+    "founded_year": 1934,
+    "constructor_points": 935
+  },
+  {
+    "team_id": 611,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Elvyn Whyatt",
+    "founded_year": 1983,
+    "constructor_points": 299
+  },
+  {
+    "team_id": 118,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Wallas McPartling",
+    "founded_year": 1926,
+    "constructor_points": 129
+  },
+  {
+    "team_id": 421,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Ericka Loache",
+    "founded_year": 1900,
+    "constructor_points": 51
+  },
+  {
+    "team_id": 61,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Cloris Panting",
+    "founded_year": 1954,
+    "constructor_points": 623
+  },
+  {
+    "team_id": 849,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Rodi Kem",
+    "founded_year": 2020,
+    "constructor_points": 990
+  },
+  {
+    "team_id": 626,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Duke Pinniger",
+    "founded_year": 2013,
+    "constructor_points": 588
+  },
+  {
+    "team_id": 410,
+    "name": "Mrs",
+    "country": "Bolivia",
+    "principal": "Winnifred Iannazzi",
+    "founded_year": 1917,
+    "constructor_points": 722
+  },
+  {
+    "team_id": 489,
+    "name": "Mr",
+    "country": "Peru",
+    "principal": "Kain Bernini",
+    "founded_year": 1966,
+    "constructor_points": 111
+  },
+  {
+    "team_id": 142,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Marion Eliot",
+    "founded_year": 1937,
+    "constructor_points": 809
+  },
+  {
+    "team_id": 640,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Duncan Renshell",
+    "founded_year": 1983,
+    "constructor_points": 966
+  },
+  {
+    "team_id": 940,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Shepperd Glendenning",
+    "founded_year": 1904,
+    "constructor_points": 552
+  },
+  {
+    "team_id": 651,
+    "name": "Dr",
+    "country": "Senegal",
+    "principal": "Toddie Kilbee",
+    "founded_year": 1965,
+    "constructor_points": 468
+  },
+  {
+    "team_id": 349,
+    "name": "Dr",
+    "country": "Argentina",
+    "principal": "Merell Cran",
+    "founded_year": 1976,
+    "constructor_points": 670
+  },
+  {
+    "team_id": 287,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Maurita Cordy",
+    "founded_year": 1959,
+    "constructor_points": 384
+  },
+  {
+    "team_id": 891,
+    "name": "Honorable",
+    "country": "Japan",
+    "principal": "Cassie Chaperling",
+    "founded_year": 1985,
+    "constructor_points": 445
+  },
+  {
+    "team_id": 338,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Kial Frances",
+    "founded_year": 1999,
+    "constructor_points": 512
+  },
+  {
+    "team_id": 534,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Hagan Traill",
+    "founded_year": 2015,
+    "constructor_points": 790
+  },
+  {
+    "team_id": 649,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Iago Totton",
+    "founded_year": 1990,
+    "constructor_points": 869
+  },
+  {
+    "team_id": 7,
+    "name": "Ms",
+    "country": "Cambodia",
+    "principal": "Ash Iacovacci",
+    "founded_year": 2010,
+    "constructor_points": 957
+  },
+  {
+    "team_id": 864,
+    "name": "Honorable",
+    "country": "Jordan",
+    "principal": "Emmi Merriment",
+    "founded_year": 1908,
+    "constructor_points": 414
+  },
+  {
+    "team_id": 342,
+    "name": "Honorable",
+    "country": "Portugal",
+    "principal": "Templeton Chasier",
+    "founded_year": 2022,
+    "constructor_points": 720
+  },
+  {
+    "team_id": 637,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Winfield Yurevich",
+    "founded_year": 1929,
+    "constructor_points": 560
+  },
+  {
+    "team_id": 766,
+    "name": "Ms",
+    "country": "Greece",
+    "principal": "Arluene Emmison",
+    "founded_year": 1946,
+    "constructor_points": 541
+  },
+  {
+    "team_id": 556,
+    "name": "Mrs",
+    "country": "South Africa",
+    "principal": "Carol Matton",
+    "founded_year": 1943,
+    "constructor_points": 373
+  },
+  {
+    "team_id": 843,
+    "name": "Mrs",
+    "country": "Spain",
+    "principal": "Dacy Gate",
+    "founded_year": 1988,
+    "constructor_points": 671
+  },
+  {
+    "team_id": 58,
+    "name": "Ms",
+    "country": "Lesotho",
+    "principal": "Tiertza Winley",
+    "founded_year": 2003,
+    "constructor_points": 611
+  },
+  {
+    "team_id": 552,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Everett Canto",
+    "founded_year": 1931,
+    "constructor_points": 356
+  },
+  {
+    "team_id": 815,
+    "name": "Mrs",
+    "country": "South Africa",
+    "principal": "Adolph Antonazzi",
+    "founded_year": 1920,
+    "constructor_points": 854
+  },
+  {
+    "team_id": 196,
+    "name": "Rev",
+    "country": "Poland",
+    "principal": "Shell Upham",
+    "founded_year": 2018,
+    "constructor_points": 688
+  },
+  {
+    "team_id": 707,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Lena Tigwell",
+    "founded_year": 2008,
+    "constructor_points": 489
+  },
+  {
+    "team_id": 762,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Bette Fownes",
+    "founded_year": 1903,
+    "constructor_points": 842
+  },
+  {
+    "team_id": 240,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Ardyth Atlee",
+    "founded_year": 1999,
+    "constructor_points": 957
+  },
+  {
+    "team_id": 407,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Wayne Radbond",
+    "founded_year": 1961,
+    "constructor_points": 414
+  },
+  {
+    "team_id": 929,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Tabina Dumberell",
+    "founded_year": 2014,
+    "constructor_points": 477
+  },
+  {
+    "team_id": 122,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Libbi Rentenbeck",
+    "founded_year": 1944,
+    "constructor_points": 193
+  },
+  {
+    "team_id": 452,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Vergil Mowen",
+    "founded_year": 1982,
+    "constructor_points": 371
+  },
+  {
+    "team_id": 990,
+    "name": "Dr",
+    "country": "Tunisia",
+    "principal": "Laurella Gosson",
+    "founded_year": 1965,
+    "constructor_points": 784
+  },
+  {
+    "team_id": 323,
+    "name": "Rev",
+    "country": "Nigeria",
+    "principal": "Brandi Gircke",
+    "founded_year": 1961,
+    "constructor_points": 219
+  },
+  {
+    "team_id": 51,
+    "name": "Dr",
+    "country": "Greece",
+    "principal": "Cornall Browell",
+    "founded_year": 1969,
+    "constructor_points": 165
+  },
+  {
+    "team_id": 111,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Johanna Kirckman",
+    "founded_year": 2012,
+    "constructor_points": 432
+  },
+  {
+    "team_id": 111,
+    "name": "Mrs",
+    "country": "Swaziland",
+    "principal": "Michele Klimshuk",
+    "founded_year": 1977,
+    "constructor_points": 592
+  },
+  {
+    "team_id": 184,
+    "name": "Rev",
+    "country": "South Africa",
+    "principal": "Dougie Du Barry",
+    "founded_year": 2018,
+    "constructor_points": 412
+  },
+  {
+    "team_id": 459,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Bridget McFie",
+    "founded_year": 1922,
+    "constructor_points": 219
+  },
+  {
+    "team_id": 133,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Seumas West-Frimley",
+    "founded_year": 1960,
+    "constructor_points": 975
+  },
+  {
+    "team_id": 941,
+    "name": "Honorable",
+    "country": "Slovenia",
+    "principal": "Carmelina Joyce",
+    "founded_year": 1946,
+    "constructor_points": 957
+  },
+  {
+    "team_id": 293,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Jeniffer Capener",
+    "founded_year": 2002,
+    "constructor_points": 535
+  },
+  {
+    "team_id": 605,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Poppy Barrand",
+    "founded_year": 1930,
+    "constructor_points": 480
+  },
+  {
+    "team_id": 224,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Rycca Burgh",
+    "founded_year": 2015,
+    "constructor_points": 140
+  },
+  {
+    "team_id": 226,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Yoshi Skocroft",
+    "founded_year": 2012,
+    "constructor_points": 348
+  },
+  {
+    "team_id": 952,
+    "name": "Honorable",
+    "country": "Mexico",
+    "principal": "Jacenta Bosley",
+    "founded_year": 1995,
+    "constructor_points": 453
+  },
+  {
+    "team_id": 142,
+    "name": "Dr",
+    "country": "Japan",
+    "principal": "Wolf Poor",
+    "founded_year": 2002,
+    "constructor_points": 941
+  },
+  {
+    "team_id": 345,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Quinn Boynes",
+    "founded_year": 2019,
+    "constructor_points": 725
+  },
+  {
+    "team_id": 616,
+    "name": "Mrs",
+    "country": "Brazil",
+    "principal": "Glenda Gripton",
+    "founded_year": 1994,
+    "constructor_points": 349
+  },
+  {
+    "team_id": 195,
+    "name": "Mrs",
+    "country": "Peru",
+    "principal": "Garfield McQuirter",
+    "founded_year": 1980,
+    "constructor_points": 512
+  },
+  {
+    "team_id": 759,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Chip Roydon",
+    "founded_year": 1929,
+    "constructor_points": 933
+  },
+  {
+    "team_id": 481,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Damita Livesley",
+    "founded_year": 1953,
+    "constructor_points": 348
+  },
+  {
+    "team_id": 851,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Yulma Blunn",
+    "founded_year": 1923,
+    "constructor_points": 569
+  },
+  {
+    "team_id": 749,
+    "name": "Ms",
+    "country": "Ireland",
+    "principal": "Sandro Caughey",
+    "founded_year": 1959,
+    "constructor_points": 827
+  },
+  {
+    "team_id": 598,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Obadiah Troop",
+    "founded_year": 1969,
+    "constructor_points": 610
+  },
+  {
+    "team_id": 54,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Rich Scarrisbrick",
+    "founded_year": 1917,
+    "constructor_points": 764
+  },
+  {
+    "team_id": 26,
+    "name": "Mrs",
+    "country": "Italy",
+    "principal": "Rachele Nehl",
+    "founded_year": 1926,
+    "constructor_points": 594
+  },
+  {
+    "team_id": 155,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Harlene Sweetman",
+    "founded_year": 1904,
+    "constructor_points": 435
+  },
+  {
+    "team_id": 738,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Ciel Klimochkin",
+    "founded_year": 2002,
+    "constructor_points": 907
+  },
+  {
+    "team_id": 702,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Fanya Shory",
+    "founded_year": 1927,
+    "constructor_points": 55
+  },
+  {
+    "team_id": 423,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Ilyse Creer",
+    "founded_year": 1959,
+    "constructor_points": 242
+  },
+  {
+    "team_id": 557,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Larry Dolder",
+    "founded_year": 1976,
+    "constructor_points": 791
+  },
+  {
+    "team_id": 126,
+    "name": "Rev",
+    "country": "Hungary",
+    "principal": "Gayelord Coffee",
+    "founded_year": 1958,
+    "constructor_points": 688
+  },
+  {
+    "team_id": 826,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Yoshi Buttwell",
+    "founded_year": 1955,
+    "constructor_points": 433
+  },
+  {
+    "team_id": 596,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Ramona Bryer",
+    "founded_year": 1942,
+    "constructor_points": 9
+  },
+  {
+    "team_id": 834,
+    "name": "Honorable",
+    "country": "Czech Republic",
+    "principal": "Ravi Ducket",
+    "founded_year": 1966,
+    "constructor_points": 952
+  },
+  {
+    "team_id": 336,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Humphrey Klimov",
+    "founded_year": 2002,
+    "constructor_points": 396
+  },
+  {
+    "team_id": 160,
+    "name": "Dr",
+    "country": "China",
+    "principal": "El Janse",
+    "founded_year": 1902,
+    "constructor_points": 989
+  },
+  {
+    "team_id": 912,
+    "name": "Honorable",
+    "country": "Russia",
+    "principal": "Julee Presidey",
+    "founded_year": 1948,
+    "constructor_points": 684
+  },
+  {
+    "team_id": 523,
+    "name": "Dr",
+    "country": "Tajikistan",
+    "principal": "Lockwood Wardrope",
+    "founded_year": 1951,
+    "constructor_points": 990
+  },
+  {
+    "team_id": 351,
+    "name": "Ms",
+    "country": "Sweden",
+    "principal": "Graeme Broader",
+    "founded_year": 2000,
+    "constructor_points": 988
+  },
+  {
+    "team_id": 709,
+    "name": "Mr",
+    "country": "Iran",
+    "principal": "Margareta Dewan",
+    "founded_year": 1962,
+    "constructor_points": 842
+  },
+  {
+    "team_id": 693,
+    "name": "Honorable",
+    "country": "Madagascar",
+    "principal": "Rustie Burbidge",
+    "founded_year": 1953,
+    "constructor_points": 578
+  },
+  {
+    "team_id": 217,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Minnnie Hutsby",
+    "founded_year": 1921,
+    "constructor_points": 967
+  },
+  {
+    "team_id": 669,
+    "name": "Mr",
+    "country": "Mexico",
+    "principal": "Berry Neely",
+    "founded_year": 2014,
+    "constructor_points": 881
+  },
+  {
+    "team_id": 666,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Roanne Branthwaite",
+    "founded_year": 2005,
+    "constructor_points": 542
+  },
+  {
+    "team_id": 355,
+    "name": "Honorable",
+    "country": "Japan",
+    "principal": "Dal Tupp",
+    "founded_year": 1983,
+    "constructor_points": 607
+  },
+  {
+    "team_id": 660,
+    "name": "Mr",
+    "country": "Poland",
+    "principal": "Basile Keech",
+    "founded_year": 1960,
+    "constructor_points": 591
+  },
+  {
+    "team_id": 352,
+    "name": "Dr",
+    "country": "New Zealand",
+    "principal": "Janine Alekseicik",
+    "founded_year": 1962,
+    "constructor_points": 306
+  },
+  {
+    "team_id": 210,
+    "name": "Dr",
+    "country": "Lithuania",
+    "principal": "Merv Boas",
+    "founded_year": 2022,
+    "constructor_points": 126
+  },
+  {
+    "team_id": 946,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Perrine Arnald",
+    "founded_year": 1908,
+    "constructor_points": 393
+  },
+  {
+    "team_id": 532,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Peyter Charters",
+    "founded_year": 1958,
+    "constructor_points": 287
+  },
+  {
+    "team_id": 245,
+    "name": "Mrs",
+    "country": "France",
+    "principal": "Hurleigh Volcker",
+    "founded_year": 1998,
+    "constructor_points": 194
+  },
+  {
+    "team_id": 356,
+    "name": "Mrs",
+    "country": "Vietnam",
+    "principal": "Kylila Soall",
+    "founded_year": 1990,
+    "constructor_points": 571
+  },
+  {
+    "team_id": 769,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Valaria Cheal",
+    "founded_year": 1916,
+    "constructor_points": 123
+  },
+  {
+    "team_id": 655,
+    "name": "Rev",
+    "country": "Nigeria",
+    "principal": "Sterling Patriche",
+    "founded_year": 1997,
+    "constructor_points": 795
+  },
+  {
+    "team_id": 730,
+    "name": "Dr",
+    "country": "Peru",
+    "principal": "Andreana Stapley",
+    "founded_year": 1907,
+    "constructor_points": 150
+  },
+  {
+    "team_id": 343,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Brigham Hambric",
+    "founded_year": 1956,
+    "constructor_points": 839
+  },
+  {
+    "team_id": 195,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Madalena Seers",
+    "founded_year": 1994,
+    "constructor_points": 385
+  },
+  {
+    "team_id": 858,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Sheila-kathryn Alessandretti",
+    "founded_year": 1911,
+    "constructor_points": 711
+  },
+  {
+    "team_id": 896,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Kerrin Huttley",
+    "founded_year": 1988,
+    "constructor_points": 874
+  },
+  {
+    "team_id": 341,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Dulci Warner",
+    "founded_year": 1912,
+    "constructor_points": 153
+  },
+  {
+    "team_id": 4,
+    "name": "Ms",
+    "country": "Mexico",
+    "principal": "Hakeem Brackpool",
+    "founded_year": 1920,
+    "constructor_points": 589
+  },
+  {
+    "team_id": 654,
+    "name": "Dr",
+    "country": "France",
+    "principal": "Amelia Eccott",
+    "founded_year": 1913,
+    "constructor_points": 902
+  },
+  {
+    "team_id": 832,
+    "name": "Dr",
+    "country": "Nepal",
+    "principal": "Miranda Cleef",
+    "founded_year": 1933,
+    "constructor_points": 740
+  },
+  {
+    "team_id": 711,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Ferguson Pilpovic",
+    "founded_year": 1939,
+    "constructor_points": 374
+  },
+  {
+    "team_id": 504,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Elset Deane",
+    "founded_year": 1966,
+    "constructor_points": 477
+  },
+  {
+    "team_id": 682,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Gerda McGilvary",
+    "founded_year": 1963,
+    "constructor_points": 888
+  },
+  {
+    "team_id": 131,
+    "name": "Dr",
+    "country": "United States",
+    "principal": "Mitchell Chasier",
+    "founded_year": 1990,
+    "constructor_points": 184
+  },
+  {
+    "team_id": 186,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Dianemarie Grumbridge",
+    "founded_year": 1973,
+    "constructor_points": 334
+  },
+  {
+    "team_id": 77,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Anthea Furbank",
+    "founded_year": 1947,
+    "constructor_points": 313
+  },
+  {
+    "team_id": 952,
+    "name": "Mrs",
+    "country": "Finland",
+    "principal": "Anna-maria Nono",
+    "founded_year": 1956,
+    "constructor_points": 252
+  },
+  {
+    "team_id": 587,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Vina Yuill",
+    "founded_year": 1921,
+    "constructor_points": 638
+  },
+  {
+    "team_id": 51,
+    "name": "Dr",
+    "country": "Peru",
+    "principal": "Dorelia Brunn",
+    "founded_year": 2010,
+    "constructor_points": 12
+  },
+  {
+    "team_id": 535,
+    "name": "Ms",
+    "country": "Russia",
+    "principal": "Iolande Spurway",
+    "founded_year": 2019,
+    "constructor_points": 104
+  },
+  {
+    "team_id": 680,
+    "name": "Mr",
+    "country": "Bosnia and Herzegovina",
+    "principal": "Sherie Poppleton",
+    "founded_year": 1931,
+    "constructor_points": 899
+  },
+  {
+    "team_id": 104,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Haleigh Riddell",
+    "founded_year": 1984,
+    "constructor_points": 143
+  },
+  {
+    "team_id": 931,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Dyanna Rowles",
+    "founded_year": 1975,
+    "constructor_points": 369
+  },
+  {
+    "team_id": 703,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Crista Sives",
+    "founded_year": 1918,
+    "constructor_points": 944
+  },
+  {
+    "team_id": 220,
+    "name": "Mrs",
+    "country": "Poland",
+    "principal": "Oralle Espinola",
+    "founded_year": 1942,
+    "constructor_points": 69
+  },
+  {
+    "team_id": 6,
+    "name": "Dr",
+    "country": "Angola",
+    "principal": "Catha Mercey",
+    "founded_year": 1952,
+    "constructor_points": 629
+  },
+  {
+    "team_id": 953,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Bev Taveriner",
+    "founded_year": 1986,
+    "constructor_points": 877
+  },
+  {
+    "team_id": 487,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Lishe Fortnam",
+    "founded_year": 1995,
+    "constructor_points": 268
+  },
+  {
+    "team_id": 702,
+    "name": "Mr",
+    "country": "Thailand",
+    "principal": "Thekla Wraight",
+    "founded_year": 1955,
+    "constructor_points": 534
+  },
+  {
+    "team_id": 223,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Garv Ebbings",
+    "founded_year": 1979,
+    "constructor_points": 358
+  },
+  {
+    "team_id": 405,
+    "name": "Rev",
+    "country": "Kazakhstan",
+    "principal": "Scot Dewan",
+    "founded_year": 1911,
+    "constructor_points": 814
+  },
+  {
+    "team_id": 924,
+    "name": "Ms",
+    "country": "Poland",
+    "principal": "Corine Yakebovich",
+    "founded_year": 1905,
+    "constructor_points": 415
+  },
+  {
+    "team_id": 458,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Leanor Baudinet",
+    "founded_year": 2012,
+    "constructor_points": 165
+  },
+  {
+    "team_id": 1000,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Consuelo Dimitrie",
+    "founded_year": 1955,
+    "constructor_points": 659
+  },
+  {
+    "team_id": 118,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Vilhelmina Breewood",
+    "founded_year": 2016,
+    "constructor_points": 968
+  },
+  {
+    "team_id": 587,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Kellia Sesons",
+    "founded_year": 2022,
+    "constructor_points": 319
+  },
+  {
+    "team_id": 224,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Brunhilde Wem",
+    "founded_year": 1920,
+    "constructor_points": 64
+  },
+  {
+    "team_id": 665,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Elisabeth Illsley",
+    "founded_year": 1951,
+    "constructor_points": 979
+  },
+  {
+    "team_id": 495,
+    "name": "Mrs",
+    "country": "Brazil",
+    "principal": "Orsa Attril",
+    "founded_year": 1996,
+    "constructor_points": 138
+  },
+  {
+    "team_id": 53,
+    "name": "Ms",
+    "country": "United States",
+    "principal": "Ann McSorley",
+    "founded_year": 1971,
+    "constructor_points": 391
+  },
+  {
+    "team_id": 592,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Nichole Mendenhall",
+    "founded_year": 1986,
+    "constructor_points": 833
+  },
+  {
+    "team_id": 103,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Ethelred Sherburn",
+    "founded_year": 1956,
+    "constructor_points": 195
+  },
+  {
+    "team_id": 220,
+    "name": "Honorable",
+    "country": "Albania",
+    "principal": "Deva Lysaght",
+    "founded_year": 1935,
+    "constructor_points": 219
+  },
+  {
+    "team_id": 5,
+    "name": "Ms",
+    "country": "United States",
+    "principal": "Francyne Gosalvez",
+    "founded_year": 1992,
+    "constructor_points": 897
+  },
+  {
+    "team_id": 247,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Ofelia Ilyuchyov",
+    "founded_year": 1976,
+    "constructor_points": 712
+  },
+  {
+    "team_id": 30,
+    "name": "Honorable",
+    "country": "Ethiopia",
+    "principal": "Marven O'Brallaghan",
+    "founded_year": 2010,
+    "constructor_points": 454
+  },
+  {
+    "team_id": 468,
+    "name": "Mrs",
+    "country": "France",
+    "principal": "Cicely Sheppey",
+    "founded_year": 1912,
+    "constructor_points": 504
+  },
+  {
+    "team_id": 387,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Deck Rickcord",
+    "founded_year": 1964,
+    "constructor_points": 250
+  },
+  {
+    "team_id": 303,
+    "name": "Ms",
+    "country": "Egypt",
+    "principal": "Saunders Kelmere",
+    "founded_year": 1967,
+    "constructor_points": 364
+  },
+  {
+    "team_id": 700,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Tamiko Shatliff",
+    "founded_year": 1937,
+    "constructor_points": 246
+  },
+  {
+    "team_id": 854,
+    "name": "Honorable",
+    "country": "Thailand",
+    "principal": "Louise MacTurlough",
+    "founded_year": 1935,
+    "constructor_points": 497
+  },
+  {
+    "team_id": 311,
+    "name": "Honorable",
+    "country": "Bolivia",
+    "principal": "Benny Shildrake",
+    "founded_year": 2013,
+    "constructor_points": 156
+  },
+  {
+    "team_id": 324,
+    "name": "Mrs",
+    "country": "Czech Republic",
+    "principal": "Daffy Adshed",
+    "founded_year": 1934,
+    "constructor_points": 343
+  },
+  {
+    "team_id": 760,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Kennith Blown",
+    "founded_year": 1988,
+    "constructor_points": 215
+  },
+  {
+    "team_id": 247,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Pier Kinny",
+    "founded_year": 1977,
+    "constructor_points": 989
+  },
+  {
+    "team_id": 297,
+    "name": "Mr",
+    "country": "Norway",
+    "principal": "Ricky Dugdale",
+    "founded_year": 1969,
+    "constructor_points": 816
+  },
+  {
+    "team_id": 378,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Elspeth Luton",
+    "founded_year": 2001,
+    "constructor_points": 851
+  },
+  {
+    "team_id": 644,
+    "name": "Honorable",
+    "country": "Denmark",
+    "principal": "Berna Merrell",
+    "founded_year": 1931,
+    "constructor_points": 413
+  },
+  {
+    "team_id": 88,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Verney Brands",
+    "founded_year": 2000,
+    "constructor_points": 626
+  },
+  {
+    "team_id": 33,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Rosalynd Sambeck",
+    "founded_year": 1979,
+    "constructor_points": 140
+  },
+  {
+    "team_id": 20,
+    "name": "Dr",
+    "country": "Czech Republic",
+    "principal": "Alister Poleykett",
+    "founded_year": 2020,
+    "constructor_points": 457
+  },
+  {
+    "team_id": 791,
+    "name": "Mrs",
+    "country": "Poland",
+    "principal": "Netty Radcliffe",
+    "founded_year": 1994,
+    "constructor_points": 876
+  },
+  {
+    "team_id": 519,
+    "name": "Mr",
+    "country": "Panama",
+    "principal": "Gussie Cortez",
+    "founded_year": 1988,
+    "constructor_points": 349
+  },
+  {
+    "team_id": 843,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Merrick Davidovich",
+    "founded_year": 1960,
+    "constructor_points": 187
+  },
+  {
+    "team_id": 690,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Nona Kilrow",
+    "founded_year": 1946,
+    "constructor_points": 355
+  },
+  {
+    "team_id": 263,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Malinde Baff",
+    "founded_year": 1918,
+    "constructor_points": 293
+  },
+  {
+    "team_id": 806,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Farra Redhead",
+    "founded_year": 2016,
+    "constructor_points": 910
+  },
+  {
+    "team_id": 150,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Lew Cundy",
+    "founded_year": 1909,
+    "constructor_points": 735
+  },
+  {
+    "team_id": 536,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Donaugh Megson",
+    "founded_year": 1915,
+    "constructor_points": 244
+  },
+  {
+    "team_id": 90,
+    "name": "Dr",
+    "country": "Egypt",
+    "principal": "Veronica Rooze",
+    "founded_year": 1971,
+    "constructor_points": 178
+  },
+  {
+    "team_id": 171,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Ilysa Windebank",
+    "founded_year": 2018,
+    "constructor_points": 229
+  },
+  {
+    "team_id": 465,
+    "name": "Mr",
+    "country": "Israel",
+    "principal": "Gail Laydon",
+    "founded_year": 1940,
+    "constructor_points": 573
+  },
+  {
+    "team_id": 538,
+    "name": "Dr",
+    "country": "Iran",
+    "principal": "Sutherlan Lapham",
+    "founded_year": 1940,
+    "constructor_points": 343
+  },
+  {
+    "team_id": 882,
+    "name": "Honorable",
+    "country": "Croatia",
+    "principal": "Ernst Fruser",
+    "founded_year": 1976,
+    "constructor_points": 252
+  },
+  {
+    "team_id": 62,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Albertine Avramchik",
+    "founded_year": 1941,
+    "constructor_points": 568
+  },
+  {
+    "team_id": 694,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Micky Axten",
+    "founded_year": 2016,
+    "constructor_points": 649
+  },
+  {
+    "team_id": 532,
+    "name": "Rev",
+    "country": "Ukraine",
+    "principal": "Deloria Sallis",
+    "founded_year": 1905,
+    "constructor_points": 150
+  },
+  {
+    "team_id": 817,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Fabiano Hoyer",
+    "founded_year": 1928,
+    "constructor_points": 805
+  },
+  {
+    "team_id": 665,
+    "name": "Rev",
+    "country": "Cameroon",
+    "principal": "Kristina Woolger",
+    "founded_year": 1948,
+    "constructor_points": 463
+  },
+  {
+    "team_id": 653,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Kirsten Abela",
+    "founded_year": 1960,
+    "constructor_points": 271
+  },
+  {
+    "team_id": 567,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Koenraad Boddymead",
+    "founded_year": 1916,
+    "constructor_points": 460
+  },
+  {
+    "team_id": 246,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Roi Pawlik",
+    "founded_year": 2004,
+    "constructor_points": 942
+  },
+  {
+    "team_id": 878,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Jaime Roche",
+    "founded_year": 1971,
+    "constructor_points": 653
+  },
+  {
+    "team_id": 746,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Nobe Candelin",
+    "founded_year": 1944,
+    "constructor_points": 990
+  },
+  {
+    "team_id": 983,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Olga Puleston",
+    "founded_year": 1974,
+    "constructor_points": 327
+  },
+  {
+    "team_id": 660,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Lana Sedcole",
+    "founded_year": 1952,
+    "constructor_points": 984
+  },
+  {
+    "team_id": 943,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Zacherie Cawthorne",
+    "founded_year": 1938,
+    "constructor_points": 945
+  },
+  {
+    "team_id": 810,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Kirstin Cawston",
+    "founded_year": 1917,
+    "constructor_points": 692
+  },
+  {
+    "team_id": 212,
+    "name": "Ms",
+    "country": "El Salvador",
+    "principal": "Mahala Volks",
+    "founded_year": 1984,
+    "constructor_points": 186
+  },
+  {
+    "team_id": 644,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Zorina Dalligan",
+    "founded_year": 1939,
+    "constructor_points": 470
+  },
+  {
+    "team_id": 381,
+    "name": "Rev",
+    "country": "Uzbekistan",
+    "principal": "Carly Steade",
+    "founded_year": 2011,
+    "constructor_points": 75
+  },
+  {
+    "team_id": 96,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Casie Chetwynd",
+    "founded_year": 1931,
+    "constructor_points": 977
+  },
+  {
+    "team_id": 772,
+    "name": "Rev",
+    "country": "Tanzania",
+    "principal": "Malchy Punter",
+    "founded_year": 1942,
+    "constructor_points": 692
+  },
+  {
+    "team_id": 65,
+    "name": "Mr",
+    "country": "Croatia",
+    "principal": "Steffie Castellani",
+    "founded_year": 1956,
+    "constructor_points": 289
+  },
+  {
+    "team_id": 252,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Efrem Dockerty",
+    "founded_year": 1947,
+    "constructor_points": 607
+  },
+  {
+    "team_id": 288,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Lyssa Heugh",
+    "founded_year": 1900,
+    "constructor_points": 96
+  },
+  {
+    "team_id": 895,
+    "name": "Ms",
+    "country": "Jamaica",
+    "principal": "Kimbell Lindholm",
+    "founded_year": 1968,
+    "constructor_points": 426
+  },
+  {
+    "team_id": 160,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Claus Minghetti",
+    "founded_year": 1918,
+    "constructor_points": 765
+  },
+  {
+    "team_id": 396,
+    "name": "Ms",
+    "country": "Canada",
+    "principal": "Austin Bockett",
+    "founded_year": 2002,
+    "constructor_points": 1000
+  },
+  {
+    "team_id": 111,
+    "name": "Dr",
+    "country": "Gabon",
+    "principal": "Enos Crannell",
+    "founded_year": 2008,
+    "constructor_points": 188
+  },
+  {
+    "team_id": 410,
+    "name": "Honorable",
+    "country": "Canada",
+    "principal": "Jami Gabbott",
+    "founded_year": 1979,
+    "constructor_points": 865
+  },
+  {
+    "team_id": 103,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Pierce Ham",
+    "founded_year": 1953,
+    "constructor_points": 21
+  },
+  {
+    "team_id": 147,
+    "name": "Ms",
+    "country": "Japan",
+    "principal": "Gabriella Murcutt",
+    "founded_year": 1928,
+    "constructor_points": 257
+  },
+  {
+    "team_id": 238,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Chico Hannabuss",
+    "founded_year": 1908,
+    "constructor_points": 23
+  },
+  {
+    "team_id": 65,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Noah Wigin",
+    "founded_year": 1946,
+    "constructor_points": 360
+  },
+  {
+    "team_id": 842,
+    "name": "Mr",
+    "country": "Lithuania",
+    "principal": "Selie Tansly",
+    "founded_year": 1938,
+    "constructor_points": 89
+  },
+  {
+    "team_id": 950,
+    "name": "Rev",
+    "country": "Portugal",
+    "principal": "Josselyn Drinkall",
+    "founded_year": 1910,
+    "constructor_points": 452
+  },
+  {
+    "team_id": 90,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Darius Sporton",
+    "founded_year": 1954,
+    "constructor_points": 603
+  },
+  {
+    "team_id": 825,
+    "name": "Mr",
+    "country": "Madagascar",
+    "principal": "Ellynn Loveless",
+    "founded_year": 1963,
+    "constructor_points": 960
+  },
+  {
+    "team_id": 952,
+    "name": "Dr",
+    "country": "Serbia",
+    "principal": "Annabella Mulvey",
+    "founded_year": 1964,
+    "constructor_points": 479
+  },
+  {
+    "team_id": 574,
+    "name": "Mrs",
+    "country": "Croatia",
+    "principal": "Colline Pochin",
+    "founded_year": 1963,
+    "constructor_points": 689
+  },
+  {
+    "team_id": 344,
+    "name": "Dr",
+    "country": "Paraguay",
+    "principal": "Alexa Stredder",
+    "founded_year": 1949,
+    "constructor_points": 207
+  },
+  {
+    "team_id": 62,
+    "name": "Honorable",
+    "country": "United States",
+    "principal": "Kimmie Peegrem",
+    "founded_year": 1986,
+    "constructor_points": 859
+  },
+  {
+    "team_id": 967,
+    "name": "Mr",
+    "country": "Mauritius",
+    "principal": "Josie Billham",
+    "founded_year": 1990,
+    "constructor_points": 254
+  },
+  {
+    "team_id": 848,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Alyce Ludovico",
+    "founded_year": 2005,
+    "constructor_points": 694
+  },
+  {
+    "team_id": 219,
+    "name": "Ms",
+    "country": "Latvia",
+    "principal": "Bella Clemens",
+    "founded_year": 2000,
+    "constructor_points": 72
+  },
+  {
+    "team_id": 240,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Whittaker Jee",
+    "founded_year": 1976,
+    "constructor_points": 79
+  },
+  {
+    "team_id": 458,
+    "name": "Rev",
+    "country": "Tunisia",
+    "principal": "Isadora Bonnavant",
+    "founded_year": 1998,
+    "constructor_points": 423
+  },
+  {
+    "team_id": 605,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Tania Kippie",
+    "founded_year": 1996,
+    "constructor_points": 481
+  },
+  {
+    "team_id": 934,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Lutero Praton",
+    "founded_year": 2017,
+    "constructor_points": 425
+  },
+  {
+    "team_id": 747,
+    "name": "Dr",
+    "country": "France",
+    "principal": "Selby Olivet",
+    "founded_year": 1983,
+    "constructor_points": 321
+  },
+  {
+    "team_id": 551,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Finley Ungerer",
+    "founded_year": 1989,
+    "constructor_points": 945
+  },
+  {
+    "team_id": 784,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Rosamond Boadby",
+    "founded_year": 1930,
+    "constructor_points": 73
+  },
+  {
+    "team_id": 831,
+    "name": "Honorable",
+    "country": "Vietnam",
+    "principal": "Angelita Semonin",
+    "founded_year": 2000,
+    "constructor_points": 605
+  },
+  {
+    "team_id": 572,
+    "name": "Mr",
+    "country": "Japan",
+    "principal": "Joseph Sineath",
+    "founded_year": 1970,
+    "constructor_points": 65
+  },
+  {
+    "team_id": 756,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Kaye Triggel",
+    "founded_year": 1981,
+    "constructor_points": 700
+  },
+  {
+    "team_id": 522,
+    "name": "Honorable",
+    "country": "Yemen",
+    "principal": "Celisse McCaughren",
+    "founded_year": 1932,
+    "constructor_points": 840
+  },
+  {
+    "team_id": 691,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Allayne Hucks",
+    "founded_year": 2007,
+    "constructor_points": 432
+  },
+  {
+    "team_id": 142,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Lil Yeowell",
+    "founded_year": 1932,
+    "constructor_points": 703
+  },
+  {
+    "team_id": 333,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Alvira Lazenbury",
+    "founded_year": 1903,
+    "constructor_points": 926
+  },
+  {
+    "team_id": 429,
+    "name": "Mr",
+    "country": "Tunisia",
+    "principal": "Xaviera Terbrugge",
+    "founded_year": 1987,
+    "constructor_points": 874
+  },
+  {
+    "team_id": 141,
+    "name": "Ms",
+    "country": "Poland",
+    "principal": "Atalanta Dur",
+    "founded_year": 1910,
+    "constructor_points": 243
+  },
+  {
+    "team_id": 234,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Kiley Bompass",
+    "founded_year": 1954,
+    "constructor_points": 452
+  },
+  {
+    "team_id": 287,
+    "name": "Dr",
+    "country": "Tunisia",
+    "principal": "Abba Cursons",
+    "founded_year": 1980,
+    "constructor_points": 578
+  },
+  {
+    "team_id": 330,
+    "name": "Honorable",
+    "country": "Belarus",
+    "principal": "Rozalie Bullivent",
+    "founded_year": 1925,
+    "constructor_points": 698
+  },
+  {
+    "team_id": 459,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Brooks Durrance",
+    "founded_year": 1924,
+    "constructor_points": 533
+  },
+  {
+    "team_id": 966,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Christian Skoggins",
+    "founded_year": 1984,
+    "constructor_points": 774
+  },
+  {
+    "team_id": 321,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Marielle Poole",
+    "founded_year": 1999,
+    "constructor_points": 839
+  },
+  {
+    "team_id": 266,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Manya Rosenstein",
+    "founded_year": 1961,
+    "constructor_points": 115
+  },
+  {
+    "team_id": 88,
+    "name": "Mrs",
+    "country": "Nigeria",
+    "principal": "Ailsun Staves",
+    "founded_year": 1942,
+    "constructor_points": 411
+  },
+  {
+    "team_id": 347,
+    "name": "Ms",
+    "country": "Peru",
+    "principal": "Cele Antunez",
+    "founded_year": 1997,
+    "constructor_points": 536
+  },
+  {
+    "team_id": 627,
+    "name": "Mrs",
+    "country": "Portugal",
+    "principal": "Garfield Holhouse",
+    "founded_year": 1943,
+    "constructor_points": 736
+  },
+  {
+    "team_id": 742,
+    "name": "Mr",
+    "country": "Azerbaijan",
+    "principal": "Agatha Dobson",
+    "founded_year": 2002,
+    "constructor_points": 84
+  },
+  {
+    "team_id": 850,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Maynord Capenor",
+    "founded_year": 1951,
+    "constructor_points": 350
+  },
+  {
+    "team_id": 486,
+    "name": "Honorable",
+    "country": "Peru",
+    "principal": "Nyssa Jelleman",
+    "founded_year": 2019,
+    "constructor_points": 686
+  },
+  {
+    "team_id": 924,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Mirabelle Caroline",
+    "founded_year": 1991,
+    "constructor_points": 88
+  },
+  {
+    "team_id": 46,
+    "name": "Rev",
+    "country": "Ukraine",
+    "principal": "Kaiser Delaprelle",
+    "founded_year": 1939,
+    "constructor_points": 973
+  },
+  {
+    "team_id": 928,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Olympie Gibbings",
+    "founded_year": 2013,
+    "constructor_points": 782
+  },
+  {
+    "team_id": 357,
+    "name": "Mrs",
+    "country": "Germany",
+    "principal": "Kai Suatt",
+    "founded_year": 1997,
+    "constructor_points": 102
+  },
+  {
+    "team_id": 359,
+    "name": "Dr",
+    "country": "Panama",
+    "principal": "Gunar Fancutt",
+    "founded_year": 1979,
+    "constructor_points": 184
+  },
+  {
+    "team_id": 232,
+    "name": "Rev",
+    "country": "Poland",
+    "principal": "Ruthe Blackstone",
+    "founded_year": 1952,
+    "constructor_points": 98
+  },
+  {
+    "team_id": 71,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Leora Berzon",
+    "founded_year": 1992,
+    "constructor_points": 688
+  },
+  {
+    "team_id": 75,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Novelia Cough",
+    "founded_year": 1972,
+    "constructor_points": 762
+  },
+  {
+    "team_id": 674,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Ber Wicken",
+    "founded_year": 1985,
+    "constructor_points": 932
+  },
+  {
+    "team_id": 382,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Meta Gillett",
+    "founded_year": 1920,
+    "constructor_points": 704
+  },
+  {
+    "team_id": 576,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Alidia Thaine",
+    "founded_year": 1925,
+    "constructor_points": 110
+  },
+  {
+    "team_id": 912,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Yule MacAndie",
+    "founded_year": 1915,
+    "constructor_points": 799
+  },
+  {
+    "team_id": 919,
+    "name": "Ms",
+    "country": "Russia",
+    "principal": "Casi Martynka",
+    "founded_year": 1985,
+    "constructor_points": 482
+  },
+  {
+    "team_id": 70,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Aubrey Ellery",
+    "founded_year": 1946,
+    "constructor_points": 405
+  },
+  {
+    "team_id": 246,
+    "name": "Honorable",
+    "country": "Palestinian Territory",
+    "principal": "Dina Karolewski",
+    "founded_year": 1901,
+    "constructor_points": 232
+  },
+  {
+    "team_id": 36,
+    "name": "Honorable",
+    "country": "Thailand",
+    "principal": "Muffin Goneau",
+    "founded_year": 1993,
+    "constructor_points": 36
+  },
+  {
+    "team_id": 548,
+    "name": "Rev",
+    "country": "Peru",
+    "principal": "Ambur Massimo",
+    "founded_year": 1949,
+    "constructor_points": 154
+  },
+  {
+    "team_id": 801,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Belita Jakab",
+    "founded_year": 1916,
+    "constructor_points": 217
+  },
+  {
+    "team_id": 315,
+    "name": "Mrs",
+    "country": "Mexico",
+    "principal": "Spike Dillingston",
+    "founded_year": 1933,
+    "constructor_points": 881
+  },
+  {
+    "team_id": 210,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Jecho Langwade",
+    "founded_year": 1931,
+    "constructor_points": 162
+  },
+  {
+    "team_id": 106,
+    "name": "Ms",
+    "country": "Ecuador",
+    "principal": "Kalila Blazhevich",
+    "founded_year": 1941,
+    "constructor_points": 85
+  },
+  {
+    "team_id": 478,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Maible Archibald",
+    "founded_year": 1988,
+    "constructor_points": 807
+  },
+  {
+    "team_id": 962,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Lexie Rist",
+    "founded_year": 1971,
+    "constructor_points": 771
+  },
+  {
+    "team_id": 606,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Christal Fulle",
+    "founded_year": 2014,
+    "constructor_points": 84
+  },
+  {
+    "team_id": 453,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Britteny Faraker",
+    "founded_year": 1998,
+    "constructor_points": 97
+  },
+  {
+    "team_id": 896,
+    "name": "Mrs",
+    "country": "Latvia",
+    "principal": "Ernesto Harbinson",
+    "founded_year": 1998,
+    "constructor_points": 636
+  },
+  {
+    "team_id": 51,
+    "name": "Ms",
+    "country": "American Samoa",
+    "principal": "Arman Paulet",
+    "founded_year": 1975,
+    "constructor_points": 815
+  },
+  {
+    "team_id": 302,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Dody Sisse",
+    "founded_year": 1988,
+    "constructor_points": 465
+  },
+  {
+    "team_id": 523,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Elspeth Spehr",
+    "founded_year": 1919,
+    "constructor_points": 689
+  },
+  {
+    "team_id": 901,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Rolland Rubinsztein",
+    "founded_year": 2019,
+    "constructor_points": 347
+  },
+  {
+    "team_id": 857,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Catrina Kringe",
+    "founded_year": 1953,
+    "constructor_points": 440
+  },
+  {
+    "team_id": 675,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Henrietta Billin",
+    "founded_year": 1972,
+    "constructor_points": 956
+  },
+  {
+    "team_id": 737,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Teddie Shoebridge",
+    "founded_year": 2013,
+    "constructor_points": 368
+  },
+  {
+    "team_id": 727,
+    "name": "Rev",
+    "country": "Guatemala",
+    "principal": "Freddie Elgy",
+    "founded_year": 2013,
+    "constructor_points": 517
+  },
+  {
+    "team_id": 908,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Melosa Drepp",
+    "founded_year": 1914,
+    "constructor_points": 905
+  },
+  {
+    "team_id": 788,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Guido Labdon",
+    "founded_year": 1988,
+    "constructor_points": 855
+  },
+  {
+    "team_id": 423,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Hermine Castagno",
+    "founded_year": 1915,
+    "constructor_points": 818
+  },
+  {
+    "team_id": 866,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Karlis Faccini",
+    "founded_year": 1917,
+    "constructor_points": 453
+  },
+  {
+    "team_id": 901,
+    "name": "Ms",
+    "country": "Azerbaijan",
+    "principal": "Lianna Floweth",
+    "founded_year": 1976,
+    "constructor_points": 152
+  },
+  {
+    "team_id": 650,
+    "name": "Mrs",
+    "country": "Vietnam",
+    "principal": "Dana Bowart",
+    "founded_year": 1950,
+    "constructor_points": 583
+  },
+  {
+    "team_id": 170,
+    "name": "Dr",
+    "country": "Czech Republic",
+    "principal": "Lars Spacy",
+    "founded_year": 2014,
+    "constructor_points": 729
+  },
+  {
+    "team_id": 265,
+    "name": "Mrs",
+    "country": "Portugal",
+    "principal": "Anestassia Papen",
+    "founded_year": 1979,
+    "constructor_points": 851
+  },
+  {
+    "team_id": 895,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Michele Eastbrook",
+    "founded_year": 1995,
+    "constructor_points": 304
+  },
+  {
+    "team_id": 412,
+    "name": "Honorable",
+    "country": "Spain",
+    "principal": "Norah Dedden",
+    "founded_year": 1954,
+    "constructor_points": 13
+  },
+  {
+    "team_id": 861,
+    "name": "Mr",
+    "country": "United States",
+    "principal": "Nancy Birrell",
+    "founded_year": 1981,
+    "constructor_points": 670
+  },
+  {
+    "team_id": 973,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Birgitta Springall",
+    "founded_year": 1969,
+    "constructor_points": 831
+  },
+  {
+    "team_id": 926,
+    "name": "Mrs",
+    "country": "Canada",
+    "principal": "Leslie Rodgman",
+    "founded_year": 1944,
+    "constructor_points": 939
+  },
+  {
+    "team_id": 970,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Neil Eddisford",
+    "founded_year": 1968,
+    "constructor_points": 126
+  },
+  {
+    "team_id": 774,
+    "name": "Ms",
+    "country": "Slovenia",
+    "principal": "Annissa Farndale",
+    "founded_year": 1994,
+    "constructor_points": 128
+  },
+  {
+    "team_id": 308,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Iolanthe Yanshonok",
+    "founded_year": 2021,
+    "constructor_points": 939
+  },
+  {
+    "team_id": 872,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Irma Kinane",
+    "founded_year": 1950,
+    "constructor_points": 292
+  },
+  {
+    "team_id": 745,
+    "name": "Honorable",
+    "country": "Vietnam",
+    "principal": "Eadmund Turnock",
+    "founded_year": 1999,
+    "constructor_points": 586
+  },
+  {
+    "team_id": 212,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Artie Cyson",
+    "founded_year": 1921,
+    "constructor_points": 742
+  },
+  {
+    "team_id": 985,
+    "name": "Mrs",
+    "country": "Hungary",
+    "principal": "Jeremy Robuchon",
+    "founded_year": 1939,
+    "constructor_points": 901
+  },
+  {
+    "team_id": 199,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Consuelo Collopy",
+    "founded_year": 1976,
+    "constructor_points": 457
+  },
+  {
+    "team_id": 633,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Catlin Thunders",
+    "founded_year": 2009,
+    "constructor_points": 933
+  },
+  {
+    "team_id": 230,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Jamie Dyball",
+    "founded_year": 1991,
+    "constructor_points": 553
+  },
+  {
+    "team_id": 752,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Enrika Oganian",
+    "founded_year": 1907,
+    "constructor_points": 976
+  },
+  {
+    "team_id": 873,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Desirae Dictus",
+    "founded_year": 2008,
+    "constructor_points": 890
+  },
+  {
+    "team_id": 559,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Vaclav Chafer",
+    "founded_year": 1947,
+    "constructor_points": 696
+  },
+  {
+    "team_id": 640,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Chloris Rotte",
+    "founded_year": 1922,
+    "constructor_points": 193
+  },
+  {
+    "team_id": 3,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Christine Hartnell",
+    "founded_year": 1960,
+    "constructor_points": 218
+  },
+  {
+    "team_id": 622,
+    "name": "Mrs",
+    "country": "Poland",
+    "principal": "Leonelle Watmore",
+    "founded_year": 1939,
+    "constructor_points": 353
+  },
+  {
+    "team_id": 91,
+    "name": "Ms",
+    "country": "Kosovo",
+    "principal": "Fancie Jurca",
+    "founded_year": 1960,
+    "constructor_points": 622
+  },
+  {
+    "team_id": 696,
+    "name": "Honorable",
+    "country": "Ireland",
+    "principal": "Adelle Atcheson",
+    "founded_year": 1922,
+    "constructor_points": 607
+  },
+  {
+    "team_id": 669,
+    "name": "Mrs",
+    "country": "Argentina",
+    "principal": "Corissa Bohin",
+    "founded_year": 1932,
+    "constructor_points": 860
+  },
+  {
+    "team_id": 246,
+    "name": "Rev",
+    "country": "Palestinian Territory",
+    "principal": "Jannel Halling",
+    "founded_year": 1977,
+    "constructor_points": 110
+  },
+  {
+    "team_id": 388,
+    "name": "Mrs",
+    "country": "Colombia",
+    "principal": "Jenna Timny",
+    "founded_year": 1989,
+    "constructor_points": 356
+  },
+  {
+    "team_id": 10,
+    "name": "Rev",
+    "country": "Madagascar",
+    "principal": "Mose Leask",
+    "founded_year": 1930,
+    "constructor_points": 773
+  },
+  {
+    "team_id": 243,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Tawnya Dulanty",
+    "founded_year": 1982,
+    "constructor_points": 937
+  },
+  {
+    "team_id": 808,
+    "name": "Dr",
+    "country": "Mexico",
+    "principal": "Raphaela Ragdale",
+    "founded_year": 2017,
+    "constructor_points": 66
+  },
+  {
+    "team_id": 6,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Merl Duckworth",
+    "founded_year": 1964,
+    "constructor_points": 125
+  },
+  {
+    "team_id": 995,
+    "name": "Dr",
+    "country": "Mongolia",
+    "principal": "Leia Humbatch",
+    "founded_year": 1998,
+    "constructor_points": 188
+  },
+  {
+    "team_id": 716,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Meggy Bellee",
+    "founded_year": 1900,
+    "constructor_points": 342
+  },
+  {
+    "team_id": 16,
+    "name": "Honorable",
+    "country": "Bangladesh",
+    "principal": "Truda Smullin",
+    "founded_year": 2006,
+    "constructor_points": 302
+  },
+  {
+    "team_id": 400,
+    "name": "Honorable",
+    "country": "Italy",
+    "principal": "Pauly Edmondson",
+    "founded_year": 1997,
+    "constructor_points": 201
+  },
+  {
+    "team_id": 186,
+    "name": "Honorable",
+    "country": "France",
+    "principal": "Basile Comer",
+    "founded_year": 1997,
+    "constructor_points": 906
+  },
+  {
+    "team_id": 301,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Nolan Farnes",
+    "founded_year": 2019,
+    "constructor_points": 147
+  },
+  {
+    "team_id": 977,
+    "name": "Mr",
+    "country": "Bolivia",
+    "principal": "Gertrud Issit",
+    "founded_year": 1971,
+    "constructor_points": 166
+  },
+  {
+    "team_id": 351,
+    "name": "Rev",
+    "country": "North Korea",
+    "principal": "Zonnya Peverell",
+    "founded_year": 1984,
+    "constructor_points": 749
+  },
+  {
+    "team_id": 322,
+    "name": "Ms",
+    "country": "Lesotho",
+    "principal": "Michele Boshier",
+    "founded_year": 1940,
+    "constructor_points": 767
+  },
+  {
+    "team_id": 723,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Evanne Krolle",
+    "founded_year": 2011,
+    "constructor_points": 80
+  },
+  {
+    "team_id": 70,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Hill Eisikowitz",
+    "founded_year": 1999,
+    "constructor_points": 614
+  },
+  {
+    "team_id": 976,
+    "name": "Mr",
+    "country": "Serbia",
+    "principal": "Haily Kurt",
+    "founded_year": 1992,
+    "constructor_points": 513
+  },
+  {
+    "team_id": 429,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Roger Napolitano",
+    "founded_year": 1992,
+    "constructor_points": 535
+  },
+  {
+    "team_id": 887,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Esmeralda Foat",
+    "founded_year": 1925,
+    "constructor_points": 998
+  },
+  {
+    "team_id": 310,
+    "name": "Rev",
+    "country": "Croatia",
+    "principal": "Gilly Haycox",
+    "founded_year": 1996,
+    "constructor_points": 330
+  },
+  {
+    "team_id": 164,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Schuyler Gadsdon",
+    "founded_year": 1936,
+    "constructor_points": 629
+  },
+  {
+    "team_id": 584,
+    "name": "Dr",
+    "country": "Azerbaijan",
+    "principal": "Rebe Emmison",
+    "founded_year": 1969,
+    "constructor_points": 902
+  },
+  {
+    "team_id": 65,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Christean Lodemann",
+    "founded_year": 2009,
+    "constructor_points": 463
+  },
+  {
+    "team_id": 365,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Tremain Hull",
+    "founded_year": 1979,
+    "constructor_points": 843
+  },
+  {
+    "team_id": 316,
+    "name": "Dr",
+    "country": "Ukraine",
+    "principal": "Erhard Constantine",
+    "founded_year": 1974,
+    "constructor_points": 161
+  },
+  {
+    "team_id": 359,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Desmund Newburn",
+    "founded_year": 1931,
+    "constructor_points": 198
+  },
+  {
+    "team_id": 383,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Frederica Kobpal",
+    "founded_year": 1959,
+    "constructor_points": 793
+  },
+  {
+    "team_id": 983,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Margarete Thamelt",
+    "founded_year": 1990,
+    "constructor_points": 206
+  },
+  {
+    "team_id": 695,
+    "name": "Honorable",
+    "country": "United States",
+    "principal": "Ban Cheale",
+    "founded_year": 1941,
+    "constructor_points": 610
+  },
+  {
+    "team_id": 682,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Keane Braime",
+    "founded_year": 1997,
+    "constructor_points": 998
+  },
+  {
+    "team_id": 799,
+    "name": "Rev",
+    "country": "Sierra Leone",
+    "principal": "Amalie Kisby",
+    "founded_year": 1966,
+    "constructor_points": 118
+  },
+  {
+    "team_id": 476,
+    "name": "Mr",
+    "country": "Greece",
+    "principal": "Petronia Jobern",
+    "founded_year": 1984,
+    "constructor_points": 729
+  },
+  {
+    "team_id": 331,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Oralia Domb",
+    "founded_year": 1910,
+    "constructor_points": 673
+  },
+  {
+    "team_id": 610,
+    "name": "Rev",
+    "country": "Central African Republic",
+    "principal": "Blondell Gatherell",
+    "founded_year": 1904,
+    "constructor_points": 536
+  },
+  {
+    "team_id": 685,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Thacher Josefowicz",
+    "founded_year": 1963,
+    "constructor_points": 790
+  },
+  {
+    "team_id": 114,
+    "name": "Mrs",
+    "country": "Estonia",
+    "principal": "Karee Frobisher",
+    "founded_year": 1977,
+    "constructor_points": 893
+  },
+  {
+    "team_id": 268,
+    "name": "Rev",
+    "country": "Sweden",
+    "principal": "Norry Woollacott",
+    "founded_year": 1935,
+    "constructor_points": 530
+  },
+  {
+    "team_id": 136,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Isa Beards",
+    "founded_year": 1922,
+    "constructor_points": 764
+  },
+  {
+    "team_id": 189,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Karlie Gillam",
+    "founded_year": 1933,
+    "constructor_points": 257
+  },
+  {
+    "team_id": 921,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Myranda Rodinger",
+    "founded_year": 2019,
+    "constructor_points": 232
+  },
+  {
+    "team_id": 406,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Laurens Delf",
+    "founded_year": 1916,
+    "constructor_points": 28
+  },
+  {
+    "team_id": 323,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Atlante Godlee",
+    "founded_year": 1938,
+    "constructor_points": 934
+  },
+  {
+    "team_id": 642,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Essie Neads",
+    "founded_year": 1993,
+    "constructor_points": 29
+  },
+  {
+    "team_id": 450,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Tiena Chazelle",
+    "founded_year": 1970,
+    "constructor_points": 619
+  },
+  {
+    "team_id": 245,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Donia Gladtbach",
+    "founded_year": 1927,
+    "constructor_points": 71
+  },
+  {
+    "team_id": 122,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Elsi Hubbart",
+    "founded_year": 2001,
+    "constructor_points": 343
+  },
+  {
+    "team_id": 788,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Glynis Snowden",
+    "founded_year": 1991,
+    "constructor_points": 227
+  },
+  {
+    "team_id": 523,
+    "name": "Mr",
+    "country": "Costa Rica",
+    "principal": "Josy Dyerson",
+    "founded_year": 1965,
+    "constructor_points": 842
+  },
+  {
+    "team_id": 265,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Alene Austing",
+    "founded_year": 1997,
+    "constructor_points": 842
+  },
+  {
+    "team_id": 751,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Thacher Diggin",
+    "founded_year": 1964,
+    "constructor_points": 861
+  },
+  {
+    "team_id": 88,
+    "name": "Rev",
+    "country": "Botswana",
+    "principal": "Wainwright De'Ath",
+    "founded_year": 2007,
+    "constructor_points": 383
+  },
+  {
+    "team_id": 768,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Maurie Winchurst",
+    "founded_year": 1985,
+    "constructor_points": 878
+  },
+  {
+    "team_id": 85,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Libbi Kulic",
+    "founded_year": 1970,
+    "constructor_points": 92
+  },
+  {
+    "team_id": 799,
+    "name": "Honorable",
+    "country": "United States",
+    "principal": "Seamus Whapples",
+    "founded_year": 1980,
+    "constructor_points": 614
+  },
+  {
+    "team_id": 114,
+    "name": "Mrs",
+    "country": "Ireland",
+    "principal": "Gladi McCulley",
+    "founded_year": 1955,
+    "constructor_points": 542
+  },
+  {
+    "team_id": 594,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Pennie Scurrell",
+    "founded_year": 1926,
+    "constructor_points": 572
+  },
+  {
+    "team_id": 662,
+    "name": "Mrs",
+    "country": "Poland",
+    "principal": "Salem Doyle",
+    "founded_year": 1945,
+    "constructor_points": 342
+  },
+  {
+    "team_id": 119,
+    "name": "Mr",
+    "country": "Czech Republic",
+    "principal": "Beatrix Zimmermanns",
+    "founded_year": 2015,
+    "constructor_points": 452
+  },
+  {
+    "team_id": 278,
+    "name": "Mrs",
+    "country": "Peru",
+    "principal": "Titus Catherick",
+    "founded_year": 1955,
+    "constructor_points": 25
+  },
+  {
+    "team_id": 157,
+    "name": "Honorable",
+    "country": "Vietnam",
+    "principal": "Paddie Pirrie",
+    "founded_year": 1965,
+    "constructor_points": 735
+  },
+  {
+    "team_id": 823,
+    "name": "Rev",
+    "country": "Madagascar",
+    "principal": "Hildagard Agney",
+    "founded_year": 1976,
+    "constructor_points": 604
+  },
+  {
+    "team_id": 983,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Julee Mattea",
+    "founded_year": 2006,
+    "constructor_points": 502
+  },
+  {
+    "team_id": 431,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Mal Leer",
+    "founded_year": 2010,
+    "constructor_points": 352
+  },
+  {
+    "team_id": 89,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Meyer Mattek",
+    "founded_year": 1932,
+    "constructor_points": 411
+  },
+  {
+    "team_id": 708,
+    "name": "Mrs",
+    "country": "Argentina",
+    "principal": "Timofei Vakhrushin",
+    "founded_year": 1984,
+    "constructor_points": 262
+  },
+  {
+    "team_id": 81,
+    "name": "Honorable",
+    "country": "Israel",
+    "principal": "Westley McLarens",
+    "founded_year": 1955,
+    "constructor_points": 640
+  },
+  {
+    "team_id": 421,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Hardy Monson",
+    "founded_year": 1956,
+    "constructor_points": 102
+  },
+  {
+    "team_id": 924,
+    "name": "Mr",
+    "country": "Argentina",
+    "principal": "Katheryn Font",
+    "founded_year": 1925,
+    "constructor_points": 493
+  },
+  {
+    "team_id": 75,
+    "name": "Mrs",
+    "country": "Ukraine",
+    "principal": "Herculie Eagger",
+    "founded_year": 1948,
+    "constructor_points": 455
+  },
+  {
+    "team_id": 353,
+    "name": "Ms",
+    "country": "Bangladesh",
+    "principal": "Tildi Doige",
+    "founded_year": 2012,
+    "constructor_points": 64
+  },
+  {
+    "team_id": 714,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Gertruda McGarrity",
+    "founded_year": 1972,
+    "constructor_points": 394
+  },
+  {
+    "team_id": 334,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Baxie Po",
+    "founded_year": 1967,
+    "constructor_points": 953
+  },
+  {
+    "team_id": 534,
+    "name": "Honorable",
+    "country": "Russia",
+    "principal": "Mycah Edgler",
+    "founded_year": 2011,
+    "constructor_points": 709
+  },
+  {
+    "team_id": 623,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Eugine Codeman",
+    "founded_year": 2011,
+    "constructor_points": 867
+  },
+  {
+    "team_id": 689,
+    "name": "Honorable",
+    "country": "Vietnam",
+    "principal": "Lauree Hutchinges",
+    "founded_year": 2017,
+    "constructor_points": 190
+  },
+  {
+    "team_id": 688,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Ashlie Gorbell",
+    "founded_year": 1919,
+    "constructor_points": 951
+  },
+  {
+    "team_id": 645,
+    "name": "Mr",
+    "country": "Bulgaria",
+    "principal": "Bonita Arnholdt",
+    "founded_year": 1936,
+    "constructor_points": 119
+  },
+  {
+    "team_id": 343,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Tracy Roelofs",
+    "founded_year": 1966,
+    "constructor_points": 294
+  },
+  {
+    "team_id": 301,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Elyse Dyzart",
+    "founded_year": 2015,
+    "constructor_points": 876
+  },
+  {
+    "team_id": 660,
+    "name": "Mr",
+    "country": "Czech Republic",
+    "principal": "Zachariah Waggett",
+    "founded_year": 1972,
+    "constructor_points": 874
+  },
+  {
+    "team_id": 299,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Johan Jedrzejewicz",
+    "founded_year": 1967,
+    "constructor_points": 495
+  },
+  {
+    "team_id": 332,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Annmarie Bramwich",
+    "founded_year": 1976,
+    "constructor_points": 905
+  },
+  {
+    "team_id": 994,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Hendrik Mantle",
+    "founded_year": 1975,
+    "constructor_points": 61
+  },
+  {
+    "team_id": 812,
+    "name": "Dr",
+    "country": "Panama",
+    "principal": "Karla Dalgetty",
+    "founded_year": 1993,
+    "constructor_points": 30
+  },
+  {
+    "team_id": 671,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Lay Wavell",
+    "founded_year": 1902,
+    "constructor_points": 374
+  },
+  {
+    "team_id": 596,
+    "name": "Mr",
+    "country": "Portugal",
+    "principal": "Cheryl Letherbury",
+    "founded_year": 1991,
+    "constructor_points": 933
+  },
+  {
+    "team_id": 922,
+    "name": "Rev",
+    "country": "Botswana",
+    "principal": "Brien Maylor",
+    "founded_year": 1991,
+    "constructor_points": 620
+  },
+  {
+    "team_id": 926,
+    "name": "Mrs",
+    "country": "Palestinian Territory",
+    "principal": "Giff Cranch",
+    "founded_year": 1949,
+    "constructor_points": 479
+  },
+  {
+    "team_id": 892,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Robinett Glyn",
+    "founded_year": 1921,
+    "constructor_points": 372
+  },
+  {
+    "team_id": 991,
+    "name": "Mrs",
+    "country": "Yemen",
+    "principal": "Barbabra Mulbery",
+    "founded_year": 1975,
+    "constructor_points": 534
+  },
+  {
+    "team_id": 781,
+    "name": "Honorable",
+    "country": "Finland",
+    "principal": "Iolanthe Austin",
+    "founded_year": 1925,
+    "constructor_points": 728
+  },
+  {
+    "team_id": 261,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Rafi Josefsson",
+    "founded_year": 2020,
+    "constructor_points": 318
+  },
+  {
+    "team_id": 83,
+    "name": "Mr",
+    "country": "Nigeria",
+    "principal": "Raimund Perin",
+    "founded_year": 1943,
+    "constructor_points": 592
+  },
+  {
+    "team_id": 755,
+    "name": "Dr",
+    "country": "Lithuania",
+    "principal": "Meredithe Goldstein",
+    "founded_year": 2012,
+    "constructor_points": 997
+  },
+  {
+    "team_id": 26,
+    "name": "Mrs",
+    "country": "Afghanistan",
+    "principal": "Curr De Luna",
+    "founded_year": 2017,
+    "constructor_points": 520
+  },
+  {
+    "team_id": 915,
+    "name": "Dr",
+    "country": "Cuba",
+    "principal": "Jaynell Woodrough",
+    "founded_year": 1927,
+    "constructor_points": 167
+  },
+  {
+    "team_id": 880,
+    "name": "Mr",
+    "country": "Ukraine",
+    "principal": "Mab Sowte",
+    "founded_year": 1925,
+    "constructor_points": 629
+  },
+  {
+    "team_id": 902,
+    "name": "Mr",
+    "country": "Serbia",
+    "principal": "Melli Kruschev",
+    "founded_year": 2015,
+    "constructor_points": 562
+  },
+  {
+    "team_id": 269,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Sybille Barratt",
+    "founded_year": 2013,
+    "constructor_points": 202
+  },
+  {
+    "team_id": 395,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Myrlene Hynes",
+    "founded_year": 1919,
+    "constructor_points": 235
+  },
+  {
+    "team_id": 855,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Bat Langelay",
+    "founded_year": 2004,
+    "constructor_points": 684
+  },
+  {
+    "team_id": 164,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Hurleigh Johns",
+    "founded_year": 1938,
+    "constructor_points": 133
+  },
+  {
+    "team_id": 497,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Ernie Daburn",
+    "founded_year": 1964,
+    "constructor_points": 340
+  },
+  {
+    "team_id": 286,
+    "name": "Rev",
+    "country": "Thailand",
+    "principal": "Cobby MacKill",
+    "founded_year": 1930,
+    "constructor_points": 384
+  },
+  {
+    "team_id": 157,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Lacy Sebley",
+    "founded_year": 2011,
+    "constructor_points": 367
+  },
+  {
+    "team_id": 538,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Anthiathia Libri",
+    "founded_year": 1904,
+    "constructor_points": 497
+  },
+  {
+    "team_id": 534,
+    "name": "Honorable",
+    "country": "Nigeria",
+    "principal": "Eba Grennan",
+    "founded_year": 1995,
+    "constructor_points": 692
+  },
+  {
+    "team_id": 184,
+    "name": "Mr",
+    "country": "Cuba",
+    "principal": "Haleigh Mosen",
+    "founded_year": 2004,
+    "constructor_points": 870
+  },
+  {
+    "team_id": 604,
+    "name": "Honorable",
+    "country": "United States",
+    "principal": "Helene Maplethorp",
+    "founded_year": 1969,
+    "constructor_points": 658
+  },
+  {
+    "team_id": 691,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Marga Gainseford",
+    "founded_year": 1999,
+    "constructor_points": 339
+  },
+  {
+    "team_id": 887,
+    "name": "Mr",
+    "country": "Sweden",
+    "principal": "Eartha Adriaens",
+    "founded_year": 1925,
+    "constructor_points": 323
+  },
+  {
+    "team_id": 500,
+    "name": "Rev",
+    "country": "Pakistan",
+    "principal": "Coralie Speight",
+    "founded_year": 1962,
+    "constructor_points": 812
+  },
+  {
+    "team_id": 86,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Beatriz Kienlein",
+    "founded_year": 1904,
+    "constructor_points": 68
+  },
+  {
+    "team_id": 524,
+    "name": "Dr",
+    "country": "Latvia",
+    "principal": "Lucretia Delnevo",
+    "founded_year": 1931,
+    "constructor_points": 610
+  },
+  {
+    "team_id": 515,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Mona Munkley",
+    "founded_year": 1982,
+    "constructor_points": 492
+  },
+  {
+    "team_id": 103,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Yetta Skures",
+    "founded_year": 1930,
+    "constructor_points": 12
+  },
+  {
+    "team_id": 342,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Adair Mallabone",
+    "founded_year": 1990,
+    "constructor_points": 338
+  },
+  {
+    "team_id": 595,
+    "name": "Honorable",
+    "country": "Guatemala",
+    "principal": "Madeleine Vennings",
+    "founded_year": 1926,
+    "constructor_points": 446
+  },
+  {
+    "team_id": 12,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Karly Shillabeare",
+    "founded_year": 1917,
+    "constructor_points": 245
+  },
+  {
+    "team_id": 603,
+    "name": "Dr",
+    "country": "United States",
+    "principal": "Quinton Guite",
+    "founded_year": 1922,
+    "constructor_points": 544
+  },
+  {
+    "team_id": 806,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Ginevra Cartner",
+    "founded_year": 2006,
+    "constructor_points": 79
+  },
+  {
+    "team_id": 24,
+    "name": "Ms",
+    "country": "Syria",
+    "principal": "Cynthy Peet",
+    "founded_year": 1987,
+    "constructor_points": 939
+  },
+  {
+    "team_id": 11,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Colas Warmisham",
+    "founded_year": 1980,
+    "constructor_points": 404
+  },
+  {
+    "team_id": 930,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Olenolin Dreier",
+    "founded_year": 1961,
+    "constructor_points": 868
+  },
+  {
+    "team_id": 894,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Laurence Tante",
+    "founded_year": 1946,
+    "constructor_points": 766
+  },
+  {
+    "team_id": 815,
+    "name": "Mr",
+    "country": "Colombia",
+    "principal": "Nichole Scritch",
+    "founded_year": 2006,
+    "constructor_points": 414
+  },
+  {
+    "team_id": 937,
+    "name": "Dr",
+    "country": "Japan",
+    "principal": "Merlina Rameau",
+    "founded_year": 1905,
+    "constructor_points": 142
+  },
+  {
+    "team_id": 452,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Even Brameld",
+    "founded_year": 1933,
+    "constructor_points": 608
+  },
+  {
+    "team_id": 628,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Amos Cockaday",
+    "founded_year": 1948,
+    "constructor_points": 958
+  },
+  {
+    "team_id": 925,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Morris Cestard",
+    "founded_year": 2018,
+    "constructor_points": 639
+  },
+  {
+    "team_id": 377,
+    "name": "Mrs",
+    "country": "Kazakhstan",
+    "principal": "Benedict Boorne",
+    "founded_year": 1989,
+    "constructor_points": 981
+  },
+  {
+    "team_id": 955,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Clemmie Battyll",
+    "founded_year": 1967,
+    "constructor_points": 98
+  },
+  {
+    "team_id": 437,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Crissie Casazza",
+    "founded_year": 1999,
+    "constructor_points": 308
+  },
+  {
+    "team_id": 749,
+    "name": "Mr",
+    "country": "Czech Republic",
+    "principal": "Lalo Glewe",
+    "founded_year": 1926,
+    "constructor_points": 197
+  },
+  {
+    "team_id": 885,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Daniele Tunuy",
+    "founded_year": 1992,
+    "constructor_points": 396
+  },
+  {
+    "team_id": 684,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Fabien Mowatt",
+    "founded_year": 1955,
+    "constructor_points": 146
+  },
+  {
+    "team_id": 635,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Bail Coulton",
+    "founded_year": 1986,
+    "constructor_points": 491
+  },
+  {
+    "team_id": 643,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Obie Rickards",
+    "founded_year": 1964,
+    "constructor_points": 903
+  },
+  {
+    "team_id": 29,
+    "name": "Mr",
+    "country": "Sweden",
+    "principal": "Huey Gronaver",
+    "founded_year": 1923,
+    "constructor_points": 973
+  },
+  {
+    "team_id": 680,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Meade Daviot",
+    "founded_year": 1954,
+    "constructor_points": 959
+  },
+  {
+    "team_id": 143,
+    "name": "Rev",
+    "country": "Nigeria",
+    "principal": "Boone Roan",
+    "founded_year": 1940,
+    "constructor_points": 75
+  },
+  {
+    "team_id": 528,
+    "name": "Mrs",
+    "country": "Germany",
+    "principal": "Andy Garrettson",
+    "founded_year": 1954,
+    "constructor_points": 520
+  },
+  {
+    "team_id": 397,
+    "name": "Honorable",
+    "country": "Costa Rica",
+    "principal": "Stacey Veld",
+    "founded_year": 1986,
+    "constructor_points": 770
+  },
+  {
+    "team_id": 909,
+    "name": "Ms",
+    "country": "Niger",
+    "principal": "Anett Eykelbosch",
+    "founded_year": 1944,
+    "constructor_points": 880
+  },
+  {
+    "team_id": 740,
+    "name": "Honorable",
+    "country": "Cameroon",
+    "principal": "Lelia Spaducci",
+    "founded_year": 1959,
+    "constructor_points": 585
+  },
+  {
+    "team_id": 9,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Bunni Croucher",
+    "founded_year": 1926,
+    "constructor_points": 739
+  },
+  {
+    "team_id": 218,
+    "name": "Mrs",
+    "country": "Belarus",
+    "principal": "Tandi Kennaird",
+    "founded_year": 1990,
+    "constructor_points": 975
+  },
+  {
+    "team_id": 903,
+    "name": "Rev",
+    "country": "South Africa",
+    "principal": "Carl Gozzett",
+    "founded_year": 2001,
+    "constructor_points": 789
+  },
+  {
+    "team_id": 728,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Eugen Cisec",
+    "founded_year": 1956,
+    "constructor_points": 802
+  },
+  {
+    "team_id": 250,
+    "name": "Rev",
+    "country": "Honduras",
+    "principal": "Paulina O'Shirine",
+    "founded_year": 2000,
+    "constructor_points": 369
+  },
+  {
+    "team_id": 612,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Leo Ramsdale",
+    "founded_year": 1917,
+    "constructor_points": 239
+  },
+  {
+    "team_id": 414,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Rahal Dorkin",
+    "founded_year": 1910,
+    "constructor_points": 784
+  },
+  {
+    "team_id": 167,
+    "name": "Rev",
+    "country": "Poland",
+    "principal": "Bryana Bisatt",
+    "founded_year": 1997,
+    "constructor_points": 568
+  },
+  {
+    "team_id": 721,
+    "name": "Honorable",
+    "country": "Ukraine",
+    "principal": "Rasia McBlain",
+    "founded_year": 1988,
+    "constructor_points": 431
+  },
+  {
+    "team_id": 932,
+    "name": "Ms",
+    "country": "Russia",
+    "principal": "Odille Niece",
+    "founded_year": 1922,
+    "constructor_points": 78
+  },
+  {
+    "team_id": 392,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Stephine Ridwood",
+    "founded_year": 1931,
+    "constructor_points": 736
+  },
+  {
+    "team_id": 183,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Camel Gotling",
+    "founded_year": 1940,
+    "constructor_points": 86
+  },
+  {
+    "team_id": 935,
+    "name": "Mr",
+    "country": "United Kingdom",
+    "principal": "Aubrey Johann",
+    "founded_year": 1984,
+    "constructor_points": 134
+  },
+  {
+    "team_id": 650,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Beaufort Genese",
+    "founded_year": 2001,
+    "constructor_points": 165
+  },
+  {
+    "team_id": 57,
+    "name": "Dr",
+    "country": "Portugal",
+    "principal": "Kalila Sainter",
+    "founded_year": 1918,
+    "constructor_points": 231
+  },
+  {
+    "team_id": 938,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Sebastiano Jenkin",
+    "founded_year": 1908,
+    "constructor_points": 464
+  },
+  {
+    "team_id": 362,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Mureil Brinklow",
+    "founded_year": 1992,
+    "constructor_points": 669
+  },
+  {
+    "team_id": 631,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Stephi Leipoldt",
+    "founded_year": 1961,
+    "constructor_points": 539
+  },
+  {
+    "team_id": 991,
+    "name": "Honorable",
+    "country": "United States",
+    "principal": "Ingmar Offen",
+    "founded_year": 1978,
+    "constructor_points": 140
+  },
+  {
+    "team_id": 737,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Lily Bourgaize",
+    "founded_year": 1996,
+    "constructor_points": 72
+  },
+  {
+    "team_id": 808,
+    "name": "Rev",
+    "country": "Thailand",
+    "principal": "Winifield Whitear",
+    "founded_year": 2021,
+    "constructor_points": 680
+  },
+  {
+    "team_id": 421,
+    "name": "Mr",
+    "country": "Cameroon",
+    "principal": "Humbert Maclean",
+    "founded_year": 1938,
+    "constructor_points": 239
+  },
+  {
+    "team_id": 88,
+    "name": "Rev",
+    "country": "Netherlands",
+    "principal": "Iosep Tracey",
+    "founded_year": 1907,
+    "constructor_points": 930
+  },
+  {
+    "team_id": 168,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Jerry Mogra",
+    "founded_year": 1967,
+    "constructor_points": 373
+  },
+  {
+    "team_id": 686,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Myrtice Beccero",
+    "founded_year": 1935,
+    "constructor_points": 672
+  },
+  {
+    "team_id": 58,
+    "name": "Dr",
+    "country": "Portugal",
+    "principal": "Humfrid Edon",
+    "founded_year": 1946,
+    "constructor_points": 679
+  },
+  {
+    "team_id": 430,
+    "name": "Mrs",
+    "country": "Kazakhstan",
+    "principal": "Mae Gainsburgh",
+    "founded_year": 1928,
+    "constructor_points": 959
+  },
+  {
+    "team_id": 17,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Boyce Voice",
+    "founded_year": 1940,
+    "constructor_points": 286
+  },
+  {
+    "team_id": 346,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Sharlene Rich",
+    "founded_year": 1926,
+    "constructor_points": 653
+  },
+  {
+    "team_id": 80,
+    "name": "Mrs",
+    "country": "Botswana",
+    "principal": "Sadella Trengove",
+    "founded_year": 1937,
+    "constructor_points": 945
+  },
+  {
+    "team_id": 539,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Doll Heber",
+    "founded_year": 1951,
+    "constructor_points": 727
+  },
+  {
+    "team_id": 109,
+    "name": "Honorable",
+    "country": "Chad",
+    "principal": "Rab Lawman",
+    "founded_year": 1991,
+    "constructor_points": 39
+  },
+  {
+    "team_id": 868,
+    "name": "Mrs",
+    "country": "United States",
+    "principal": "Grant Wilshaw",
+    "founded_year": 1971,
+    "constructor_points": 791
+  },
+  {
+    "team_id": 387,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Wadsworth Peizer",
+    "founded_year": 1952,
+    "constructor_points": 278
+  },
+  {
+    "team_id": 540,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Birgitta Almeida",
+    "founded_year": 1924,
+    "constructor_points": 25
+  },
+  {
+    "team_id": 364,
+    "name": "Mrs",
+    "country": "Finland",
+    "principal": "Walton Lorek",
+    "founded_year": 1956,
+    "constructor_points": 337
+  },
+  {
+    "team_id": 432,
+    "name": "Mr",
+    "country": "Albania",
+    "principal": "Vincenty Joyner",
+    "founded_year": 1945,
+    "constructor_points": 35
+  },
+  {
+    "team_id": 10,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Catrina Tuckie",
+    "founded_year": 1925,
+    "constructor_points": 380
+  },
+  {
+    "team_id": 75,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Merrill O' Markey",
+    "founded_year": 1952,
+    "constructor_points": 485
+  },
+  {
+    "team_id": 692,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Shelley Foggarty",
+    "founded_year": 1901,
+    "constructor_points": 69
+  },
+  {
+    "team_id": 600,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Rey Masselin",
+    "founded_year": 1996,
+    "constructor_points": 380
+  },
+  {
+    "team_id": 74,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Ysabel Goakes",
+    "founded_year": 2006,
+    "constructor_points": 294
+  },
+  {
+    "team_id": 296,
+    "name": "Dr",
+    "country": "Greece",
+    "principal": "Geraldine Goodlet",
+    "founded_year": 1902,
+    "constructor_points": 64
+  },
+  {
+    "team_id": 197,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Nickolaus Stirrip",
+    "founded_year": 1978,
+    "constructor_points": 61
+  },
+  {
+    "team_id": 311,
+    "name": "Honorable",
+    "country": "Latvia",
+    "principal": "Michail Surmeyer",
+    "founded_year": 1972,
+    "constructor_points": 670
+  },
+  {
+    "team_id": 790,
+    "name": "Rev",
+    "country": "Lithuania",
+    "principal": "Kaitlin Mildmott",
+    "founded_year": 1903,
+    "constructor_points": 405
+  },
+  {
+    "team_id": 449,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Vin Halsted",
+    "founded_year": 1912,
+    "constructor_points": 586
+  },
+  {
+    "team_id": 901,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Tore Catterill",
+    "founded_year": 1902,
+    "constructor_points": 761
+  },
+  {
+    "team_id": 272,
+    "name": "Dr",
+    "country": "New Caledonia",
+    "principal": "Burch Camden",
+    "founded_year": 1951,
+    "constructor_points": 505
+  },
+  {
+    "team_id": 112,
+    "name": "Dr",
+    "country": "Greece",
+    "principal": "Mary Gimbrett",
+    "founded_year": 1909,
+    "constructor_points": 507
+  },
+  {
+    "team_id": 341,
+    "name": "Rev",
+    "country": "Poland",
+    "principal": "Armstrong Sears",
+    "founded_year": 1942,
+    "constructor_points": 88
+  },
+  {
+    "team_id": 186,
+    "name": "Mrs",
+    "country": "Japan",
+    "principal": "Jamey Sallis",
+    "founded_year": 1999,
+    "constructor_points": 177
+  },
+  {
+    "team_id": 665,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Jim Flude",
+    "founded_year": 1917,
+    "constructor_points": 505
+  },
+  {
+    "team_id": 71,
+    "name": "Rev",
+    "country": "Liberia",
+    "principal": "Hal Keesman",
+    "founded_year": 2014,
+    "constructor_points": 940
+  },
+  {
+    "team_id": 956,
+    "name": "Mr",
+    "country": "Albania",
+    "principal": "Katleen Clutten",
+    "founded_year": 1966,
+    "constructor_points": 812
+  },
+  {
+    "team_id": 390,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Lela Di Carlo",
+    "founded_year": 1980,
+    "constructor_points": 570
+  },
+  {
+    "team_id": 677,
+    "name": "Mrs",
+    "country": "South Korea",
+    "principal": "Lorene Heinsen",
+    "founded_year": 1975,
+    "constructor_points": 833
+  },
+  {
+    "team_id": 175,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Michele Pavlata",
+    "founded_year": 1992,
+    "constructor_points": 944
+  },
+  {
+    "team_id": 303,
+    "name": "Mr",
+    "country": "Portugal",
+    "principal": "Reinold Mardle",
+    "founded_year": 1908,
+    "constructor_points": 323
+  },
+  {
+    "team_id": 987,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Maryjane Merman",
+    "founded_year": 1981,
+    "constructor_points": 635
+  },
+  {
+    "team_id": 774,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Rabbi Verner",
+    "founded_year": 1936,
+    "constructor_points": 786
+  },
+  {
+    "team_id": 28,
+    "name": "Mr",
+    "country": "Vietnam",
+    "principal": "Cass Guswell",
+    "founded_year": 1983,
+    "constructor_points": 952
+  },
+  {
+    "team_id": 888,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Camellia Colbert",
+    "founded_year": 1934,
+    "constructor_points": 936
+  },
+  {
+    "team_id": 234,
+    "name": "Rev",
+    "country": "Peru",
+    "principal": "Leesa Ezzy",
+    "founded_year": 1994,
+    "constructor_points": 129
+  },
+  {
+    "team_id": 638,
+    "name": "Ms",
+    "country": "Cameroon",
+    "principal": "Sallie Brimilcombe",
+    "founded_year": 1959,
+    "constructor_points": 647
+  },
+  {
+    "team_id": 130,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Franky Gurnell",
+    "founded_year": 1945,
+    "constructor_points": 683
+  },
+  {
+    "team_id": 299,
+    "name": "Mr",
+    "country": "Serbia",
+    "principal": "Gay Custed",
+    "founded_year": 1981,
+    "constructor_points": 209
+  },
+  {
+    "team_id": 318,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Sela Barwise",
+    "founded_year": 1966,
+    "constructor_points": 37
+  },
+  {
+    "team_id": 177,
+    "name": "Ms",
+    "country": "Peru",
+    "principal": "Leeanne Gritskov",
+    "founded_year": 1996,
+    "constructor_points": 35
+  },
+  {
+    "team_id": 272,
+    "name": "Mrs",
+    "country": "Brazil",
+    "principal": "Herta Schulze",
+    "founded_year": 1981,
+    "constructor_points": 194
+  },
+  {
+    "team_id": 315,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Kimberlee Gathercoal",
+    "founded_year": 1991,
+    "constructor_points": 146
+  },
+  {
+    "team_id": 496,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Billie Linnock",
+    "founded_year": 1968,
+    "constructor_points": 681
+  },
+  {
+    "team_id": 194,
+    "name": "Dr",
+    "country": "Colombia",
+    "principal": "Amitie Gergolet",
+    "founded_year": 1938,
+    "constructor_points": 955
+  },
+  {
+    "team_id": 6,
+    "name": "Dr",
+    "country": "Colombia",
+    "principal": "Millicent Bodimeade",
+    "founded_year": 1979,
+    "constructor_points": 62
+  },
+  {
+    "team_id": 760,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Araldo Muge",
+    "founded_year": 1924,
+    "constructor_points": 979
+  },
+  {
+    "team_id": 232,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Skyler Withrington",
+    "founded_year": 1941,
+    "constructor_points": 389
+  },
+  {
+    "team_id": 246,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Morris Ayllett",
+    "founded_year": 1915,
+    "constructor_points": 973
+  },
+  {
+    "team_id": 553,
+    "name": "Honorable",
+    "country": "Armenia",
+    "principal": "Priscilla Mizzen",
+    "founded_year": 1914,
+    "constructor_points": 433
+  },
+  {
+    "team_id": 927,
+    "name": "Dr",
+    "country": "Yemen",
+    "principal": "Alyson Hevey",
+    "founded_year": 1938,
+    "constructor_points": 913
+  },
+  {
+    "team_id": 138,
+    "name": "Rev",
+    "country": "Cambodia",
+    "principal": "Lucian Illem",
+    "founded_year": 1995,
+    "constructor_points": 127
+  },
+  {
+    "team_id": 463,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Kelcie Surcombe",
+    "founded_year": 1979,
+    "constructor_points": 915
+  },
+  {
+    "team_id": 261,
+    "name": "Mrs",
+    "country": "France",
+    "principal": "Charis Semorad",
+    "founded_year": 1991,
+    "constructor_points": 734
+  },
+  {
+    "team_id": 617,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Wright Baumadier",
+    "founded_year": 2009,
+    "constructor_points": 645
+  },
+  {
+    "team_id": 767,
+    "name": "Honorable",
+    "country": "Mexico",
+    "principal": "Sarajane Habishaw",
+    "founded_year": 1973,
+    "constructor_points": 909
+  },
+  {
+    "team_id": 274,
+    "name": "Honorable",
+    "country": "Argentina",
+    "principal": "Chicky Durrett",
+    "founded_year": 1913,
+    "constructor_points": 569
+  },
+  {
+    "team_id": 70,
+    "name": "Mr",
+    "country": "Lesotho",
+    "principal": "Ambrose Warkup",
+    "founded_year": 1971,
+    "constructor_points": 550
+  },
+  {
+    "team_id": 638,
+    "name": "Dr",
+    "country": "Ukraine",
+    "principal": "Enrico Matschuk",
+    "founded_year": 1949,
+    "constructor_points": 576
+  },
+  {
+    "team_id": 246,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Rabbi Coudray",
+    "founded_year": 1916,
+    "constructor_points": 461
+  },
+  {
+    "team_id": 955,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Rafaelia Euels",
+    "founded_year": 2013,
+    "constructor_points": 689
+  },
+  {
+    "team_id": 345,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Francene Hendrickx",
+    "founded_year": 1994,
+    "constructor_points": 399
+  },
+  {
+    "team_id": 323,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Jeanne Naerup",
+    "founded_year": 1958,
+    "constructor_points": 53
+  },
+  {
+    "team_id": 971,
+    "name": "Honorable",
+    "country": "Philippines",
+    "principal": "Allie Pulham",
+    "founded_year": 1922,
+    "constructor_points": 423
+  },
+  {
+    "team_id": 803,
+    "name": "Ms",
+    "country": "South Africa",
+    "principal": "Winonah Eastmond",
+    "founded_year": 2021,
+    "constructor_points": 749
+  },
+  {
+    "team_id": 402,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Allis Larret",
+    "founded_year": 1918,
+    "constructor_points": 462
+  },
+  {
+    "team_id": 184,
+    "name": "Ms",
+    "country": "Turkmenistan",
+    "principal": "Trenton Heintze",
+    "founded_year": 1943,
+    "constructor_points": 840
+  },
+  {
+    "team_id": 197,
+    "name": "Honorable",
+    "country": "Sweden",
+    "principal": "Zacherie Mechi",
+    "founded_year": 1912,
+    "constructor_points": 139
+  },
+  {
+    "team_id": 952,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Catharine Attard",
+    "founded_year": 1905,
+    "constructor_points": 317
+  },
+  {
+    "team_id": 24,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Josephine Sparshett",
+    "founded_year": 1986,
+    "constructor_points": 458
+  },
+  {
+    "team_id": 623,
+    "name": "Honorable",
+    "country": "Pakistan",
+    "principal": "Bax Wiltshier",
+    "founded_year": 1945,
+    "constructor_points": 523
+  },
+  {
+    "team_id": 230,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Ferdy Tulley",
+    "founded_year": 1917,
+    "constructor_points": 114
+  },
+  {
+    "team_id": 356,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Seth Hyett",
+    "founded_year": 2019,
+    "constructor_points": 144
+  },
+  {
+    "team_id": 912,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Clarette Cours",
+    "founded_year": 1906,
+    "constructor_points": 654
+  },
+  {
+    "team_id": 462,
+    "name": "Dr",
+    "country": "Myanmar",
+    "principal": "Elfrieda Tefft",
+    "founded_year": 1921,
+    "constructor_points": 809
+  },
+  {
+    "team_id": 348,
+    "name": "Rev",
+    "country": "East Timor",
+    "principal": "Atalanta Clingoe",
+    "founded_year": 1978,
+    "constructor_points": 469
+  },
+  {
+    "team_id": 438,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Inglebert Kernock",
+    "founded_year": 1919,
+    "constructor_points": 853
+  },
+  {
+    "team_id": 384,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Aurie Latus",
+    "founded_year": 1931,
+    "constructor_points": 162
+  },
+  {
+    "team_id": 237,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Jeana Nardi",
+    "founded_year": 2004,
+    "constructor_points": 212
+  },
+  {
+    "team_id": 726,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Jenilee Pleuman",
+    "founded_year": 1985,
+    "constructor_points": 380
+  },
+  {
+    "team_id": 283,
+    "name": "Rev",
+    "country": "Ireland",
+    "principal": "Theo Sheere",
+    "founded_year": 1999,
+    "constructor_points": 471
+  },
+  {
+    "team_id": 188,
+    "name": "Honorable",
+    "country": "Bahrain",
+    "principal": "Craggy Burleigh",
+    "founded_year": 1928,
+    "constructor_points": 782
+  },
+  {
+    "team_id": 472,
+    "name": "Mr",
+    "country": "Poland",
+    "principal": "Reinwald Eddis",
+    "founded_year": 1941,
+    "constructor_points": 622
+  },
+  {
+    "team_id": 917,
+    "name": "Ms",
+    "country": "Nepal",
+    "principal": "Bette-ann Doyle",
+    "founded_year": 1978,
+    "constructor_points": 360
+  },
+  {
+    "team_id": 562,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Scott Chstney",
+    "founded_year": 1971,
+    "constructor_points": 959
+  },
+  {
+    "team_id": 779,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Kaia Walne",
+    "founded_year": 1992,
+    "constructor_points": 30
+  },
+  {
+    "team_id": 639,
+    "name": "Rev",
+    "country": "Norway",
+    "principal": "Abrahan McIlmorie",
+    "founded_year": 1949,
+    "constructor_points": 235
+  },
+  {
+    "team_id": 926,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Clayborne Sprake",
+    "founded_year": 1933,
+    "constructor_points": 259
+  },
+  {
+    "team_id": 17,
+    "name": "Mr",
+    "country": "Nigeria",
+    "principal": "Esma Zanicchi",
+    "founded_year": 1990,
+    "constructor_points": 273
+  },
+  {
+    "team_id": 934,
+    "name": "Mr",
+    "country": "Germany",
+    "principal": "Kailey Brand-Hardy",
+    "founded_year": 1994,
+    "constructor_points": 153
+  },
+  {
+    "team_id": 731,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Karl Conkay",
+    "founded_year": 1972,
+    "constructor_points": 760
+  },
+  {
+    "team_id": 751,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Seward Mewitt",
+    "founded_year": 1993,
+    "constructor_points": 340
+  },
+  {
+    "team_id": 529,
+    "name": "Ms",
+    "country": "Czech Republic",
+    "principal": "Ravid Lowseley",
+    "founded_year": 1932,
+    "constructor_points": 396
+  },
+  {
+    "team_id": 843,
+    "name": "Honorable",
+    "country": "Armenia",
+    "principal": "Benny Scandred",
+    "founded_year": 1939,
+    "constructor_points": 966
+  },
+  {
+    "team_id": 389,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Kenon Hawton",
+    "founded_year": 1923,
+    "constructor_points": 727
+  },
+  {
+    "team_id": 990,
+    "name": "Dr",
+    "country": "Canada",
+    "principal": "Karmen Novacek",
+    "founded_year": 2005,
+    "constructor_points": 102
+  },
+  {
+    "team_id": 385,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Siouxie Mountford",
+    "founded_year": 2006,
+    "constructor_points": 838
+  },
+  {
+    "team_id": 723,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Erminie Ragsdale",
+    "founded_year": 1961,
+    "constructor_points": 804
+  },
+  {
+    "team_id": 444,
+    "name": "Mr",
+    "country": "Burkina Faso",
+    "principal": "Bernardo Kedslie",
+    "founded_year": 2006,
+    "constructor_points": 658
+  },
+  {
+    "team_id": 435,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Bev Worledge",
+    "founded_year": 1903,
+    "constructor_points": 728
+  },
+  {
+    "team_id": 618,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Melitta Cotelard",
+    "founded_year": 2016,
+    "constructor_points": 541
+  },
+  {
+    "team_id": 881,
+    "name": "Rev",
+    "country": "Nigeria",
+    "principal": "Erica Gamblin",
+    "founded_year": 1965,
+    "constructor_points": 257
+  },
+  {
+    "team_id": 903,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Elisabet Larby",
+    "founded_year": 1904,
+    "constructor_points": 768
+  },
+  {
+    "team_id": 168,
+    "name": "Ms",
+    "country": "Finland",
+    "principal": "Pauli Fibbitts",
+    "founded_year": 1981,
+    "constructor_points": 971
+  },
+  {
+    "team_id": 981,
+    "name": "Mrs",
+    "country": "Portugal",
+    "principal": "Pavel Paike",
+    "founded_year": 1925,
+    "constructor_points": 928
+  },
+  {
+    "team_id": 865,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "John Leagas",
+    "founded_year": 1936,
+    "constructor_points": 740
+  },
+  {
+    "team_id": 693,
+    "name": "Rev",
+    "country": "Thailand",
+    "principal": "Tobe Roz",
+    "founded_year": 1900,
+    "constructor_points": 904
+  },
+  {
+    "team_id": 713,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Odette Glauber",
+    "founded_year": 1949,
+    "constructor_points": 623
+  },
+  {
+    "team_id": 270,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Dana Menico",
+    "founded_year": 1971,
+    "constructor_points": 416
+  },
+  {
+    "team_id": 254,
+    "name": "Mrs",
+    "country": "Colombia",
+    "principal": "Torrence Worsnop",
+    "founded_year": 1926,
+    "constructor_points": 992
+  },
+  {
+    "team_id": 892,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Rustin Grigor",
+    "founded_year": 1921,
+    "constructor_points": 623
+  },
+  {
+    "team_id": 623,
+    "name": "Honorable",
+    "country": "Russia",
+    "principal": "Allen Cuthbert",
+    "founded_year": 1907,
+    "constructor_points": 755
+  },
+  {
+    "team_id": 647,
+    "name": "Mr",
+    "country": "Portugal",
+    "principal": "Edee Cowterd",
+    "founded_year": 2013,
+    "constructor_points": 470
+  },
+  {
+    "team_id": 248,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Wandis Scripps",
+    "founded_year": 2017,
+    "constructor_points": 753
+  },
+  {
+    "team_id": 751,
+    "name": "Mrs",
+    "country": "Greece",
+    "principal": "Emelina Greetham",
+    "founded_year": 2010,
+    "constructor_points": 274
+  },
+  {
+    "team_id": 636,
+    "name": "Honorable",
+    "country": "Sweden",
+    "principal": "Datha Danilenko",
+    "founded_year": 1941,
+    "constructor_points": 802
+  },
+  {
+    "team_id": 79,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Hebert Gealy",
+    "founded_year": 1959,
+    "constructor_points": 326
+  },
+  {
+    "team_id": 80,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Verne Linde",
+    "founded_year": 1933,
+    "constructor_points": 353
+  },
+  {
+    "team_id": 357,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Bobbi Dunge",
+    "founded_year": 1935,
+    "constructor_points": 133
+  },
+  {
+    "team_id": 352,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Dennie Jeger",
+    "founded_year": 2004,
+    "constructor_points": 416
+  },
+  {
+    "team_id": 169,
+    "name": "Dr",
+    "country": "Argentina",
+    "principal": "Gertie Munsey",
+    "founded_year": 1942,
+    "constructor_points": 82
+  },
+  {
+    "team_id": 965,
+    "name": "Mr",
+    "country": "Vietnam",
+    "principal": "Nert Litterick",
+    "founded_year": 1904,
+    "constructor_points": 66
+  },
+  {
+    "team_id": 494,
+    "name": "Honorable",
+    "country": "Venezuela",
+    "principal": "Kennan Lisamore",
+    "founded_year": 1925,
+    "constructor_points": 977
+  },
+  {
+    "team_id": 918,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Nada Camilleri",
+    "founded_year": 1945,
+    "constructor_points": 506
+  },
+  {
+    "team_id": 459,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Bay Gascard",
+    "founded_year": 1915,
+    "constructor_points": 87
+  },
+  {
+    "team_id": 424,
+    "name": "Ms",
+    "country": "Canada",
+    "principal": "Heida Pavelin",
+    "founded_year": 1910,
+    "constructor_points": 240
+  },
+  {
+    "team_id": 693,
+    "name": "Ms",
+    "country": "South Korea",
+    "principal": "Farlie Langthorn",
+    "founded_year": 1957,
+    "constructor_points": 73
+  },
+  {
+    "team_id": 615,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Karlene Juares",
+    "founded_year": 1992,
+    "constructor_points": 321
+  },
+  {
+    "team_id": 781,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Vallie Lanbertoni",
+    "founded_year": 1994,
+    "constructor_points": 589
+  },
+  {
+    "team_id": 716,
+    "name": "Dr",
+    "country": "Ukraine",
+    "principal": "Tanitansy Klebes",
+    "founded_year": 1907,
+    "constructor_points": 82
+  },
+  {
+    "team_id": 290,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Prudi Kimmerling",
+    "founded_year": 1978,
+    "constructor_points": 955
+  },
+  {
+    "team_id": 115,
+    "name": "Honorable",
+    "country": "Peru",
+    "principal": "Hollis Fike",
+    "founded_year": 1928,
+    "constructor_points": 667
+  },
+  {
+    "team_id": 920,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Olivero Gibberd",
+    "founded_year": 1972,
+    "constructor_points": 918
+  },
+  {
+    "team_id": 493,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Avril McGroarty",
+    "founded_year": 2005,
+    "constructor_points": 196
+  },
+  {
+    "team_id": 102,
+    "name": "Mrs",
+    "country": "India",
+    "principal": "Poppy Esposito",
+    "founded_year": 1960,
+    "constructor_points": 415
+  },
+  {
+    "team_id": 73,
+    "name": "Mr",
+    "country": "Hungary",
+    "principal": "Valli Ketteridge",
+    "founded_year": 2004,
+    "constructor_points": 974
+  },
+  {
+    "team_id": 321,
+    "name": "Mrs",
+    "country": "Burkina Faso",
+    "principal": "Ariel Paule",
+    "founded_year": 1973,
+    "constructor_points": 354
+  },
+  {
+    "team_id": 966,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Ailyn Shrimpling",
+    "founded_year": 1966,
+    "constructor_points": 843
+  },
+  {
+    "team_id": 659,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Zarla Izkovitz",
+    "founded_year": 1947,
+    "constructor_points": 520
+  },
+  {
+    "team_id": 797,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Lib Bank",
+    "founded_year": 1997,
+    "constructor_points": 833
+  },
+  {
+    "team_id": 790,
+    "name": "Mr",
+    "country": "Greece",
+    "principal": "Christophe Kalinovich",
+    "founded_year": 1963,
+    "constructor_points": 620
+  },
+  {
+    "team_id": 526,
+    "name": "Mrs",
+    "country": "Japan",
+    "principal": "Ardyth Baterip",
+    "founded_year": 2015,
+    "constructor_points": 675
+  },
+  {
+    "team_id": 659,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Rockwell Spellard",
+    "founded_year": 2012,
+    "constructor_points": 248
+  },
+  {
+    "team_id": 935,
+    "name": "Mr",
+    "country": "Guatemala",
+    "principal": "Roxane Conley",
+    "founded_year": 1969,
+    "constructor_points": 553
+  },
+  {
+    "team_id": 391,
+    "name": "Rev",
+    "country": "Central African Republic",
+    "principal": "Nonna Wilding",
+    "founded_year": 1985,
+    "constructor_points": 74
+  },
+  {
+    "team_id": 7,
+    "name": "Rev",
+    "country": "New Zealand",
+    "principal": "Brear McCrossan",
+    "founded_year": 1970,
+    "constructor_points": 729
+  },
+  {
+    "team_id": 436,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Dolorita Mussettini",
+    "founded_year": 1977,
+    "constructor_points": 511
+  },
+  {
+    "team_id": 638,
+    "name": "Ms",
+    "country": "Marshall Islands",
+    "principal": "Consalve Grugerr",
+    "founded_year": 1953,
+    "constructor_points": 854
+  },
+  {
+    "team_id": 896,
+    "name": "Mrs",
+    "country": "Canada",
+    "principal": "Alard Jarrard",
+    "founded_year": 1917,
+    "constructor_points": 948
+  },
+  {
+    "team_id": 460,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Susan Oxborrow",
+    "founded_year": 2021,
+    "constructor_points": 702
+  },
+  {
+    "team_id": 436,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Tye Bradd",
+    "founded_year": 1958,
+    "constructor_points": 325
+  },
+  {
+    "team_id": 930,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Stern Nacey",
+    "founded_year": 1900,
+    "constructor_points": 276
+  },
+  {
+    "team_id": 730,
+    "name": "Ms",
+    "country": "United States",
+    "principal": "Maryanna Bertenshaw",
+    "founded_year": 1987,
+    "constructor_points": 218
+  },
+  {
+    "team_id": 629,
+    "name": "Rev",
+    "country": "Argentina",
+    "principal": "Shela Hayhoe",
+    "founded_year": 1967,
+    "constructor_points": 569
+  },
+  {
+    "team_id": 512,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Libbi Rubert",
+    "founded_year": 1929,
+    "constructor_points": 872
+  },
+  {
+    "team_id": 663,
+    "name": "Mrs",
+    "country": "Libya",
+    "principal": "Warde Callender",
+    "founded_year": 1922,
+    "constructor_points": 480
+  },
+  {
+    "team_id": 109,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Pierrette Molder",
+    "founded_year": 1929,
+    "constructor_points": 953
+  },
+  {
+    "team_id": 440,
+    "name": "Mr",
+    "country": "Czech Republic",
+    "principal": "Brett Sier",
+    "founded_year": 1933,
+    "constructor_points": 849
+  },
+  {
+    "team_id": 440,
+    "name": "Ms",
+    "country": "Australia",
+    "principal": "Daniella Borell",
+    "founded_year": 2022,
+    "constructor_points": 498
+  },
+  {
+    "team_id": 936,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Alexa Rapp",
+    "founded_year": 1980,
+    "constructor_points": 701
+  },
+  {
+    "team_id": 809,
+    "name": "Mrs",
+    "country": "United States",
+    "principal": "Vinita Manz",
+    "founded_year": 1998,
+    "constructor_points": 506
+  },
+  {
+    "team_id": 86,
+    "name": "Mrs",
+    "country": "Kazakhstan",
+    "principal": "Doralyn Nevitt",
+    "founded_year": 1972,
+    "constructor_points": 661
+  },
+  {
+    "team_id": 116,
+    "name": "Mrs",
+    "country": "Czech Republic",
+    "principal": "Averill Ladloe",
+    "founded_year": 1936,
+    "constructor_points": 165
+  },
+  {
+    "team_id": 591,
+    "name": "Mr",
+    "country": "France",
+    "principal": "Filip Dory",
+    "founded_year": 2012,
+    "constructor_points": 509
+  },
+  {
+    "team_id": 429,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Salvador Willes",
+    "founded_year": 1982,
+    "constructor_points": 101
+  },
+  {
+    "team_id": 237,
+    "name": "Honorable",
+    "country": "Spain",
+    "principal": "Logan Schapiro",
+    "founded_year": 1945,
+    "constructor_points": 895
+  },
+  {
+    "team_id": 883,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Harris Vankin",
+    "founded_year": 1910,
+    "constructor_points": 265
+  },
+  {
+    "team_id": 900,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Heall Hallbord",
+    "founded_year": 1976,
+    "constructor_points": 98
+  },
+  {
+    "team_id": 614,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Jason Ashbridge",
+    "founded_year": 1994,
+    "constructor_points": 644
+  },
+  {
+    "team_id": 508,
+    "name": "Honorable",
+    "country": "Lithuania",
+    "principal": "Pepi Easterling",
+    "founded_year": 1910,
+    "constructor_points": 725
+  },
+  {
+    "team_id": 66,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Candice Bernardo",
+    "founded_year": 1946,
+    "constructor_points": 209
+  },
+  {
+    "team_id": 915,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Braden Hearnaman",
+    "founded_year": 1937,
+    "constructor_points": 459
+  },
+  {
+    "team_id": 780,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Rubin Strover",
+    "founded_year": 1982,
+    "constructor_points": 106
+  },
+  {
+    "team_id": 618,
+    "name": "Rev",
+    "country": "Poland",
+    "principal": "Doreen Whetton",
+    "founded_year": 2018,
+    "constructor_points": 199
+  },
+  {
+    "team_id": 613,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Matias Hurley",
+    "founded_year": 1979,
+    "constructor_points": 380
+  },
+  {
+    "team_id": 636,
+    "name": "Ms",
+    "country": "Sweden",
+    "principal": "Babita Lots",
+    "founded_year": 1901,
+    "constructor_points": 415
+  },
+  {
+    "team_id": 812,
+    "name": "Mrs",
+    "country": "Nicaragua",
+    "principal": "Garnette Lazar",
+    "founded_year": 1901,
+    "constructor_points": 905
+  },
+  {
+    "team_id": 927,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Jesus Flipek",
+    "founded_year": 1945,
+    "constructor_points": 656
+  },
+  {
+    "team_id": 410,
+    "name": "Ms",
+    "country": "Bolivia",
+    "principal": "Amandy Kilkenny",
+    "founded_year": 1950,
+    "constructor_points": 358
+  },
+  {
+    "team_id": 593,
+    "name": "Honorable",
+    "country": "Thailand",
+    "principal": "Jorrie Fere",
+    "founded_year": 1958,
+    "constructor_points": 853
+  },
+  {
+    "team_id": 404,
+    "name": "Mr",
+    "country": "Finland",
+    "principal": "Pedro Tammadge",
+    "founded_year": 1978,
+    "constructor_points": 451
+  },
+  {
+    "team_id": 293,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Adan Dredge",
+    "founded_year": 1956,
+    "constructor_points": 529
+  },
+  {
+    "team_id": 100,
+    "name": "Honorable",
+    "country": "Norway",
+    "principal": "Rollin Hallmark",
+    "founded_year": 1950,
+    "constructor_points": 220
+  },
+  {
+    "team_id": 574,
+    "name": "Dr",
+    "country": "Ecuador",
+    "principal": "Rebecka Dorracott",
+    "founded_year": 1971,
+    "constructor_points": 827
+  },
+  {
+    "team_id": 549,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Jaclin Gatherer",
+    "founded_year": 1920,
+    "constructor_points": 629
+  },
+  {
+    "team_id": 274,
+    "name": "Rev",
+    "country": "Japan",
+    "principal": "Devlin MacKimm",
+    "founded_year": 1976,
+    "constructor_points": 339
+  },
+  {
+    "team_id": 523,
+    "name": "Dr",
+    "country": "Guinea",
+    "principal": "Natalina Orridge",
+    "founded_year": 1939,
+    "constructor_points": 29
+  },
+  {
+    "team_id": 504,
+    "name": "Mrs",
+    "country": "Mexico",
+    "principal": "Anna-diane Venditti",
+    "founded_year": 1964,
+    "constructor_points": 603
+  },
+  {
+    "team_id": 992,
+    "name": "Ms",
+    "country": "Slovenia",
+    "principal": "Siffre McKmurrie",
+    "founded_year": 1999,
+    "constructor_points": 610
+  },
+  {
+    "team_id": 831,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Jesse Goozee",
+    "founded_year": 1991,
+    "constructor_points": 180
+  },
+  {
+    "team_id": 978,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Bianka McAvinchey",
+    "founded_year": 1960,
+    "constructor_points": 228
+  },
+  {
+    "team_id": 192,
+    "name": "Rev",
+    "country": "Guatemala",
+    "principal": "Tyson Avory",
+    "founded_year": 1956,
+    "constructor_points": 78
+  },
+  {
+    "team_id": 230,
+    "name": "Mr",
+    "country": "Nigeria",
+    "principal": "Shaw Yurikov",
+    "founded_year": 1973,
+    "constructor_points": 253
+  },
+  {
+    "team_id": 502,
+    "name": "Rev",
+    "country": "Canada",
+    "principal": "Welby Pering",
+    "founded_year": 1990,
+    "constructor_points": 409
+  },
+  {
+    "team_id": 980,
+    "name": "Mr",
+    "country": "France",
+    "principal": "Willy Bartolic",
+    "founded_year": 1976,
+    "constructor_points": 665
+  },
+  {
+    "team_id": 290,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Elke Gennrich",
+    "founded_year": 2006,
+    "constructor_points": 775
+  },
+  {
+    "team_id": 635,
+    "name": "Honorable",
+    "country": "France",
+    "principal": "Melina Godby",
+    "founded_year": 1979,
+    "constructor_points": 501
+  },
+  {
+    "team_id": 642,
+    "name": "Ms",
+    "country": "United States",
+    "principal": "Marlane Moorcroft",
+    "founded_year": 1980,
+    "constructor_points": 570
+  },
+  {
+    "team_id": 330,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Ebba Gerring",
+    "founded_year": 1980,
+    "constructor_points": 687
+  },
+  {
+    "team_id": 3,
+    "name": "Dr",
+    "country": "Armenia",
+    "principal": "Papageno Dunridge",
+    "founded_year": 1936,
+    "constructor_points": 763
+  },
+  {
+    "team_id": 37,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Chery Knibbs",
+    "founded_year": 1998,
+    "constructor_points": 479
+  },
+  {
+    "team_id": 880,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Jenny Botler",
+    "founded_year": 2010,
+    "constructor_points": 837
+  },
+  {
+    "team_id": 341,
+    "name": "Dr",
+    "country": "Namibia",
+    "principal": "Debra Cornish",
+    "founded_year": 1924,
+    "constructor_points": 638
+  },
+  {
+    "team_id": 330,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Hannie Stainfield",
+    "founded_year": 1985,
+    "constructor_points": 558
+  },
+  {
+    "team_id": 150,
+    "name": "Rev",
+    "country": "Macedonia",
+    "principal": "Gale Bowness",
+    "founded_year": 1900,
+    "constructor_points": 839
+  },
+  {
+    "team_id": 431,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Lesly Shimoni",
+    "founded_year": 1987,
+    "constructor_points": 847
+  },
+  {
+    "team_id": 857,
+    "name": "Mr",
+    "country": "Canada",
+    "principal": "Tiffani Reilly",
+    "founded_year": 2007,
+    "constructor_points": 435
+  },
+  {
+    "team_id": 467,
+    "name": "Rev",
+    "country": "Costa Rica",
+    "principal": "Emogene Sessions",
+    "founded_year": 1990,
+    "constructor_points": 967
+  },
+  {
+    "team_id": 901,
+    "name": "Rev",
+    "country": "Syria",
+    "principal": "Bondon Espinay",
+    "founded_year": 1958,
+    "constructor_points": 512
+  },
+  {
+    "team_id": 635,
+    "name": "Rev",
+    "country": "Croatia",
+    "principal": "Byrle Fessions",
+    "founded_year": 1987,
+    "constructor_points": 340
+  },
+  {
+    "team_id": 405,
+    "name": "Ms",
+    "country": "Egypt",
+    "principal": "Melony Saller",
+    "founded_year": 1956,
+    "constructor_points": 530
+  },
+  {
+    "team_id": 442,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Tam MacShirrie",
+    "founded_year": 1932,
+    "constructor_points": 611
+  },
+  {
+    "team_id": 465,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Celisse Salerno",
+    "founded_year": 1995,
+    "constructor_points": 573
+  },
+  {
+    "team_id": 748,
+    "name": "Mrs",
+    "country": "Croatia",
+    "principal": "Marianna Chorlton",
+    "founded_year": 1995,
+    "constructor_points": 439
+  },
+  {
+    "team_id": 57,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Ana Creeghan",
+    "founded_year": 1938,
+    "constructor_points": 553
+  },
+  {
+    "team_id": 547,
+    "name": "Mrs",
+    "country": "Colombia",
+    "principal": "Annetta Clothier",
+    "founded_year": 1937,
+    "constructor_points": 223
+  },
+  {
+    "team_id": 535,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Ceil Middlemist",
+    "founded_year": 1970,
+    "constructor_points": 758
+  },
+  {
+    "team_id": 597,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Maddalena Giorio",
+    "founded_year": 1911,
+    "constructor_points": 411
+  },
+  {
+    "team_id": 93,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Gael Buckoke",
+    "founded_year": 1955,
+    "constructor_points": 88
+  },
+  {
+    "team_id": 12,
+    "name": "Mrs",
+    "country": "Portugal",
+    "principal": "Red Reekie",
+    "founded_year": 1988,
+    "constructor_points": 952
+  },
+  {
+    "team_id": 534,
+    "name": "Dr",
+    "country": "Kenya",
+    "principal": "Herbie Tschierasche",
+    "founded_year": 1960,
+    "constructor_points": 308
+  },
+  {
+    "team_id": 18,
+    "name": "Dr",
+    "country": "Guatemala",
+    "principal": "Kenny Bremond",
+    "founded_year": 1959,
+    "constructor_points": 182
+  },
+  {
+    "team_id": 198,
+    "name": "Rev",
+    "country": "Mexico",
+    "principal": "Dyane McMickan",
+    "founded_year": 1939,
+    "constructor_points": 422
+  },
+  {
+    "team_id": 583,
+    "name": "Honorable",
+    "country": "Pakistan",
+    "principal": "Sibley Ledgeway",
+    "founded_year": 1997,
+    "constructor_points": 595
+  },
+  {
+    "team_id": 569,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Candra Van der Kruijs",
+    "founded_year": 1956,
+    "constructor_points": 296
+  },
+  {
+    "team_id": 239,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Vite Bywater",
+    "founded_year": 1961,
+    "constructor_points": 515
+  },
+  {
+    "team_id": 992,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Melinde Torricina",
+    "founded_year": 1901,
+    "constructor_points": 850
+  },
+  {
+    "team_id": 369,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Devlen Isaacs",
+    "founded_year": 2002,
+    "constructor_points": 287
+  },
+  {
+    "team_id": 21,
+    "name": "Honorable",
+    "country": "Philippines",
+    "principal": "Michael Kundert",
+    "founded_year": 1949,
+    "constructor_points": 270
+  },
+  {
+    "team_id": 441,
+    "name": "Honorable",
+    "country": "Indonesia",
+    "principal": "Gweneth Turone",
+    "founded_year": 1919,
+    "constructor_points": 591
+  },
+  {
+    "team_id": 795,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Pascal Gooke",
+    "founded_year": 1983,
+    "constructor_points": 710
+  },
+  {
+    "team_id": 532,
+    "name": "Mr",
+    "country": "Thailand",
+    "principal": "Evaleen McClure",
+    "founded_year": 1927,
+    "constructor_points": 698
+  },
+  {
+    "team_id": 837,
+    "name": "Honorable",
+    "country": "Estonia",
+    "principal": "Luis Delyth",
+    "founded_year": 1920,
+    "constructor_points": 36
+  },
+  {
+    "team_id": 973,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Wynn Kamena",
+    "founded_year": 1963,
+    "constructor_points": 964
+  },
+  {
+    "team_id": 837,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Delphine Fitt",
+    "founded_year": 1921,
+    "constructor_points": 637
+  },
+  {
+    "team_id": 251,
+    "name": "Ms",
+    "country": "France",
+    "principal": "Thekla Alphonso",
+    "founded_year": 2018,
+    "constructor_points": 739
+  },
+  {
+    "team_id": 479,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Manya Deacon",
+    "founded_year": 2001,
+    "constructor_points": 601
+  },
+  {
+    "team_id": 141,
+    "name": "Ms",
+    "country": "Philippines",
+    "principal": "Lock Petyakov",
+    "founded_year": 1999,
+    "constructor_points": 359
+  },
+  {
+    "team_id": 980,
+    "name": "Mr",
+    "country": "Macedonia",
+    "principal": "Hunt Pincott",
+    "founded_year": 2010,
+    "constructor_points": 888
+  },
+  {
+    "team_id": 67,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Odelle Guslon",
+    "founded_year": 1918,
+    "constructor_points": 585
+  },
+  {
+    "team_id": 735,
+    "name": "Dr",
+    "country": "Thailand",
+    "principal": "Milli Lovie",
+    "founded_year": 2022,
+    "constructor_points": 55
+  },
+  {
+    "team_id": 60,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Chalmers Canland",
+    "founded_year": 1963,
+    "constructor_points": 461
+  },
+  {
+    "team_id": 855,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Clyde Rorke",
+    "founded_year": 1977,
+    "constructor_points": 116
+  },
+  {
+    "team_id": 24,
+    "name": "Mr",
+    "country": "Yemen",
+    "principal": "Diann Phillott",
+    "founded_year": 1928,
+    "constructor_points": 359
+  },
+  {
+    "team_id": 677,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Cass Hurtado",
+    "founded_year": 1939,
+    "constructor_points": 612
+  },
+  {
+    "team_id": 252,
+    "name": "Honorable",
+    "country": "Chile",
+    "principal": "Shir Slate",
+    "founded_year": 1988,
+    "constructor_points": 702
+  },
+  {
+    "team_id": 934,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Mitchell Cashen",
+    "founded_year": 1900,
+    "constructor_points": 967
+  },
+  {
+    "team_id": 652,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Romona Avann",
+    "founded_year": 1930,
+    "constructor_points": 531
+  },
+  {
+    "team_id": 15,
+    "name": "Honorable",
+    "country": "Portugal",
+    "principal": "Trever Lowre",
+    "founded_year": 1961,
+    "constructor_points": 460
+  },
+  {
+    "team_id": 623,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Rossie Delhay",
+    "founded_year": 1945,
+    "constructor_points": 864
+  },
+  {
+    "team_id": 726,
+    "name": "Honorable",
+    "country": "Vietnam",
+    "principal": "Zarla Lytton",
+    "founded_year": 1989,
+    "constructor_points": 129
+  },
+  {
+    "team_id": 317,
+    "name": "Mrs",
+    "country": "Iran",
+    "principal": "Cobby Staples",
+    "founded_year": 1905,
+    "constructor_points": 251
+  },
+  {
+    "team_id": 765,
+    "name": "Dr",
+    "country": "Ukraine",
+    "principal": "Dionisio Grigoire",
+    "founded_year": 1930,
+    "constructor_points": 143
+  },
+  {
+    "team_id": 950,
+    "name": "Mr",
+    "country": "Greece",
+    "principal": "Tania Saing",
+    "founded_year": 1998,
+    "constructor_points": 944
+  },
+  {
+    "team_id": 510,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Felipa Esposi",
+    "founded_year": 1966,
+    "constructor_points": 986
+  },
+  {
+    "team_id": 353,
+    "name": "Mrs",
+    "country": "Chile",
+    "principal": "Sherlock Malins",
+    "founded_year": 2011,
+    "constructor_points": 944
+  },
+  {
+    "team_id": 922,
+    "name": "Rev",
+    "country": "Portugal",
+    "principal": "Rudd Triebner",
+    "founded_year": 1922,
+    "constructor_points": 781
+  },
+  {
+    "team_id": 443,
+    "name": "Dr",
+    "country": "Argentina",
+    "principal": "Caty Giacopini",
+    "founded_year": 1947,
+    "constructor_points": 726
+  },
+  {
+    "team_id": 821,
+    "name": "Ms",
+    "country": "Poland",
+    "principal": "Prince Franzolini",
+    "founded_year": 2018,
+    "constructor_points": 9
+  },
+  {
+    "team_id": 299,
+    "name": "Rev",
+    "country": "Ukraine",
+    "principal": "Madeleine Conduit",
+    "founded_year": 1920,
+    "constructor_points": 202
+  },
+  {
+    "team_id": 920,
+    "name": "Mrs",
+    "country": "Japan",
+    "principal": "Lynne Brundell",
+    "founded_year": 1951,
+    "constructor_points": 341
+  },
+  {
+    "team_id": 383,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Kirby Creech",
+    "founded_year": 2006,
+    "constructor_points": 453
+  },
+  {
+    "team_id": 82,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Renee Espinal",
+    "founded_year": 2004,
+    "constructor_points": 22
+  },
+  {
+    "team_id": 195,
+    "name": "Honorable",
+    "country": "France",
+    "principal": "Jessey Rijkeseis",
+    "founded_year": 2002,
+    "constructor_points": 439
+  },
+  {
+    "team_id": 74,
+    "name": "Honorable",
+    "country": "Portugal",
+    "principal": "Maynord Linturn",
+    "founded_year": 1942,
+    "constructor_points": 627
+  },
+  {
+    "team_id": 289,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Fletch Masson",
+    "founded_year": 1942,
+    "constructor_points": 354
+  },
+  {
+    "team_id": 273,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Blythe Cranna",
+    "founded_year": 1954,
+    "constructor_points": 756
+  },
+  {
+    "team_id": 747,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Alanson Gaskin",
+    "founded_year": 1959,
+    "constructor_points": 239
+  },
+  {
+    "team_id": 115,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Persis Carillo",
+    "founded_year": 1908,
+    "constructor_points": 521
+  },
+  {
+    "team_id": 951,
+    "name": "Mr",
+    "country": "Poland",
+    "principal": "Dory Barbara",
+    "founded_year": 1947,
+    "constructor_points": 778
+  },
+  {
+    "team_id": 74,
+    "name": "Mr",
+    "country": "Albania",
+    "principal": "Alena Hatliffe",
+    "founded_year": 1952,
+    "constructor_points": 101
+  },
+  {
+    "team_id": 891,
+    "name": "Mrs",
+    "country": "Mongolia",
+    "principal": "Adrianna McKevany",
+    "founded_year": 1958,
+    "constructor_points": 438
+  },
+  {
+    "team_id": 834,
+    "name": "Mrs",
+    "country": "Ukraine",
+    "principal": "Wilburt Lazarus",
+    "founded_year": 1918,
+    "constructor_points": 408
+  },
+  {
+    "team_id": 752,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Neilla Syncke",
+    "founded_year": 1983,
+    "constructor_points": 881
+  },
+  {
+    "team_id": 890,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Miguela Tarling",
+    "founded_year": 1983,
+    "constructor_points": 428
+  },
+  {
+    "team_id": 434,
+    "name": "Ms",
+    "country": "Bangladesh",
+    "principal": "Shandy Extall",
+    "founded_year": 1943,
+    "constructor_points": 378
+  },
+  {
+    "team_id": 50,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Zaria Corfield",
+    "founded_year": 1988,
+    "constructor_points": 563
+  },
+  {
+    "team_id": 264,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Bessy de Courcey",
+    "founded_year": 1972,
+    "constructor_points": 330
+  },
+  {
+    "team_id": 816,
+    "name": "Rev",
+    "country": "Finland",
+    "principal": "Emlyn Room",
+    "founded_year": 1900,
+    "constructor_points": 712
+  },
+  {
+    "team_id": 734,
+    "name": "Mrs",
+    "country": "Colombia",
+    "principal": "Lyon Booth-Jarvis",
+    "founded_year": 2014,
+    "constructor_points": 169
+  },
+  {
+    "team_id": 703,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Christie Shenfish",
+    "founded_year": 2022,
+    "constructor_points": 107
+  },
+  {
+    "team_id": 687,
+    "name": "Honorable",
+    "country": "Greece",
+    "principal": "Owen Foulgham",
+    "founded_year": 2017,
+    "constructor_points": 867
+  },
+  {
+    "team_id": 323,
+    "name": "Rev",
+    "country": "Portugal",
+    "principal": "Ellary Ronnay",
+    "founded_year": 1943,
+    "constructor_points": 955
+  },
+  {
+    "team_id": 570,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Jobye Frohock",
+    "founded_year": 1920,
+    "constructor_points": 487
+  },
+  {
+    "team_id": 229,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Alberto De Lascy",
+    "founded_year": 2012,
+    "constructor_points": 265
+  },
+  {
+    "team_id": 180,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Bertha Faithfull",
+    "founded_year": 2015,
+    "constructor_points": 674
+  },
+  {
+    "team_id": 356,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Elsie Starkey",
+    "founded_year": 1948,
+    "constructor_points": 775
+  },
+  {
+    "team_id": 263,
+    "name": "Mrs",
+    "country": "Pakistan",
+    "principal": "Sigrid Lemin",
+    "founded_year": 1976,
+    "constructor_points": 214
+  },
+  {
+    "team_id": 422,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Taylor Weaving",
+    "founded_year": 1920,
+    "constructor_points": 511
+  },
+  {
+    "team_id": 721,
+    "name": "Honorable",
+    "country": "France",
+    "principal": "Cristie Dofty",
+    "founded_year": 1999,
+    "constructor_points": 438
+  },
+  {
+    "team_id": 40,
+    "name": "Mrs",
+    "country": "Sweden",
+    "principal": "Ky Andreacci",
+    "founded_year": 2006,
+    "constructor_points": 625
+  },
+  {
+    "team_id": 617,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Etan Newarte",
+    "founded_year": 1955,
+    "constructor_points": 282
+  },
+  {
+    "team_id": 312,
+    "name": "Ms",
+    "country": "Ethiopia",
+    "principal": "Mavra Stockin",
+    "founded_year": 1987,
+    "constructor_points": 449
+  },
+  {
+    "team_id": 505,
+    "name": "Dr",
+    "country": "Brazil",
+    "principal": "Livia Camilletti",
+    "founded_year": 1949,
+    "constructor_points": 905
+  },
+  {
+    "team_id": 637,
+    "name": "Mrs",
+    "country": "Colombia",
+    "principal": "Flori Orvis",
+    "founded_year": 2007,
+    "constructor_points": 479
+  },
+  {
+    "team_id": 29,
+    "name": "Dr",
+    "country": "Poland",
+    "principal": "Abbye MacGiffin",
+    "founded_year": 1906,
+    "constructor_points": 247
+  },
+  {
+    "team_id": 720,
+    "name": "Mr",
+    "country": "Azerbaijan",
+    "principal": "Fay Webborn",
+    "founded_year": 1933,
+    "constructor_points": 7
+  },
+  {
+    "team_id": 104,
+    "name": "Dr",
+    "country": "Ireland",
+    "principal": "Carling Philpault",
+    "founded_year": 2003,
+    "constructor_points": 698
+  },
+  {
+    "team_id": 745,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Gabi Fawcitt",
+    "founded_year": 1957,
+    "constructor_points": 50
+  },
+  {
+    "team_id": 676,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Harold Orrobin",
+    "founded_year": 1978,
+    "constructor_points": 714
+  },
+  {
+    "team_id": 756,
+    "name": "Rev",
+    "country": "Kazakhstan",
+    "principal": "Cicely McMaster",
+    "founded_year": 2009,
+    "constructor_points": 827
+  },
+  {
+    "team_id": 328,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Israel Mabbs",
+    "founded_year": 1975,
+    "constructor_points": 655
+  },
+  {
+    "team_id": 328,
+    "name": "Honorable",
+    "country": "Brazil",
+    "principal": "Tricia Napthine",
+    "founded_year": 1959,
+    "constructor_points": 10
+  },
+  {
+    "team_id": 960,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Abagail Penfold",
+    "founded_year": 1918,
+    "constructor_points": 196
+  },
+  {
+    "team_id": 160,
+    "name": "Mr",
+    "country": "Argentina",
+    "principal": "Eldon Penni",
+    "founded_year": 2010,
+    "constructor_points": 52
+  },
+  {
+    "team_id": 984,
+    "name": "Mrs",
+    "country": "Ukraine",
+    "principal": "Carissa Gavahan",
+    "founded_year": 1999,
+    "constructor_points": 736
+  },
+  {
+    "team_id": 247,
+    "name": "Ms",
+    "country": "Russia",
+    "principal": "Rochelle Poser",
+    "founded_year": 1941,
+    "constructor_points": 819
+  },
+  {
+    "team_id": 470,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Sissy Phinnis",
+    "founded_year": 1910,
+    "constructor_points": 659
+  },
+  {
+    "team_id": 113,
+    "name": "Mrs",
+    "country": "Canada",
+    "principal": "Othella Abdey",
+    "founded_year": 1987,
+    "constructor_points": 411
+  },
+  {
+    "team_id": 469,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Gale Bickley",
+    "founded_year": 1972,
+    "constructor_points": 63
+  },
+  {
+    "team_id": 458,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Alejoa Verrier",
+    "founded_year": 1912,
+    "constructor_points": 895
+  },
+  {
+    "team_id": 558,
+    "name": "Honorable",
+    "country": "Tajikistan",
+    "principal": "Dael Brownlow",
+    "founded_year": 1935,
+    "constructor_points": 136
+  },
+  {
+    "team_id": 308,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Elwood Golborne",
+    "founded_year": 2019,
+    "constructor_points": 747
+  },
+  {
+    "team_id": 522,
+    "name": "Mr",
+    "country": "France",
+    "principal": "Fairlie Olivetta",
+    "founded_year": 1933,
+    "constructor_points": 254
+  },
+  {
+    "team_id": 672,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Creighton Mealand",
+    "founded_year": 1934,
+    "constructor_points": 933
+  },
+  {
+    "team_id": 741,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Mace Bazylets",
+    "founded_year": 1917,
+    "constructor_points": 698
+  },
+  {
+    "team_id": 437,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Ursuline Peile",
+    "founded_year": 1921,
+    "constructor_points": 613
+  },
+  {
+    "team_id": 57,
+    "name": "Honorable",
+    "country": "Nepal",
+    "principal": "Neal Lewty",
+    "founded_year": 2001,
+    "constructor_points": 315
+  },
+  {
+    "team_id": 241,
+    "name": "Rev",
+    "country": "Kazakhstan",
+    "principal": "Albertine Keesman",
+    "founded_year": 1943,
+    "constructor_points": 952
+  },
+  {
+    "team_id": 127,
+    "name": "Mr",
+    "country": "Sweden",
+    "principal": "Lindon Jory",
+    "founded_year": 1936,
+    "constructor_points": 450
+  },
+  {
+    "team_id": 779,
+    "name": "Mr",
+    "country": "Philippines",
+    "principal": "Friedrick Samber",
+    "founded_year": 1996,
+    "constructor_points": 226
+  },
+  {
+    "team_id": 197,
+    "name": "Rev",
+    "country": "United States",
+    "principal": "Maridel Parsand",
+    "founded_year": 1935,
+    "constructor_points": 441
+  },
+  {
+    "team_id": 505,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Fania Ledgeway",
+    "founded_year": 1906,
+    "constructor_points": 679
+  },
+  {
+    "team_id": 882,
+    "name": "Honorable",
+    "country": "Russia",
+    "principal": "Luciana Kirsop",
+    "founded_year": 1919,
+    "constructor_points": 307
+  },
+  {
+    "team_id": 908,
+    "name": "Ms",
+    "country": "Portugal",
+    "principal": "Leighton Garron",
+    "founded_year": 2017,
+    "constructor_points": 306
+  },
+  {
+    "team_id": 727,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Jocko Dovidian",
+    "founded_year": 1913,
+    "constructor_points": 13
+  },
+  {
+    "team_id": 265,
+    "name": "Dr",
+    "country": "Peru",
+    "principal": "Broddy Birkin",
+    "founded_year": 1935,
+    "constructor_points": 707
+  },
+  {
+    "team_id": 551,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Ware Feldmann",
+    "founded_year": 1935,
+    "constructor_points": 239
+  },
+  {
+    "team_id": 192,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Fidela Pharaoh",
+    "founded_year": 1989,
+    "constructor_points": 55
+  },
+  {
+    "team_id": 140,
+    "name": "Dr",
+    "country": "Nigeria",
+    "principal": "Flint Morse",
+    "founded_year": 2008,
+    "constructor_points": 278
+  },
+  {
+    "team_id": 212,
+    "name": "Mr",
+    "country": "Serbia",
+    "principal": "Zulema Derye-Barrett",
+    "founded_year": 1984,
+    "constructor_points": 720
+  },
+  {
+    "team_id": 26,
+    "name": "Honorable",
+    "country": "Germany",
+    "principal": "Leif Rangell",
+    "founded_year": 1968,
+    "constructor_points": 216
+  },
+  {
+    "team_id": 898,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Anetta Brennen",
+    "founded_year": 1994,
+    "constructor_points": 230
+  },
+  {
+    "team_id": 574,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Martino Grimsdell",
+    "founded_year": 1948,
+    "constructor_points": 81
+  },
+  {
+    "team_id": 689,
+    "name": "Mrs",
+    "country": "Brazil",
+    "principal": "Ruthanne Aisthorpe",
+    "founded_year": 1936,
+    "constructor_points": 220
+  },
+  {
+    "team_id": 400,
+    "name": "Ms",
+    "country": "France",
+    "principal": "Cynthia Barmadier",
+    "founded_year": 1944,
+    "constructor_points": 36
+  },
+  {
+    "team_id": 969,
+    "name": "Honorable",
+    "country": "Morocco",
+    "principal": "Paulie Scrimgeour",
+    "founded_year": 1900,
+    "constructor_points": 997
+  },
+  {
+    "team_id": 106,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Sue Ansley",
+    "founded_year": 1944,
+    "constructor_points": 448
+  },
+  {
+    "team_id": 305,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Ailyn Duguid",
+    "founded_year": 1993,
+    "constructor_points": 539
+  },
+  {
+    "team_id": 252,
+    "name": "Honorable",
+    "country": "Luxembourg",
+    "principal": "Meggy Lutton",
+    "founded_year": 1987,
+    "constructor_points": 478
+  },
+  {
+    "team_id": 540,
+    "name": "Ms",
+    "country": "Mexico",
+    "principal": "Ethel Pringell",
+    "founded_year": 1992,
+    "constructor_points": 467
+  },
+  {
+    "team_id": 61,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Fayette Culverhouse",
+    "founded_year": 2008,
+    "constructor_points": 363
+  },
+  {
+    "team_id": 824,
+    "name": "Honorable",
+    "country": "Colombia",
+    "principal": "Cyrill Jeandin",
+    "founded_year": 1936,
+    "constructor_points": 5
+  },
+  {
+    "team_id": 619,
+    "name": "Rev",
+    "country": "Nigeria",
+    "principal": "Stacee Meakes",
+    "founded_year": 2018,
+    "constructor_points": 727
+  },
+  {
+    "team_id": 393,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Madelena Dennison",
+    "founded_year": 1920,
+    "constructor_points": 149
+  },
+  {
+    "team_id": 179,
+    "name": "Dr",
+    "country": "Philippines",
+    "principal": "Gorden Blowick",
+    "founded_year": 2000,
+    "constructor_points": 510
+  },
+  {
+    "team_id": 887,
+    "name": "Dr",
+    "country": "Portugal",
+    "principal": "Cirillo Fireman",
+    "founded_year": 1919,
+    "constructor_points": 931
+  },
+  {
+    "team_id": 371,
+    "name": "Mr",
+    "country": "Argentina",
+    "principal": "Joyan Parram",
+    "founded_year": 1951,
+    "constructor_points": 369
+  },
+  {
+    "team_id": 892,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Luigi Chart",
+    "founded_year": 2014,
+    "constructor_points": 669
+  },
+  {
+    "team_id": 923,
+    "name": "Honorable",
+    "country": "South Africa",
+    "principal": "Corissa Shirtliff",
+    "founded_year": 1969,
+    "constructor_points": 344
+  },
+  {
+    "team_id": 370,
+    "name": "Mr",
+    "country": "Russia",
+    "principal": "Celina Wolverson",
+    "founded_year": 1990,
+    "constructor_points": 459
+  },
+  {
+    "team_id": 765,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Georgie Sailor",
+    "founded_year": 1976,
+    "constructor_points": 469
+  },
+  {
+    "team_id": 211,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Lucina Hazelgreave",
+    "founded_year": 2001,
+    "constructor_points": 971
+  },
+  {
+    "team_id": 858,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Benedikt Loughlan",
+    "founded_year": 1923,
+    "constructor_points": 808
+  },
+  {
+    "team_id": 304,
+    "name": "Ms",
+    "country": "United States",
+    "principal": "Jacky Mattiuzzi",
+    "founded_year": 1934,
+    "constructor_points": 864
+  },
+  {
+    "team_id": 853,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Brianna Darrach",
+    "founded_year": 1934,
+    "constructor_points": 227
+  },
+  {
+    "team_id": 329,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Shaughn Impleton",
+    "founded_year": 1939,
+    "constructor_points": 551
+  },
+  {
+    "team_id": 366,
+    "name": "Mrs",
+    "country": "Ecuador",
+    "principal": "Enrico Voules",
+    "founded_year": 2019,
+    "constructor_points": 604
+  },
+  {
+    "team_id": 906,
+    "name": "Ms",
+    "country": "Brazil",
+    "principal": "Josy Matcham",
+    "founded_year": 1980,
+    "constructor_points": 688
+  },
+  {
+    "team_id": 635,
+    "name": "Rev",
+    "country": "Peru",
+    "principal": "Von Huggen",
+    "founded_year": 1950,
+    "constructor_points": 44
+  },
+  {
+    "team_id": 981,
+    "name": "Honorable",
+    "country": "United Kingdom",
+    "principal": "Vilhelmina Bangiard",
+    "founded_year": 1900,
+    "constructor_points": 205
+  },
+  {
+    "team_id": 273,
+    "name": "Dr",
+    "country": "Indonesia",
+    "principal": "Odille Marushak",
+    "founded_year": 2006,
+    "constructor_points": 472
+  },
+  {
+    "team_id": 575,
+    "name": "Rev",
+    "country": "Afghanistan",
+    "principal": "Carey Hymans",
+    "founded_year": 1934,
+    "constructor_points": 746
+  },
+  {
+    "team_id": 395,
+    "name": "Mrs",
+    "country": "Papua New Guinea",
+    "principal": "Barron Tall",
+    "founded_year": 1973,
+    "constructor_points": 101
+  },
+  {
+    "team_id": 450,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Hermione Alp",
+    "founded_year": 1949,
+    "constructor_points": 824
+  },
+  {
+    "team_id": 242,
+    "name": "Rev",
+    "country": "Indonesia",
+    "principal": "Garald Cabena",
+    "founded_year": 1967,
+    "constructor_points": 193
+  },
+  {
+    "team_id": 150,
+    "name": "Mr",
+    "country": "Argentina",
+    "principal": "Jena Hirche",
+    "founded_year": 1962,
+    "constructor_points": 592
+  },
+  {
+    "team_id": 134,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Tally Dover",
+    "founded_year": 1984,
+    "constructor_points": 681
+  },
+  {
+    "team_id": 913,
+    "name": "Dr",
+    "country": "France",
+    "principal": "Horton Doley",
+    "founded_year": 2017,
+    "constructor_points": 680
+  },
+  {
+    "team_id": 185,
+    "name": "Rev",
+    "country": "China",
+    "principal": "Purcell Woofinden",
+    "founded_year": 1908,
+    "constructor_points": 185
+  },
+  {
+    "team_id": 998,
+    "name": "Dr",
+    "country": "Peru",
+    "principal": "Bernard Faier",
+    "founded_year": 2005,
+    "constructor_points": 702
+  },
+  {
+    "team_id": 167,
+    "name": "Ms",
+    "country": "Indonesia",
+    "principal": "Clarisse Rootes",
+    "founded_year": 1916,
+    "constructor_points": 890
+  },
+  {
+    "team_id": 880,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Maude Clewlow",
+    "founded_year": 1955,
+    "constructor_points": 226
+  },
+  {
+    "team_id": 496,
+    "name": "Rev",
+    "country": "Croatia",
+    "principal": "Skipper Ealam",
+    "founded_year": 1902,
+    "constructor_points": 386
+  },
+  {
+    "team_id": 952,
+    "name": "Mr",
+    "country": "Brazil",
+    "principal": "Kimberlyn Davydoch",
+    "founded_year": 1908,
+    "constructor_points": 926
+  },
+  {
+    "team_id": 819,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Homere Poynzer",
+    "founded_year": 1996,
+    "constructor_points": 732
+  },
+  {
+    "team_id": 665,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Pammy Ruhben",
+    "founded_year": 1968,
+    "constructor_points": 385
+  },
+  {
+    "team_id": 408,
+    "name": "Mr",
+    "country": "Albania",
+    "principal": "Indira Maciaszek",
+    "founded_year": 1950,
+    "constructor_points": 589
+  },
+  {
+    "team_id": 682,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Omar Franciskiewicz",
+    "founded_year": 1930,
+    "constructor_points": 684
+  },
+  {
+    "team_id": 741,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Jewel Plose",
+    "founded_year": 2011,
+    "constructor_points": 569
+  },
+  {
+    "team_id": 88,
+    "name": "Rev",
+    "country": "Portugal",
+    "principal": "Rab Pes",
+    "founded_year": 1987,
+    "constructor_points": 20
+  },
+  {
+    "team_id": 188,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Margie Worsham",
+    "founded_year": 1973,
+    "constructor_points": 403
+  },
+  {
+    "team_id": 579,
+    "name": "Mrs",
+    "country": "Japan",
+    "principal": "Liza Ferrara",
+    "founded_year": 2016,
+    "constructor_points": 983
+  },
+  {
+    "team_id": 499,
+    "name": "Dr",
+    "country": "Slovenia",
+    "principal": "Sam Malsher",
+    "founded_year": 1900,
+    "constructor_points": 189
+  },
+  {
+    "team_id": 479,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Annice Udey",
+    "founded_year": 1966,
+    "constructor_points": 953
+  },
+  {
+    "team_id": 462,
+    "name": "Honorable",
+    "country": "Ukraine",
+    "principal": "Kris Paolicchi",
+    "founded_year": 1997,
+    "constructor_points": 140
+  },
+  {
+    "team_id": 109,
+    "name": "Dr",
+    "country": "China",
+    "principal": "Sherie Langabeer",
+    "founded_year": 2001,
+    "constructor_points": 808
+  },
+  {
+    "team_id": 464,
+    "name": "Dr",
+    "country": "Sweden",
+    "principal": "Orlando Clawe",
+    "founded_year": 1930,
+    "constructor_points": 504
+  },
+  {
+    "team_id": 462,
+    "name": "Honorable",
+    "country": "Poland",
+    "principal": "Vail Laurent",
+    "founded_year": 1924,
+    "constructor_points": 917
+  },
+  {
+    "team_id": 782,
+    "name": "Rev",
+    "country": "Philippines",
+    "principal": "Sandor Harniman",
+    "founded_year": 1962,
+    "constructor_points": 26
+  },
+  {
+    "team_id": 497,
+    "name": "Rev",
+    "country": "Brazil",
+    "principal": "Aurora Tancock",
+    "founded_year": 1996,
+    "constructor_points": 246
+  },
+  {
+    "team_id": 98,
+    "name": "Mr",
+    "country": "Guadeloupe",
+    "principal": "Ambrosio Dowzell",
+    "founded_year": 1983,
+    "constructor_points": 367
+  },
+  {
+    "team_id": 491,
+    "name": "Dr",
+    "country": "Russia",
+    "principal": "Kara McElhargy",
+    "founded_year": 1978,
+    "constructor_points": 89
+  },
+  {
+    "team_id": 953,
+    "name": "Mrs",
+    "country": "Albania",
+    "principal": "Tate Turfin",
+    "founded_year": 1983,
+    "constructor_points": 390
+  },
+  {
+    "team_id": 573,
+    "name": "Ms",
+    "country": "Russia",
+    "principal": "Emlynne Rother",
+    "founded_year": 1904,
+    "constructor_points": 776
+  },
+  {
+    "team_id": 650,
+    "name": "Honorable",
+    "country": "Colombia",
+    "principal": "Modestia Rowney",
+    "founded_year": 1953,
+    "constructor_points": 16
+  },
+  {
+    "team_id": 862,
+    "name": "Ms",
+    "country": "Tunisia",
+    "principal": "Dayle Baumler",
+    "founded_year": 1918,
+    "constructor_points": 302
+  },
+  {
+    "team_id": 212,
+    "name": "Dr",
+    "country": "France",
+    "principal": "Marty Matthiae",
+    "founded_year": 1963,
+    "constructor_points": 802
+  },
+  {
+    "team_id": 858,
+    "name": "Rev",
+    "country": "Mongolia",
+    "principal": "Alwin Phipard-Shears",
+    "founded_year": 1930,
+    "constructor_points": 69
+  },
+  {
+    "team_id": 240,
+    "name": "Mrs",
+    "country": "Brazil",
+    "principal": "Cassaundra Phizackerly",
+    "founded_year": 1948,
+    "constructor_points": 721
+  },
+  {
+    "team_id": 379,
+    "name": "Ms",
+    "country": "Canada",
+    "principal": "Der Beadel",
+    "founded_year": 1992,
+    "constructor_points": 175
+  },
+  {
+    "team_id": 915,
+    "name": "Ms",
+    "country": "Tunisia",
+    "principal": "Kara Kiddie",
+    "founded_year": 2001,
+    "constructor_points": 50
+  },
+  {
+    "team_id": 480,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Ebonee Dybald",
+    "founded_year": 2009,
+    "constructor_points": 224
+  },
+  {
+    "team_id": 751,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Bonnie Denidge",
+    "founded_year": 1948,
+    "constructor_points": 625
+  },
+  {
+    "team_id": 72,
+    "name": "Honorable",
+    "country": "Portugal",
+    "principal": "Regan Hambidge",
+    "founded_year": 1993,
+    "constructor_points": 39
+  },
+  {
+    "team_id": 344,
+    "name": "Mr",
+    "country": "Indonesia",
+    "principal": "Putnam ducarme",
+    "founded_year": 2014,
+    "constructor_points": 925
+  },
+  {
+    "team_id": 448,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Clay Ligoe",
+    "founded_year": 2015,
+    "constructor_points": 131
+  },
+  {
+    "team_id": 15,
+    "name": "Rev",
+    "country": "Russia",
+    "principal": "Sheelagh Demougeot",
+    "founded_year": 1991,
+    "constructor_points": 173
+  },
+  {
+    "team_id": 0,
+    "name": "Honorable",
+    "country": "China",
+    "principal": "Rosamond Streeter",
+    "founded_year": 1917,
+    "constructor_points": 428
+  },
+  {
+    "team_id": 809,
+    "name": "Rev",
+    "country": "Czech Republic",
+    "principal": "Dacy Woolfall",
+    "founded_year": 1983,
+    "constructor_points": 808
+  },
+  {
+    "team_id": 651,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Randell Medley",
+    "founded_year": 2017,
+    "constructor_points": 464
+  },
+  {
+    "team_id": 333,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Frasco Cleare",
+    "founded_year": 2006,
+    "constructor_points": 285
+  },
+  {
+    "team_id": 409,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Chester Suttaby",
+    "founded_year": 1952,
+    "constructor_points": 135
+  },
+  {
+    "team_id": 754,
+    "name": "Dr",
+    "country": "Portugal",
+    "principal": "Keelia Langsdon",
+    "founded_year": 1907,
+    "constructor_points": 9
+  },
+  {
+    "team_id": 644,
+    "name": "Mrs",
+    "country": "Indonesia",
+    "principal": "Hobard Bimson",
+    "founded_year": 1973,
+    "constructor_points": 615
+  },
+  {
+    "team_id": 126,
+    "name": "Dr",
+    "country": "Syria",
+    "principal": "Chicky Stanes",
+    "founded_year": 1986,
+    "constructor_points": 604
+  },
+  {
+    "team_id": 976,
+    "name": "Honorable",
+    "country": "Armenia",
+    "principal": "Sandie Ensten",
+    "founded_year": 1909,
+    "constructor_points": 378
+  },
+  {
+    "team_id": 794,
+    "name": "Mr",
+    "country": "China",
+    "principal": "Bamby Bagby",
+    "founded_year": 1970,
+    "constructor_points": 238
+  },
+  {
+    "team_id": 121,
+    "name": "Mrs",
+    "country": "United States",
+    "principal": "Walker Bus",
+    "founded_year": 1934,
+    "constructor_points": 350
+  },
+  {
+    "team_id": 168,
+    "name": "Mrs",
+    "country": "Russia",
+    "principal": "Lorie Strowan",
+    "founded_year": 1969,
+    "constructor_points": 577
+  },
+  {
+    "team_id": 467,
+    "name": "Mrs",
+    "country": "Philippines",
+    "principal": "Brnaba MacAndrew",
+    "founded_year": 1982,
+    "constructor_points": 931
+  },
+  {
+    "team_id": 801,
+    "name": "Rev",
+    "country": "France",
+    "principal": "Consuela Shakesby",
+    "founded_year": 2002,
+    "constructor_points": 513
+  },
+  {
+    "team_id": 475,
+    "name": "Ms",
+    "country": "China",
+    "principal": "Dean Pinkstone",
+    "founded_year": 1932,
+    "constructor_points": 842
+  },
+  {
+    "team_id": 23,
+    "name": "Mrs",
+    "country": "China",
+    "principal": "Darlene Ervin",
+    "founded_year": 1952,
+    "constructor_points": 505
+  },
+  {
+    "team_id": 792,
+    "name": "Mr",
+    "country": "Chile",
+    "principal": "Allyson Bohan",
+    "founded_year": 1935,
+    "constructor_points": 721
+  },
+  {
+    "team_id": 986,
+    "name": "Mr",
+    "country": "Pakistan",
+    "principal": "Marney Faltin",
+    "founded_year": 1985,
+    "constructor_points": 374
+  }
+]
